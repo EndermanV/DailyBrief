@@ -1,0 +1,40 @@
+name: DailyBrief 每日简报推飞书
+on:
+  schedule:
+    # UTC时间，北京时间早上8点 → cron: '0 0 * * *'
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动触发测试
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 设置Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 安装项目依赖
+        run: npm ci
+
+      - name: 生成DailyBrief简报
+        run: npm run daily
+
+      - name: 安装axios（给推送脚本使用）
+        run: npm install axios
+
+      - name: 执行独立飞书推送脚本
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: node feishu_push.js
+
+      # 可选：上传dist产物，可在Action页面下载HTML/MD简报
+      - name: 上传简报产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: brief-result
+          path: ./dist/

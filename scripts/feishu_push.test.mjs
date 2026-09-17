@@ -53,6 +53,9 @@ test('pushes the dated report and rejects webhook failures or missing reports', 
     }
     assert.doesNotMatch(card, /HTML|已截断/);
     assert.ok(messages[0].card.elements.some(element => element.tag === 'hr'));
+    assert.ok(messages[0].card.elements.some(element => element.text?.tag === 'lark_md' && element.text.content === '**01 · Technology**'));
+    assert.ok(messages[0].card.elements.some(element => element.tag === 'note' && element.elements[0].content === 'Source'));
+    assert.equal(messages[0].card.header.subtitle.content, date);
     reply = { code: 19024, msg: 'keyword missing' };
     result = await run(date);
     assert.equal(result.code, 1, 'HTTP 200 with a Feishu error must fail');

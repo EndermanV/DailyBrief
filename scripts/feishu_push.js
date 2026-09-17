@@ -42,14 +42,17 @@ async function main() {
         }
     }
     const elements = [];
-    function addText(content, url) {
+    function addText(content, url, bold = false) {
         if (!content) return;
         if (typeof content !== 'string') throw new Error('Invalid report text');
         // Plain text prevents news punctuation from becoming broken Markdown.
         // Split exceptionally long fields by Unicode code point, never by bytes.
         const characters = Array.from(content);
         for (let i = 0; i < characters.length; i += 1800) {
-            const element = { tag: 'div', text: { tag: 'plain_text', content: characters.slice(i, i + 1800).join('') } };
+            const text = characters.slice(i, i + 1800).join('');
+            const escaped = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+                .replace(/([\\`*_\[\]~])/g, '\\$1');
+            const element = { tag: 'div', text: { tag: bold ? 'lark_md' : 'plain_text', content: bold ? `**${escaped}**` : text } };
             if (i === 0 && url) {
                 try {
                     const target = new URL(url);
@@ -64,7 +67,7 @@ async function main() {
     function heading(title) {
         elements.push({ tag: 'hr' }, { tag: 'div', text: { tag: 'lark_md', content: `**${title}**` } });
     }
-    addText(report.hero_headline);
+    addText(report.hero_headline, undefined, true);
     if (report.daily_overview) {
         heading(STR.overview);
         addText(report.daily_overview);
@@ -72,7 +75,12 @@ async function main() {
     for (const [name, briefs] of sections) {
         if (!briefs.length) continue;
         heading(`${name} · ${briefs.length}`);
-        briefs.forEach((item, index) => addText(`${index + 1}. ${item.title}\n\n${item.summary}\n\n${item.source}`, item.url));
+        briefs.forEach((item, index) => {
+            if (index > 0) elements.push({ tag: 'hr' });
+            addText(`${String(index + 1).padStart(2, '0')} · ${item.title}`, item.url, true);
+            addText(item.summary);
+            elements.push({ tag: 'note', elements: [{ tag: 'plain_text', content: item.source }] });
+        });
     }
     if (report.editor_note) {
         heading(STR.editor);
@@ -89,7 +97,8 @@ async function main() {
         card: {
             config: { wide_screen_mode: true },
             header: {
-                title: { tag: "plain_text", content: `${STR.title} · ${date}${page}` },
+                title: { tag: "plain_text", content: `${STR.title}${page}` },
+                subtitle: { tag: 'plain_text', content: date },
                 template: "blue",
             },
             elements: items,

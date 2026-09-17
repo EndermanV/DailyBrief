@@ -3,6 +3,8 @@
 飞书推送已接入原版 `.github/workflows/daily.yml`，Actions 中名称为
 `Daily Brief`。同一次运行只生成一次简报，发布 GitHub Pages 后再发送飞书卡片。
 沿用原版的定时、时区、补跑和手动触发机制，不再运行独立飞书工作流。
+默认 `REPORT_TZ=Asia/Shanghai`、`REPORT_HOUR=9`，仓库 Variables 可覆盖。
+原版提前一小时补跑和目标小时内两次检查仍保留，因此不是严格 09:00 单次推送。
 
 在仓库 **Settings → Secrets and variables → Actions** 中配置：
 
@@ -33,6 +35,17 @@ Actions 无法使用本机的 Claude CLI 登录状态，请选择 API 后端。
 当前脚本不支持机器人的签名校验。
 
 本地重推已有报告（不重新调用 LLM）：
+
+也可在 GitHub Actions 中打开 `Daily Brief`，点击 `Run workflow`：
+
+- `mode=generate-and-push`：生成并推送，默认选项；定时任务仍走此流程。
+- `mode=push-only`：只重推已有报告；`report_date` 必填，例如 `2026-09-17`。
+
+仅推送模式从 `gh-pages` 读取该日期 JSON，不抓取新闻、不调用模型、不发布 Pages。
+日期无效、报告不存在或 webhook 未配置会报错。重复运行会再次发送消息。
+卡片使用所选代码分支的当前样式，正文使用历史报告内容。
+
+本地命令：
 
 ```sh
 npm run feishu-push -- 2026-09-17

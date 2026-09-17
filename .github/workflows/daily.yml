@@ -242,7 +242,6 @@ jobs:
           # Actions Variable if you want a different set.
           DISABLE_SOURCE_IDS: ${{ vars.DISABLE_SOURCE_IDS || 'linuxdo' }}
           WEB_MODE: 'true'
-          OUTPUT_MARKDOWN: 'true'
         run: npm run daily
 
       - name: Build static site (index + archive)
@@ -261,6 +260,7 @@ jobs:
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           REPORT_TZ: ${{ vars.REPORT_TZ }}
+          REPORT_LOCALE: ${{ vars.REPORT_LOCALE || 'zh' }}
         run: |
           if [ -n "$FEISHU_WEBHOOK" ]; then
             npm run feishu-push

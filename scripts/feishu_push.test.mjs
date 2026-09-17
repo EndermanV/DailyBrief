@@ -35,12 +35,24 @@ test('pushes the dated report and rejects webhook failures or missing reports', 
     const date = '2026-09-17';
     const dir = path.join(cwd, 'daily_reports', date);
     await mkdir(dir, { recursive: true });
-    await writeFile(path.join(dir, `${date}.md`), '# Daily brief\n\nToday only');
+    const report = {
+      hero_headline: 'Today headline', daily_overview: 'Today only',
+      tech_briefs: [{ title: 'Technology', summary: 'Full technology summary', source: 'Source', url: 'https://example.com/tech' }],
+      finance_briefs: [],
+      politics_briefs: [{ title: 'Complete politics title', summary: 'Complete politics summary', source: 'News', url: 'https://example.com/politics' }],
+      editor_note: 'Editor perspective', keywords: ['AI', 'Markets'],
+    };
+    await writeFile(path.join(dir, `${date}.json`), JSON.stringify(report));
     let result = await run(date);
     assert.equal(result.code, 0, result.output);
-    assert.equal(messages.length, 1, 'must read daily_reports/<date>/<date>.md and send');
+    assert.equal(messages.length, 1, 'must read the JSON digest and send a self-contained card');
     assert.equal(messages[0].msg_type, 'interactive');
-    assert.match(messages[0].card.elements[0].text.content, /Today only/);
+    const card = JSON.stringify(messages[0]);
+    for (const value of ['Today only', 'Complete politics title', 'Complete politics summary', 'Editor perspective', 'https://example.com/politics']) {
+      assert.ok(card.includes(value), `card must include ${value}`);
+    }
+    assert.doesNotMatch(card, /HTML|已截断/);
+    assert.ok(messages[0].card.elements.some(element => element.tag === 'hr'));
     reply = { code: 19024, msg: 'keyword missing' };
     result = await run(date);
     assert.equal(result.code, 1, 'HTTP 200 with a Feishu error must fail');
@@ -51,6 +63,31 @@ test('pushes the dated report and rejects webhook failures or missing reports', 
     const count = messages.length;
     assert.equal((await run('2026-09-18')).code, 1, 'missing report must fail');
     assert.equal(messages.length, count, 'must not send an older report');
+    status = 200;
+    report.politics_briefs = Array.from({ length: 25 }, (_, i) => ({
+      title: `Politics ${i}`, summary: '完整摘要。'.repeat(180), source: 'News', url: `https://example.com/${i}`,
+    }));
+    await writeFile(path.join(dir, `${date}.json`), JSON.stringify(report));
+    const start = messages.length;
+    result = await run(date);
+    assert.equal(result.code, 0, result.output);
+    const pages = messages.slice(start);
+    assert.ok(pages.length > 1, 'large reports must be split without truncation');
+    for (const page of pages) assert.ok(Buffer.byteLength(JSON.stringify(page)) <= 24000);
+    const content = pages.flatMap(page => page.card.elements).map(element => element.text?.content || '').join('\n');
+    for (const brief of report.politics_briefs) {
+      assert.ok(content.includes(brief.title));
+      assert.ok(content.includes(brief.summary));
+    }
+    report.politics_briefs = [{ title: 'Long story', summary: 'Long complete sentence. '.repeat(1000), source: 'News', url: 'javascript:alert(1)' }];
+    await writeFile(path.join(dir, `${date}.json`), JSON.stringify(report));
+    const longStart = messages.length;
+    assert.equal((await run(date)).code, 0);
+    const longCards = messages.slice(longStart);
+    const longContent = longCards.flatMap(page => page.card.elements).map(element => element.text?.content || '').join('');
+    assert.ok(longContent.includes(report.politics_briefs[0].summary), 'long fields must survive splitting intact');
+    assert.doesNotMatch(JSON.stringify(longCards), /javascript:/);
+    for (const card of longCards) assert.ok(Buffer.byteLength(JSON.stringify(card)) <= 24000);
   } finally {
     server.closeAllConnections();
     await new Promise(resolve => server.close(resolve));

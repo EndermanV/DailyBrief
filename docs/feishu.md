@@ -20,10 +20,14 @@
 `LLM_API_KEY` Secret 和 `LLM_BASE_URL` Variable。
 Actions 无法使用本机的 Claude CLI 登录状态，请选择 API 后端。
 
-流程会开启 `OUTPUT_MARKDOWN=true`，生成
-`daily_reports/<date>/<date>.md`，再发送飞书交互卡片。
-卡片保留原脚本的 2400 字符上限，超出部分截断；完整 HTML 可在 GitHub Pages
-查看，Markdown、JSON 同时保存在 `gh-pages` 分支的日期目录下。
+推送直接读取 `daily_reports/<date>/<date>.json`，不依赖 Markdown 或 HTML。
+卡片包含日期、头条、今日概览、科技动态、财经速递、时政观察、编辑观察和关键词；
+空板块自动省略，每条新闻保留标题、完整摘要、来源及可直接打开的“原文”按钮。
+内容来自已生成的精选简报，不额外调用模型，也不附带网页中的原始新闻列表或行情表。
+
+通常发送一张卡片。长报告按内容拆成带页码的多张卡片，每张限制在 24 KB 内，
+超长文本分段保留，不截断内容，也不要求读者访问 HTML 报告。
+飞书推送遵循 `REPORT_LOCALE` 的中英文设置。
 推送失败会使本次 Actions 标记为失败，但不撤销已经完成的 Pages 发布。
 机器人若开启关键词校验，关键词需出现在卡片中，例如“每日简报”。
 当前脚本不支持机器人的签名校验。

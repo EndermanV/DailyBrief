@@ -38,6 +38,18 @@
     "notes": "Discourse RSS feed; fetcher falls back to /latest.rss if /top.rss fails"
   },
   {
+    "id": "zeli",
+    "name": "Zeli HN 中文摘要",
+    "type": "rss",
+    "url": "https://zeli.app/zh/rss.xml",
+    "category": "tech",
+    "subcategory": "cn-community",
+    "lang": "zh",
+    "enabled": true,
+    "locales": ["zh"],
+    "notes": "Latest daily digest, expanded into up to 30 HN stories. Overlaps with Hacker News; paper entries are excluded."
+  },
+  {
     "id": "juejin",
     "name": "掘金",
     "type": "rss",
@@ -353,7 +365,7 @@
     "url": "https://feeds.bloomberg.com/markets/news.rss",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -366,7 +378,7 @@
     "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -392,7 +404,7 @@
     "url": "https://www.ft.com/companies?format=rss",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -443,7 +455,7 @@
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -456,7 +468,7 @@
     "url": "https://www.economist.com/finance-and-economics/rss.xml",
     "category": "finance",
     "subcategory": "news",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -496,7 +508,7 @@
     "category": "tech",
     "subcategory": "overseas-community",
     "useCurl": true,
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "en"
     ],
@@ -546,7 +558,7 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -559,7 +571,7 @@
     "url": "https://www.theguardian.com/world/rss",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -572,7 +584,7 @@
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -585,7 +597,7 @@
     "url": "https://feeds.npr.org/1004/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -598,7 +610,7 @@
     "url": "https://rss.dw.com/rdf/rss-chi-all",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
@@ -610,7 +622,7 @@
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
@@ -623,7 +635,7 @@
     "url": "https://thediplomat.com/feed/",
     "category": "politics",
     "subcategory": "world",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"

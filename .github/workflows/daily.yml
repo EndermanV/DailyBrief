@@ -242,6 +242,7 @@ jobs:
           # Actions Variable if you want a different set.
           DISABLE_SOURCE_IDS: ${{ vars.DISABLE_SOURCE_IDS || 'linuxdo' }}
           WEB_MODE: 'true'
+          OUTPUT_MARKDOWN: 'true'
         run: npm run daily
 
       - name: Build static site (index + archive)
@@ -255,3 +256,14 @@ jobs:
           publish_branch: gh-pages
           keep_files: false  # we restored everything above, so a clean publish is fine
           commit_message: 'daily: report for ${{ github.run_id }}'
+
+      - name: Push report to Feishu
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          REPORT_TZ: ${{ vars.REPORT_TZ }}
+        run: |
+          if [ -n "$FEISHU_WEBHOOK" ]; then
+            npm run feishu-push
+          else
+            echo "FEISHU_WEBHOOK is not configured; skipping Feishu push."
+          fi

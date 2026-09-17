@@ -1,13 +1,14 @@
 # 飞书卡片推送
 
-工作流：`.github/workflows/daily-brief-feishu-push.yml`，Actions 中名称为
-`DailyBrief 每日简报推飞书`。默认每天北京时间 08:00 触发，也可手动运行。
+飞书推送已接入原版 `.github/workflows/daily.yml`，Actions 中名称为
+`Daily Brief`。同一次运行只生成一次简报，发布 GitHub Pages 后再发送飞书卡片。
+沿用原版的定时、时区、补跑和手动触发机制，不再运行独立飞书工作流。
 
 在仓库 **Settings → Secrets and variables → Actions** 中配置：
 
 | 类型 | 名称 | 用途 |
 | --- | --- | --- |
-| Secret | `FEISHU_WEBHOOK` | 飞书群自定义机器人的完整 webhook URL |
+| Secret | `FEISHU_WEBHOOK` | 飞书群自定义机器人的完整 webhook URL；未配置时跳过推送 |
 | Secret | `DEEPSEEK_API_KEY` | 默认 DeepSeek 后端的 API Key |
 | Variable | `LLM_BACKEND` | 可选，默认 `deepseek`；也支持 `anthropic`、`openai`、`minimax`、`zhipu` |
 | Variable | `LLM_MODEL` | 可选，使用所选后端的默认模型 |
@@ -21,8 +22,9 @@ Actions 无法使用本机的 Claude CLI 登录状态，请选择 API 后端。
 
 流程会开启 `OUTPUT_MARKDOWN=true`，生成
 `daily_reports/<date>/<date>.md`，再发送飞书交互卡片。
-卡片保留原脚本的 2400 字符上限，超出部分截断；完整 HTML、Markdown、JSON
-可从本次 Actions 的 `brief-result` artifact 下载。推送失败时也会尝试保留产物。
+卡片保留原脚本的 2400 字符上限，超出部分截断；完整 HTML 可在 GitHub Pages
+查看，Markdown、JSON 同时保存在 `gh-pages` 分支的日期目录下。
+推送失败会使本次 Actions 标记为失败，但不撤销已经完成的 Pages 发布。
 机器人若开启关键词校验，关键词需出现在卡片中，例如“每日简报”。
 当前脚本不支持机器人的签名校验。
 
@@ -37,5 +39,5 @@ npm run feishu-push -- 2026-09-17
 
 回归测试：`node --test scripts/feishu_push.test.mjs`。
 
-原有的 `Daily Brief` Pages 工作流仍独立运行；如果只需要飞书，
-可在 Actions 中禁用它，避免两条工作流各自生成简报、重复消耗 API 额度。
+使用前按 README 配好 GitHub Pages（从 `gh-pages` 分支根目录部署）和模型 API Key，
+再添加 `FEISHU_WEBHOOK` Secret。在 Actions 中启用并手动运行 `Daily Brief` 即可。

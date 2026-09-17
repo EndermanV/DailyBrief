@@ -8,6 +8,11 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      REPORT_LOCALE: ${{ vars.REPORT_LOCALE || 'zh' }}
+      REPORT_TZ: ${{ vars.REPORT_TZ }}
+      OUTPUT_MARKDOWN: 'true'
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
@@ -22,19 +27,33 @@ jobs:
         run: npm ci
 
       - name: 生成DailyBrief简报
+        env:
+          LLM_BACKEND: ${{ vars.LLM_BACKEND || 'deepseek' }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          ANTHROPIC_BASE_URL: ${{ vars.ANTHROPIC_BASE_URL }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          DEEPSEEK_BASE_URL: ${{ vars.DEEPSEEK_BASE_URL }}
+          MINIMAX_BASE_URL: ${{ vars.MINIMAX_BASE_URL }}
+          ZHIPU_BASE_URL: ${{ vars.ZHIPU_BASE_URL }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          DISABLE_SOURCE_IDS: ${{ vars.DISABLE_SOURCE_IDS || 'linuxdo' }}
+          WEB_MODE: 'true'
         run: npm run daily
-
-      - name: 安装axios（给推送脚本使用）
-        run: npm install axios
 
       - name: 执行独立飞书推送脚本
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: node feishu_push.js
+        run: npm run feishu-push
 
-      # 可选：上传dist产物，可在Action页面下载HTML/MD简报
       - name: 上传简报产物
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: brief-result
-          path: ./dist/
+          path: ./daily_reports/

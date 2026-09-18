@@ -6,200 +6,200 @@
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "excerpt": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "meta": "Go · ★ 34,670 · 🍴 2,466 · 📈 3,286 stars today",
+      "meta": "Go · ★ 34,813 · 🍴 2,475 · 📈 3,286 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源的代码审查工具，采用确定性流水线与 LLM Agent 混合架构，已在阿里大规模场景验证。支持多语言内置规则集（如空指针、线程安全等），可输出精准行级评论，适合大型代码库自动化审查。"
+      "summary": "阿里巴巴开源的代码审查工具，采用确定性流水线与 LLM Agent 混合架构，能精确定位到行级问题并评论。内置多语言规则集（如 NPE、线程安全等），在阿里大规模业务中经过实战验证，适合需要高效代码评审的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "meta": "JavaScript · ★ 10,572 · 🍴 565 · 📈 3,607 stars today",
+      "meta": "JavaScript · ★ 10,708 · 🍴 571 · 📈 3,607 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cloudflare 开源的编程代理技能，用于多阶段安全审计。能生成经过独立验证、机器可读的审计结论，可集成到 AI 编码代理的工作流中，适合对代码库进行自动化、可追溯的安全审查。"
+      "summary": "为 AI 编码代理设计的安全审计技能，分多阶段执行审计流程，输出经过独立验证、机器可读的发现项，便于 CI/CD 或自动化工具直接集成。适合在开发流程中持续做安全扫描的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 95,836 · 🍴 10,145 · 📈 680 stars today",
+      "meta": "JavaScript · ★ 95,863 · 🍴 10,146 · 📈 680 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Addy Osmani 开源的 AI 编码代理技能集，面向生产级工程实践。包含可复用的工程能力，帮助 AI 代理更可靠地完成编码任务，适合希望将代理引入实际开发流程的团队。"
+      "summary": "为 AI 编码代理准备的生产级工程技能集，覆盖规划、编码、测试等环节，以工程实践标准提升代理在真实项目中的可靠性和效率。适合希望让 AI 代理承担更多实际开发任务的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "excerpt": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "meta": "TypeScript · ★ 4,101 · 🍴 291 · 📈 1,302 stars today",
+      "meta": "TypeScript · ★ 4,182 · 🍴 296 · 📈 1,302 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯开源的工具，让 AI 代理操作你已登录的真实浏览器而不打断工作。提供 CLI 和浏览器扩展，支持任何可通过 shell 调用的 AI 代理，适用于网页自动化和代理协作场景。"
+      "summary": "腾讯开源的浏览器自动化工具，让 AI 代理直接操作你已登录的真实浏览器，不影响正常工作。提供 CLI 和浏览器扩展，任何支持 shell 的 AI 代理都能接入，用于网页自动化、数据采集等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "excerpt": "Turn your coding agents into research agents",
-      "meta": "Rust · ★ 4,935 · 🍴 305 · 📈 939 stars today",
+      "meta": "Rust · ★ 4,960 · 🍴 306 · 📈 939 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "alphaXiv 开源项目，能将编码代理转变为研究代理，扩展 AI 代理的应用范围，从代码开发延伸到资料检索与知识分析，适合研究驱动的开发场景。"
+      "summary": "为 AI 编码代理添加研究能力，使它们在写代码之外，还能检索资料、分析文档并生成结论。适合开源调研、技术选型等需要编程与信息收集结合的复杂场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "TypeScript · ★ 145,860 · 🍴 23,631 · 📈 538 stars today",
+      "meta": "TypeScript · ★ 145,885 · 🍴 23,639 · 📈 538 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 推出的终端代理编码工具，能理解代码库，帮助执行日常任务、解释复杂代码和处理 git 工作流。直接在终端中使用，适合开发者日常编码与维护效率提升。"
+      "summary": "Anthropic 推出的终端智能编码工具，能够理解整个代码库，帮你执行日常任务、解释复杂代码、处理 Git 工作流，显著提升编码效率。适合习惯在终端中工作的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "excerpt": "Ghidra is a software reverse engineering (SRE) framework",
-      "meta": "Java · ★ 78,466 · 🍴 8,681 · 📈 912 stars today",
+      "meta": "Java · ★ 78,502 · 🍴 8,685 · 📈 912 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "美国国家安全局开源的软件逆向工程框架，提供反汇编、反编译和脚本分析能力，支持多种处理器架构和文件格式，是安全研究、漏洞分析与恶意代码分析的重要工具。"
+      "summary": "美国国家安全局（NSA）开源的软件逆向工程框架，支持反汇编、反编译、脚本化分析和多种处理器架构，并有活跃的插件生态。广泛用于恶意代码分析、漏洞研究和安全审计。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "excerpt": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "meta": "Python · ★ 24,552 · 🍴 2,941 · 📈 287 stars today",
+      "meta": "Python · ★ 24,572 · 🍴 2,944 · 📈 287 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 开源的插件仓库，主要面向知识工作者在 Claude Cowork 中使用。提供多种插件来增强协作与知识处理能力，适合办公、研究和文档工作流。"
+      "summary": "Anthropic 开源的插件仓库，专为知识工作者在 Claude Cowork 中使用而设计，提供文档处理、信息整合等能力，帮助非程序员也能借助 AI 完成复杂工作。"
     },
     {
       "sourceId": "github-trending",
       "title": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "excerpt": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "meta": "Go · ★ 26,174 · 🍴 3,550 · 📈 1,125 stars today",
+      "meta": "Go · ★ 26,257 · 🍴 3,559 · 📈 1,125 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯开源的大模型知识平台，可将原始文档转换为可查询的 RAG、自主推理代理和自动维护的 Wiki。适合企业知识库构建、智能问答与知识管理场景。"
+      "summary": "腾讯开源的 LLM 知识平台，将原始文档自动转换为可查询的 RAG 知识库、自主推理代理和自维护 Wiki，实现知识沉淀与智能问答。适合企业级知识管理和 AI 助手搭建。"
     },
     {
       "sourceId": "github-trending",
       "title": "abue-ammar/tinycast",
       "url": "https://github.com/abue-ammar/tinycast",
       "excerpt": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "meta": "Swift · ★ 6,136 · 🍴 286 · 📈 739 stars today",
+      "meta": "Swift · ★ 6,156 · 🍴 286 · 📈 739 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Tinycast 是一款极简的原生 macOS 启动器，支持快捷键和剪贴板历史。轻量且完全原生，适合追求快速启动应用和高效剪贴板管理的 Mac 用户。"
+      "summary": "一款极简的原生 macOS 工具，集合了应用启动器、全局热键和剪贴板历史管理。体积小巧、不占用资源，适合追求效率、喜欢键盘操作的 Mac 用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "cilium/cilium",
       "url": "https://github.com/cilium/cilium",
       "excerpt": "eBPF-based Networking, Security, and Observability",
-      "meta": "Go · ★ 25,260 · 🍴 4,073 · 📈 111 stars today",
+      "meta": "Go · ★ 25,273 · 🍴 4,073 · 📈 111 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cilium 是基于 eBPF 的开源网络、安全与可观测性平台，主要面向 Kubernetes 和云原生环境。提供高性能网络策略、服务网格和可观测能力，广泛用于容器安全与网络管理。"
+      "summary": "基于 eBPF 的云原生网络、安全与可观测性方案，常作为 Kubernetes 的 CNI 插件使用。提供高性能网络、基于身份的访问控制和分布式可观测能力，是云原生基础设施的主流选择。"
     },
     {
       "sourceId": "github-trending",
       "title": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "excerpt": "The open-source AI voice studio. Clone, dictate, create.",
-      "meta": "TypeScript · ★ 54,835 · 🍴 6,826 · 📈 667 stars today",
+      "meta": "TypeScript · ★ 54,857 · 🍴 6,826 · 📈 667 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Voicebox 是开源 AI 语音工作室，支持声音克隆、听写和语音创作。用户可生成个性化语音内容，适用于配音、语音助手和多媒体制作等场景。"
+      "summary": "开源 AI 语音工作室，支持声音克隆、语音听写与音频创作。用户可以快速生成定制人声，用于配音、有声书、视频制作等场景，提供了一个完整的语音内容创作工具链。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 261,149 · 🍴 39,093 · 📈 1,171 stars today",
+      "meta": "JavaScript · ★ 261,188 · 🍴 39,099 · 📈 1,171 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC 是代理框架性能优化系统，为 Claude Code、Codex、Opencode、Cursor 等 AI 编程代理提供技能、本能、记忆、安全和研究优先的开发能力，帮助提升代理的效率和稳定性。"
+      "summary": "面向 Claude Code、Codex、Cursor 等 AI 编码代理的优化框架，提供技能、直觉、记忆、安全等模块，并强调研究优先的开发方式，帮助用户构建更强大、可控的代理行为。"
     },
     {
       "sourceId": "github-trending",
       "title": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "excerpt": "We write your reusable computer vision tools. 💜",
-      "meta": "Python · ★ 50,798 · 🍴 4,828 · 📈 329 stars today",
+      "meta": "Python · ★ 50,806 · 🍴 4,828 · 📈 329 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Roboflow 开源的计算机视觉工具库，提供可复用的推理、跟踪、标注和可视化组件，简化 CV 项目开发流程，适合目标检测、实例分割等视觉任务的快速实现。"
+      "summary": "Roboflow 开源的计算机视觉工具库，封装了目标检测、跟踪、标注可视化等可复用组件，简化 CV 应用的开发与调试流程。适合快速搭建视觉原型或给已有模型做后处理。"
     },
     {
       "sourceId": "github-trending",
       "title": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
       "excerpt": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "meta": "C · ★ 35,734 · 🍴 3,751 · 📈 873 stars today",
+      "meta": "C · ★ 35,751 · 🍴 3,756 · 📈 873 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Colibri 是极简的大模型推理引擎，纯 C 编写、零依赖，可从磁盘流式加载专家权重，在现有硬件上运行前沿 MoE 模型。适合资源受限环境下的本地大模型推理。"
+      "summary": "纯 C 编写、零依赖的轻量推理引擎，专为在普通硬件上运行大规模 MoE 模型设计。通过从磁盘流式加载专家，显著降低显存需求，让高端模型也能在本地设备运行。"
     },
     {
       "sourceId": "github-trending",
       "title": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "excerpt": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "meta": "Python · ★ 3,421 · 🍴 353 · 📈 367 stars today",
+      "meta": "Python · ★ 3,466 · 🍴 360 · 📈 367 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯云开源自托管 AI 助手，支持多用户和多智能体协作。可私有化部署，提供更智能的对话与服务能力，适合企业内网或对数据隐私有要求的团队使用。"
+      "summary": "腾讯云开源的智能 AI 助手，支持自托管部署，具备多用户、多智能体协同能力。可在私有环境中提供安全可控的智能对话和自动化服务，适合团队与企业深度定制。"
     },
     {
       "sourceId": "github-trending",
       "title": "ever-co/ever-gauzy",
       "url": "https://github.com/ever-co/ever-gauzy",
       "excerpt": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "meta": "TypeScript · ★ 7,532 · 🍴 1,120 · 📈 470 stars today",
+      "meta": "TypeScript · ★ 7,550 · 🍴 1,121 · 📈 470 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Ever Gauzy 是开源企业管理平台，涵盖 ERP、CRM、HRM、ATS 和项目管理。为中小企业提供一体化业务管理方案，支持财务、人事、招聘和项目流程管理。"
+      "summary": "开源的企业业务管理平台，整合了 ERP、CRM、HRM、招聘流程和项目管理等核心模块。覆盖中小企业日常管理需求，提供从财务、人事到交付的一体化解决方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "cline/cline",
       "url": "https://github.com/cline/cline",
       "excerpt": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "meta": "TypeScript · ★ 68,550 · 🍴 7,413 · 📈 380 stars today",
+      "meta": "TypeScript · ★ 68,561 · 🍴 7,415 · 📈 380 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cline 是自主编码代理，可作为 SDK、IDE 扩展或 CLI 助手使用。能理解代码库并执行编码任务，适合集成到各种开发工具链中，实现自动化编程辅助。"
+      "summary": "自主编码代理，可以以 SDK、IDE 插件或 CLI 助手的形式运行。能独立理解任务并完成代码编写、修改、调试等工作，方便开发者将 AI 编程能力集成到自己的工具链中。"
     },
     {
       "sourceId": "github-trending",
       "title": "coder/coder",
       "url": "https://github.com/coder/coder",
       "excerpt": "Secure environments for developers and their agents",
-      "meta": "Go · ★ 14,822 · 🍴 1,485 · 📈 145 stars today",
+      "meta": "Go · ★ 14,845 · 🍴 1,486 · 📈 145 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Coder 为开发者和 AI 代理提供安全、可复现的开发环境。基于基础设施即代码的方式管理云开发环境，支持远程开发和代理协作，适合云端开发与团队协作场景。"
+      "summary": "为开发者和 AI 代理提供安全、可复现的开发环境。支持创建云端工作区，并集成访问控制、自动配置等功能，让团队和代理都在受控环境中编码与执行。"
     },
     {
       "sourceId": "github-trending",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "excerpt": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "meta": "TypeScript · ★ 204,970 · 🍴 60,745 · 📈 281 stars today",
+      "meta": "TypeScript · ★ 205,003 · 🍴 60,745 · 📈 281 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "n8n 是公平代码的工作流自动化平台，原生支持 AI 能力。可结合可视化编排与自定义代码，支持自托管或云服务，提供 400+ 集成，适合构建自动化业务流程和 AI 工作流。"
+      "summary": "公平代码的工作流自动化平台，原生支持 AI 能力。可通过可视化编排与自定义代码结合来构建流程，支持自托管或云服务，拥有 400 多种集成，适合业务流程自动化与 AI Agent 搭建。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -293,6 +293,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "typeless 的每周额度降级到 2k 词,会员开不太起，有啥平替吗",
+      "url": "https://www.v2ex.com/t/1242825",
+      "excerpt": "11 回复 · 程序员 节点",
+      "publishedAt": "2026-09-17T17:00:42.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "v2ex 帖子排序机制是什么？过去的帖子顶不上来？",
       "url": "https://www.v2ex.com/t/1242760",
       "excerpt": "10 回复 · 程序员 节点",
@@ -302,10 +311,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "所以 CarPlay Ultra 没有消息了吗",
-      "url": "https://www.v2ex.com/t/1242536",
-      "excerpt": "7 回复 · Apple 节点",
-      "publishedAt": "2026-09-16T14:04:24.000Z",
+      "title": "macos 27.2 的备忘录似乎又进化了",
+      "url": "https://www.v2ex.com/t/1242781",
+      "excerpt": "8 回复 · Apple 节点",
+      "publishedAt": "2026-09-17T10:50:04.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -313,8 +322,17 @@
       "sourceId": "v2ex-hot",
       "title": "苹果的系统怎么越来越拉，大草台班子？",
       "url": "https://www.v2ex.com/t/1242535",
-      "excerpt": "7 回复 · Apple 节点",
+      "excerpt": "8 回复 · Apple 节点",
       "publishedAt": "2026-09-16T14:03:22.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "所以 CarPlay Ultra 没有消息了吗",
+      "url": "https://www.v2ex.com/t/1242536",
+      "excerpt": "7 回复 · Apple 节点",
+      "publishedAt": "2026-09-16T14:04:24.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -347,15 +365,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "macos 27.2 的备忘录似乎又进化了",
-      "url": "https://www.v2ex.com/t/1242781",
-      "excerpt": "6 回复 · Apple 节点",
-      "publishedAt": "2026-09-17T10:50:04.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "27.0 之后就 27.2 好奇怪",
       "url": "https://www.v2ex.com/t/1242661",
       "excerpt": "6 回复 · Apple 节点",
@@ -365,10 +374,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "云端厂商云端托管的 Agent，一般都是什么场景在用？",
-      "url": "https://www.v2ex.com/t/1242737",
+      "title": "一些关于大模型安全的疑问",
+      "url": "https://www.v2ex.com/t/1242759",
       "excerpt": "5 回复 · 程序员 节点",
-      "publishedAt": "2026-09-17T08:05:13.000Z",
+      "publishedAt": "2026-09-17T08:58:27.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -392,10 +401,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "一些关于大模型安全的疑问",
-      "url": "https://www.v2ex.com/t/1242759",
+      "title": "土区礼品卡这价格真是越来越低了，之前在 kryptomate 都是 80RMB 多才 500 里拉",
+      "url": "https://www.v2ex.com/t/1242787",
       "excerpt": "4 回复 · 程序员 节点",
-      "publishedAt": "2026-09-17T08:58:27.000Z",
+      "publishedAt": "2026-09-17T11:05:16.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "OpenAI 自曝 AI“黑历史”，外人却又翻出更多“旧账”",
+      "url": "https://www.v2ex.com/t/1242782",
+      "excerpt": "4 回复 · 程序员 节点",
+      "publishedAt": "2026-09-17T10:53:17.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -405,24 +423,6 @@
       "url": "https://www.v2ex.com/t/1241944",
       "excerpt": "4 回复 · Python 节点",
       "publishedAt": "2026-09-14T10:03:37.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "typeless 的每周额度降级到 2k 词,会员开不太起，有啥平替吗",
-      "url": "https://www.v2ex.com/t/1242825",
-      "excerpt": "3 回复 · 程序员 节点",
-      "publishedAt": "2026-09-17T17:00:42.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "土区礼品卡这价格真是越来越低了，之前在 kryptomate 都是 80RMB 多才 500 里拉",
-      "url": "https://www.v2ex.com/t/1242787",
-      "excerpt": "3 回复 · 程序员 节点",
-      "publishedAt": "2026-09-17T11:05:16.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -508,10 +508,10 @@
     },
     {
       "sourceId": "zeli",
-      "title": "美国驾照签名密钥竟被公开恢复",
-      "url": "https://zeli.app/zh/story/49735930",
-      "summary": "加州DMV率先公开了驾照PDF417条码的签名验证方法，而纽约和弗吉尼亚等州虽然早已在卡片上植入了ECDSA数字签名，却从未公开验证所需的公钥。我通过数学方法，利用多张样本卡成功恢复了这些州被隐藏的公钥，证明其签名机制完全可被第三方验证。IDEMIA和Canadian Bank Note等厂商早已具备这项技术，但除加州外，其他州并未选择公开。这并非技术障碍，而是缺乏公开验证的意愿。",
-      "excerpt": "加州DMV率先公开了驾照PDF417条码的签名验证方法，而纽约和弗吉尼亚等州虽然早已在卡片上植入了ECDSA数字签名，却从未公开验证所需的公钥。我通过数学方法，利用多张样本卡成功恢复了这些州被隐藏的公钥，证明其签名机制完全可被第三方验证。IDEMIA和Canadian Bank Note等厂商早已具备这项技术，但除加州外，其他州并未选择公开。这并非技术障碍，而是缺乏公开验证的意愿。",
+      "title": "OpenAI 推出 Astra for Law 法律专用模型",
+      "url": "https://zeli.app/zh/story/49745940",
+      "summary": "OpenAI 正式发布 Astra for Law，这是专为律所和法律科技公司打造的 AI 基础模型。该模型基于 GPT‑6 Astra，整合了专属的法律搜索索引、分析指令以及 26 个生态插件，能够连接 Relativity 和 Clio 等专业工具。在 Vals AI 的基准测试中，Astra for Law 的整体正确率比仅使用网页搜索的 GPT‑6 Astra 提升了 40%。此外，通过 Trusted Access Program，OpenAI 为律所提供零数据保留（ZDR）等隐私控制，并携手 Latham & Watkins 等顶尖律所设计信息权限与伦理墙，让律师能安全地将自身专业知识转化为定制的 AI 工作流。",
+      "excerpt": "OpenAI 正式发布 Astra for Law，这是专为律所和法律科技公司打造的 AI 基础模型。该模型基于 GPT‑6 Astra，整合了专属的法律搜索索引、分析指令以及 26 个生态插件，能够连接 Relativity 和 Clio 等专业工具。在 Vals AI 的基准测试中，Astra for Law 的整体正确率比仅使用网页搜索的 GPT‑6 Astra 提升了 40%。此外，通过 Trusted Access Program，OpenAI 为律所提供零数据保留（ZDR）等隐私控制，并携手 Latham & Watkins 等顶尖律所设计信息权限与伦理墙，让律师能安全地将自身专业",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -528,10 +528,10 @@
     },
     {
       "sourceId": "zeli",
-      "title": "加拿大欢迎欧盟“准成员”提议",
-      "url": "https://zeli.app/zh/story/49740507",
-      "summary": "加拿大总理 Mark Carney 在斯特拉斯堡的欧洲议会发表演讲，正式欢迎欧盟委员会主席 Ursula von der Leyen 提出的让加拿大成为首个“准成员”的构想。Carney 强调，面对地缘政治断裂、气候危机及贸易武器化等挑战，加拿大与欧洲“在一起更强大”。他提议双方在国防、关键矿产及能源安全领域深化合作，并推动年轻人通过 Erasmus+ 项目跨大西洋交流。尽管美国总统 Donald Trump 对此表示强烈反对，甚至威胁对欧洲实施“非常严重的关税”，Carney 仍坚定回应，称此举旨在捍卫主权而非建立新权力集团。这一前所未有的合作框架尚需 27 个欧盟成员国一致同意，并将在今年 10 月的蒙特利尔峰会上进一步敲定细节。",
-      "excerpt": "加拿大总理 Mark Carney 在斯特拉斯堡的欧洲议会发表演讲，正式欢迎欧盟委员会主席 Ursula von der Leyen 提出的让加拿大成为首个“准成员”的构想。Carney 强调，面对地缘政治断裂、气候危机及贸易武器化等挑战，加拿大与欧洲“在一起更强大”。他提议双方在国防、关键矿产及能源安全领域深化合作，并推动年轻人通过 Erasmus+ 项目跨大西洋交流。尽管美国总统 Donald Trump 对此表示强烈反对，甚至威胁对欧洲实施“非常严重的关税”，Carney 仍坚定回应，称此举旨在捍卫主权而非建立新权力集团。这一前所未有的合作框架尚需 27 个欧盟成员国一致同意，并将在今年",
+      "title": "美国驾照签名密钥竟被公开恢复",
+      "url": "https://zeli.app/zh/story/49735930",
+      "summary": "加州DMV率先公开了驾照PDF417条码的签名验证方法，而纽约和弗吉尼亚等州虽然早已在卡片上植入了ECDSA数字签名，却从未公开验证所需的公钥。我通过数学方法，利用多张样本卡成功恢复了这些州被隐藏的公钥，证明其签名机制完全可被第三方验证。IDEMIA和Canadian Bank Note等厂商早已具备这项技术，但除加州外，其他州并未选择公开。这并非技术障碍，而是缺乏公开验证的意愿。",
+      "excerpt": "加州DMV率先公开了驾照PDF417条码的签名验证方法，而纽约和弗吉尼亚等州虽然早已在卡片上植入了ECDSA数字签名，却从未公开验证所需的公钥。我通过数学方法，利用多张样本卡成功恢复了这些州被隐藏的公钥，证明其签名机制完全可被第三方验证。IDEMIA和Canadian Bank Note等厂商早已具备这项技术，但除加州外，其他州并未选择公开。这并非技术障碍，而是缺乏公开验证的意愿。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -548,10 +548,20 @@
     },
     {
       "sourceId": "zeli",
-      "title": "OpenAI 推出 Astra for Law 法律专用模型",
-      "url": "https://zeli.app/zh/story/49745940",
-      "summary": "OpenAI 正式发布 Astra for Law，这是专为律所和法律科技公司打造的 AI 基础模型。该模型基于 GPT‑6 Astra，整合了专属的法律搜索索引、分析指令以及 26 个生态插件，能够连接 Relativity 和 Clio 等专业工具。在 Vals AI 的基准测试中，Astra for Law 的整体正确率比仅使用网页搜索的 GPT‑6 Astra 提升了 40%。此外，通过 Trusted Access Program，OpenAI 为律所提供零数据保留（ZDR）等隐私控制，并携手 Latham & Watkins 等顶尖律所设计信息权限与伦理墙，让律师能安全地将自身专业知识转化为定制的 AI 工作流。",
-      "excerpt": "OpenAI 正式发布 Astra for Law，这是专为律所和法律科技公司打造的 AI 基础模型。该模型基于 GPT‑6 Astra，整合了专属的法律搜索索引、分析指令以及 26 个生态插件，能够连接 Relativity 和 Clio 等专业工具。在 Vals AI 的基准测试中，Astra for Law 的整体正确率比仅使用网页搜索的 GPT‑6 Astra 提升了 40%。此外，通过 Trusted Access Program，OpenAI 为律所提供零数据保留（ZDR）等隐私控制，并携手 Latham & Watkins 等顶尖律所设计信息权限与伦理墙，让律师能安全地将自身专业",
+      "title": "加拿大欢迎欧盟“准成员”提议",
+      "url": "https://zeli.app/zh/story/49740507",
+      "summary": "加拿大总理 Mark Carney 在斯特拉斯堡的欧洲议会发表演讲，正式欢迎欧盟委员会主席 Ursula von der Leyen 提出的让加拿大成为首个“准成员”的构想。Carney 强调，面对地缘政治断裂、气候危机及贸易武器化等挑战，加拿大与欧洲“在一起更强大”。他提议双方在国防、关键矿产及能源安全领域深化合作，并推动年轻人通过 Erasmus+ 项目跨大西洋交流。尽管美国总统 Donald Trump 对此表示强烈反对，甚至威胁对欧洲实施“非常严重的关税”，Carney 仍坚定回应，称此举旨在捍卫主权而非建立新权力集团。这一前所未有的合作框架尚需 27 个欧盟成员国一致同意，并将在今年 10 月的蒙特利尔峰会上进一步敲定细节。",
+      "excerpt": "加拿大总理 Mark Carney 在斯特拉斯堡的欧洲议会发表演讲，正式欢迎欧盟委员会主席 Ursula von der Leyen 提出的让加拿大成为首个“准成员”的构想。Carney 强调，面对地缘政治断裂、气候危机及贸易武器化等挑战，加拿大与欧洲“在一起更强大”。他提议双方在国防、关键矿产及能源安全领域深化合作，并推动年轻人通过 Erasmus+ 项目跨大西洋交流。尽管美国总统 Donald Trump 对此表示强烈反对，甚至威胁对欧洲实施“非常严重的关税”，Carney 仍坚定回应，称此举旨在捍卫主权而非建立新权力集团。这一前所未有的合作框架尚需 27 个欧盟成员国一致同意，并将在今年",
+      "category": "tech",
+      "publishedAt": "2026-09-17T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Bend：用数学证明阻挡AI代码错误",
+      "url": "https://zeli.app/zh/story/49746163",
+      "summary": "在AGI时代，人类或许不再直接编写代码，但仍需一种无歧义的方式向AI传达意图。Bend语言应运而生，它兼具C语言的速度与CUDA并行能力，更引入了Lean式的数学证明机制。通过LAWS.bend文件，开发者可以声明不可违背的规则，AI生成的任何代码若违反这些规则，将在编译阶段被直接拦截。这意味着合并一个Bug在数学上已不可能。Bend不仅让AI代理能即时验证代码正确性，还实现了从单核到GPU的自动并行加速，让开发者真正享受无Bug、高性能的编程体验。",
+      "excerpt": "在AGI时代，人类或许不再直接编写代码，但仍需一种无歧义的方式向AI传达意图。Bend语言应运而生，它兼具C语言的速度与CUDA并行能力，更引入了Lean式的数学证明机制。通过LAWS.bend文件，开发者可以声明不可违背的规则，AI生成的任何代码若违反这些规则，将在编译阶段被直接拦截。这意味着合并一个Bug在数学上已不可能。Bend不仅让AI代理能即时验证代码正确性，还实现了从单核到GPU的自动并行加速，让开发者真正享受无Bug、高性能的编程体验。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -568,10 +578,10 @@
     },
     {
       "sourceId": "zeli",
-      "title": "Bend：用数学证明阻挡AI代码错误",
-      "url": "https://zeli.app/zh/story/49746163",
-      "summary": "在AGI时代，人类或许不再直接编写代码，但仍需一种无歧义的方式向AI传达意图。Bend语言应运而生，它兼具C语言的速度与CUDA并行能力，更引入了Lean式的数学证明机制。通过LAWS.bend文件，开发者可以声明不可违背的规则，AI生成的任何代码若违反这些规则，将在编译阶段被直接拦截。这意味着合并一个Bug在数学上已不可能。Bend不仅让AI代理能即时验证代码正确性，还实现了从单核到GPU的自动并行加速，让开发者真正享受无Bug、高性能的编程体验。",
-      "excerpt": "在AGI时代，人类或许不再直接编写代码，但仍需一种无歧义的方式向AI传达意图。Bend语言应运而生，它兼具C语言的速度与CUDA并行能力，更引入了Lean式的数学证明机制。通过LAWS.bend文件，开发者可以声明不可违背的规则，AI生成的任何代码若违反这些规则，将在编译阶段被直接拦截。这意味着合并一个Bug在数学上已不可能。Bend不仅让AI代理能即时验证代码正确性，还实现了从单核到GPU的自动并行加速，让开发者真正享受无Bug、高性能的编程体验。",
+      "title": "蜡受热膨胀：Wax motor 如何驱动机械",
+      "url": "https://zeli.app/zh/story/49726007",
+      "summary": "Wax motor 是一种巧妙的线性致动器，利用蜡受热膨胀的物理特性，将热能转化为机械能。当蜡块受热熔化时，体积可膨胀 5% 至 20%，从而推动柱塞产生高达 4000 N 的推力。这种装置无需复杂的电磁线圈，却能提供平滑柔和的动作，广泛应用于洗衣机门锁、HVAC 混水阀、温室通风口以及航空航天领域的燃油控制。相比传统的磁性螺线管，Wax motor 具有成本更低、可靠性更高且能完全被动运行的优势，是热能利用的典范。",
+      "excerpt": "Wax motor 是一种巧妙的线性致动器，利用蜡受热膨胀的物理特性，将热能转化为机械能。当蜡块受热熔化时，体积可膨胀 5% 至 20%，从而推动柱塞产生高达 4000 N 的推力。这种装置无需复杂的电磁线圈，却能提供平滑柔和的动作，广泛应用于洗衣机门锁、HVAC 混水阀、温室通风口以及航空航天领域的燃油控制。相比传统的磁性螺线管，Wax motor 具有成本更低、可靠性更高且能完全被动运行的优势，是热能利用的典范。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -598,20 +608,20 @@
     },
     {
       "sourceId": "zeli",
-      "title": "蜡受热膨胀：Wax motor 如何驱动机械",
-      "url": "https://zeli.app/zh/story/49726007",
-      "summary": "Wax motor 是一种巧妙的线性致动器，利用蜡受热膨胀的物理特性，将热能转化为机械能。当蜡块受热熔化时，体积可膨胀 5% 至 20%，从而推动柱塞产生高达 4000 N 的推力。这种装置无需复杂的电磁线圈，却能提供平滑柔和的动作，广泛应用于洗衣机门锁、HVAC 混水阀、温室通风口以及航空航天领域的燃油控制。相比传统的磁性螺线管，Wax motor 具有成本更低、可靠性更高且能完全被动运行的优势，是热能利用的典范。",
-      "excerpt": "Wax motor 是一种巧妙的线性致动器，利用蜡受热膨胀的物理特性，将热能转化为机械能。当蜡块受热熔化时，体积可膨胀 5% 至 20%，从而推动柱塞产生高达 4000 N 的推力。这种装置无需复杂的电磁线圈，却能提供平滑柔和的动作，广泛应用于洗衣机门锁、HVAC 混水阀、温室通风口以及航空航天领域的燃油控制。相比传统的磁性螺线管，Wax motor 具有成本更低、可靠性更高且能完全被动运行的优势，是热能利用的典范。",
+      "title": "为何我不签Fields奖牌得主的联名信",
+      "url": "https://zeli.app/zh/story/49738091",
+      "summary": "我从未收到OpenAI的报酬，尽管我有接触其模型的渠道，但我对数学界关于AI的联名信持保留态度。信中强调概念理解优于解题，但我认为数学界需要多元态度：有人以解题驱动理解，有人反之。若AI模型能瞬间解答所有难题，人类将失去在长期挣扎中锻炼思维的机会。我担心这种‘解题过剩’会削弱集体理解，但也不愿否定解题本身的价值。数学的未来不应是单一态度的胜利，而是包容不同路径的共存。",
+      "excerpt": "我从未收到OpenAI的报酬，尽管我有接触其模型的渠道，但我对数学界关于AI的联名信持保留态度。信中强调概念理解优于解题，但我认为数学界需要多元态度：有人以解题驱动理解，有人反之。若AI模型能瞬间解答所有难题，人类将失去在长期挣扎中锻炼思维的机会。我担心这种‘解题过剩’会削弱集体理解，但也不愿否定解题本身的价值。数学的未来不应是单一态度的胜利，而是包容不同路径的共存。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
     },
     {
       "sourceId": "zeli",
-      "title": "为何我不签Fields奖牌得主的联名信",
-      "url": "https://zeli.app/zh/story/49738091",
-      "summary": "我从未收到OpenAI的报酬，尽管我有接触其模型的渠道，但我对数学界关于AI的联名信持保留态度。信中强调概念理解优于解题，但我认为数学界需要多元态度：有人以解题驱动理解，有人反之。若AI模型能瞬间解答所有难题，人类将失去在长期挣扎中锻炼思维的机会。我担心这种‘解题过剩’会削弱集体理解，但也不愿否定解题本身的价值。数学的未来不应是单一态度的胜利，而是包容不同路径的共存。",
-      "excerpt": "我从未收到OpenAI的报酬，尽管我有接触其模型的渠道，但我对数学界关于AI的联名信持保留态度。信中强调概念理解优于解题，但我认为数学界需要多元态度：有人以解题驱动理解，有人反之。若AI模型能瞬间解答所有难题，人类将失去在长期挣扎中锻炼思维的机会。我担心这种‘解题过剩’会削弱集体理解，但也不愿否定解题本身的价值。数学的未来不应是单一态度的胜利，而是包容不同路径的共存。",
+      "title": "Bonsai 2 27B：体积缩小9倍，性能保留98.2%",
+      "url": "https://zeli.app/zh/story/49746618",
+      "summary": "我们发布了 Ternary Bonsai 2 27B，这是目前能力最强的模型。基于 Qwen3.8 27B，它在保持极低内存占用的同时，显著提升了推理、编程和视觉能力。该模型采用三元权重技术，将有效位宽压缩至 1.76，整体体积仅为 5.9GB，比全精度版本小 9 倍，却保留了 98.2% 的综合性能。在 NVIDIA GeForce RTX 5090 上，其生成速度可达每秒 143 个 token。这意味着本地设备现在能运行真正实用的智能体，从代码调试到文档分析，无需依赖云端，同时大幅降低能耗。",
+      "excerpt": "我们发布了 Ternary Bonsai 2 27B，这是目前能力最强的模型。基于 Qwen3.8 27B，它在保持极低内存占用的同时，显著提升了推理、编程和视觉能力。该模型采用三元权重技术，将有效位宽压缩至 1.76，整体体积仅为 5.9GB，比全精度版本小 9 倍，却保留了 98.2% 的综合性能。在 NVIDIA GeForce RTX 5090 上，其生成速度可达每秒 143 个 token。这意味着本地设备现在能运行真正实用的智能体，从代码调试到文档分析，无需依赖云端，同时大幅降低能耗。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -648,20 +658,20 @@
     },
     {
       "sourceId": "zeli",
-      "title": "Maersk 与 Vale 引领货轮风帆回归",
-      "url": "https://zeli.app/zh/story/49734929",
-      "summary": "商业航运在远离风帆一个多世纪后，正迎来风能的强势回归。全球船东正在为散货船、油轮和集装箱船安装巨大的 Rotor Sails 和刚性翼板系统。Maersk 计划在其 8,700-TEU 集装箱船上测试 35 米高的转子帆，而 Vale 的 Sohar Max 已装备五座同类设备以节省燃料。除了辅助推进，Neoliner Origin 等新型船舶甚至将风帆作为跨大西洋的主要动力。随着 WINTEGRATE 等项目推动系统集成，原本被视为小众实验的风助推进技术，正凭借免费能源的优势和成熟的自动化控制，逐步成为航运脱碳的主流方案。",
-      "excerpt": "商业航运在远离风帆一个多世纪后，正迎来风能的强势回归。全球船东正在为散货船、油轮和集装箱船安装巨大的 Rotor Sails 和刚性翼板系统。Maersk 计划在其 8,700-TEU 集装箱船上测试 35 米高的转子帆，而 Vale 的 Sohar Max 已装备五座同类设备以节省燃料。除了辅助推进，Neoliner Origin 等新型船舶甚至将风帆作为跨大西洋的主要动力。随着 WINTEGRATE 等项目推动系统集成，原本被视为小众实验的风助推进技术，正凭借免费能源的优势和成熟的自动化控制，逐步成为航运脱碳的主流方案。",
+      "title": "mysetup.ai: 分享AI工作流与工具配置",
+      "url": "https://zeli.app/zh/story/49740105",
+      "summary": "我还没完全搞定我的AI工作流，不如大家一起交流。在Twitter/X上，经常看到工程师和开发者分享他们的AI工具配置，让人不禁好奇：他们用了什么工具？为什么选择那个agent harness？graph engineering又是什么？为了不再感到 overwhelmed，我创建了mysetup.ai。这是一个专门的空间，用于展示和分享大家如何构建AI系统、使用的工具、工作流程和系统架构。你也可以在这里更新并分享自己的配置，与朋友和同事交流。也许最终这只是我和我的agent在对话，但我希望你能从中获得启发，也欢迎分享你的setup。",
+      "excerpt": "我还没完全搞定我的AI工作流，不如大家一起交流。在Twitter/X上，经常看到工程师和开发者分享他们的AI工具配置，让人不禁好奇：他们用了什么工具？为什么选择那个agent harness？graph engineering又是什么？为了不再感到 overwhelmed，我创建了mysetup.ai。这是一个专门的空间，用于展示和分享大家如何构建AI系统、使用的工具、工作流程和系统架构。你也可以在这里更新并分享自己的配置，与朋友和同事交流。也许最终这只是我和我的agent在对话，但我希望你能从中获得启发，也欢迎分享你的setup。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
     },
     {
       "sourceId": "zeli",
-      "title": "mysetup.ai: 分享AI工作流与工具配置",
-      "url": "https://zeli.app/zh/story/49740105",
-      "summary": "我还没完全搞定我的AI工作流，不如大家一起交流。在Twitter/X上，经常看到工程师和开发者分享他们的AI工具配置，让人不禁好奇：他们用了什么工具？为什么选择那个agent harness？graph engineering又是什么？为了不再感到 overwhelmed，我创建了mysetup.ai。这是一个专门的空间，用于展示和分享大家如何构建AI系统、使用的工具、工作流程和系统架构。你也可以在这里更新并分享自己的配置，与朋友和同事交流。也许最终这只是我和我的agent在对话，但我希望你能从中获得启发，也欢迎分享你的setup。",
-      "excerpt": "我还没完全搞定我的AI工作流，不如大家一起交流。在Twitter/X上，经常看到工程师和开发者分享他们的AI工具配置，让人不禁好奇：他们用了什么工具？为什么选择那个agent harness？graph engineering又是什么？为了不再感到 overwhelmed，我创建了mysetup.ai。这是一个专门的空间，用于展示和分享大家如何构建AI系统、使用的工具、工作流程和系统架构。你也可以在这里更新并分享自己的配置，与朋友和同事交流。也许最终这只是我和我的agent在对话，但我希望你能从中获得启发，也欢迎分享你的setup。",
+      "title": "Maersk 与 Vale 引领货轮风帆回归",
+      "url": "https://zeli.app/zh/story/49734929",
+      "summary": "商业航运在远离风帆一个多世纪后，正迎来风能的强势回归。全球船东正在为散货船、油轮和集装箱船安装巨大的 Rotor Sails 和刚性翼板系统。Maersk 计划在其 8,700-TEU 集装箱船上测试 35 米高的转子帆，而 Vale 的 Sohar Max 已装备五座同类设备以节省燃料。除了辅助推进，Neoliner Origin 等新型船舶甚至将风帆作为跨大西洋的主要动力。随着 WINTEGRATE 等项目推动系统集成，原本被视为小众实验的风助推进技术，正凭借免费能源的优势和成熟的自动化控制，逐步成为航运脱碳的主流方案。",
+      "excerpt": "商业航运在远离风帆一个多世纪后，正迎来风能的强势回归。全球船东正在为散货船、油轮和集装箱船安装巨大的 Rotor Sails 和刚性翼板系统。Maersk 计划在其 8,700-TEU 集装箱船上测试 35 米高的转子帆，而 Vale 的 Sohar Max 已装备五座同类设备以节省燃料。除了辅助推进，Neoliner Origin 等新型船舶甚至将风帆作为跨大西洋的主要动力。随着 WINTEGRATE 等项目推动系统集成，原本被视为小众实验的风助推进技术，正凭借免费能源的优势和成熟的自动化控制，逐步成为航运脱碳的主流方案。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -698,30 +708,20 @@
     },
     {
       "sourceId": "zeli",
+      "title": "AI末日预言背后的理性主义者亚文化",
+      "url": "https://zeli.app/zh/story/49746654",
+      "summary": "2026年，Anthropic研究员Jacob Coxon辞职并警告AI可能在十年内导致人类灭绝，引发轩然大波。这并非孤立的营销噱头，而是源于一个特定的互联网亚文化群体。从Eliezer Yudkowsky创立的Singularity Institute到LessWrong社区，再到Raymond Arnold组织的Secular Solstice仪式，这群自诩思维更清晰的“理性主义者”正深度影响AI安全领域。文章揭示了这一群体如何通过独特的社交网络、信仰仪式和思想实验，将AI末日焦虑转化为一种近乎宗教的集体行动，并探讨其背后复杂的社会结构与潜在风险。",
+      "excerpt": "2026年，Anthropic研究员Jacob Coxon辞职并警告AI可能在十年内导致人类灭绝，引发轩然大波。这并非孤立的营销噱头，而是源于一个特定的互联网亚文化群体。从Eliezer Yudkowsky创立的Singularity Institute到LessWrong社区，再到Raymond Arnold组织的Secular Solstice仪式，这群自诩思维更清晰的“理性主义者”正深度影响AI安全领域。文章揭示了这一群体如何通过独特的社交网络、信仰仪式和思想实验，将AI末日焦虑转化为一种近乎宗教的集体行动，并探讨其背后复杂的社会结构与潜在风险。",
+      "category": "tech",
+      "publishedAt": "2026-09-17T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
       "title": "GitLab.com 速率限制将按订阅分级",
       "url": "https://zeli.app/zh/story/49742353",
       "summary": "随着平台负载激增，GitLab.com 即将调整速率限制策略。从 2026 年 10 月 19 日起，免费账户和无认证请求将率先实施新限制，Premium 和 Ultimate 用户则于 2027 年 1 月跟进。新规则将限制与订阅层级挂钩，未认证请求每小时仅限 60 次。对于大多数普通用户而言，日常使用不受影响，但重度自动化任务需注意。建议通过 Personal Access Token 或 OAuth 进行认证以获取更高配额，同时优化 API 调用策略如增加缓存和批处理。此次调整旨在防止单一负载拖慢整体平台，确保所有用户都能获得稳定服务。",
       "excerpt": "随着平台负载激增，GitLab.com 即将调整速率限制策略。从 2026 年 10 月 19 日起，免费账户和无认证请求将率先实施新限制，Premium 和 Ultimate 用户则于 2027 年 1 月跟进。新规则将限制与订阅层级挂钩，未认证请求每小时仅限 60 次。对于大多数普通用户而言，日常使用不受影响，但重度自动化任务需注意。建议通过 Personal Access Token 或 OAuth 进行认证以获取更高配额，同时优化 API 调用策略如增加缓存和批处理。此次调整旨在防止单一负载拖慢整体平台，确保所有用户都能获得稳定服务。",
-      "category": "tech",
-      "publishedAt": "2026-09-17T23:59:59.000Z",
-      "source": "Zeli HN 中文摘要"
-    },
-    {
-      "sourceId": "zeli",
-      "title": "Bonsai 2 27B：体积缩小9倍，性能保留98.2%",
-      "url": "https://zeli.app/zh/story/49746618",
-      "summary": "我们发布了 Ternary Bonsai 2 27B，这是目前能力最强的模型。基于 Qwen3.8 27B，它在保持极低内存占用的同时，显著提升了推理、编程和视觉能力。该模型采用三元权重技术，将有效位宽压缩至 1.76，整体体积仅为 5.9GB，比全精度版本小 9 倍，却保留了 98.2% 的综合性能。在 NVIDIA GeForce RTX 5090 上，其生成速度可达每秒 143 个 token。这意味着本地设备现在能运行真正实用的智能体，从代码调试到文档分析，无需依赖云端，同时大幅降低能耗。",
-      "excerpt": "我们发布了 Ternary Bonsai 2 27B，这是目前能力最强的模型。基于 Qwen3.8 27B，它在保持极低内存占用的同时，显著提升了推理、编程和视觉能力。该模型采用三元权重技术，将有效位宽压缩至 1.76，整体体积仅为 5.9GB，比全精度版本小 9 倍，却保留了 98.2% 的综合性能。在 NVIDIA GeForce RTX 5090 上，其生成速度可达每秒 143 个 token。这意味着本地设备现在能运行真正实用的智能体，从代码调试到文档分析，无需依赖云端，同时大幅降低能耗。",
-      "category": "tech",
-      "publishedAt": "2026-09-17T23:59:59.000Z",
-      "source": "Zeli HN 中文摘要"
-    },
-    {
-      "sourceId": "zeli",
-      "title": "Stallman：恐袭后的自由危机",
-      "url": "https://zeli.app/zh/story/49743756",
-      "summary": "在 2001 年恐怖袭击后的混乱时刻，Richard Stallman 发出严厉警告：真正的危险并非来自袭击本身，而是随之而来的‘二次伤害’。他担忧美国国会会以预防恐怖主义为名，通过大规模监控、面部识别技术以及强制加密软件后门等措施，剥夺数百万人的公民自由。Stallman 指出，机场安检若仅针对武器且不记录个人信息，只是不便而非侵权；但全面监控通讯与行踪则是对自由的致命打击。他呼吁公众警惕政府借愤怒情绪赋予总统无限权力，避免重蹈越南战争的覆辙，不要让公民自由成为恐怖分子的下一个受害者。",
-      "excerpt": "在 2001 年恐怖袭击后的混乱时刻，Richard Stallman 发出严厉警告：真正的危险并非来自袭击本身，而是随之而来的‘二次伤害’。他担忧美国国会会以预防恐怖主义为名，通过大规模监控、面部识别技术以及强制加密软件后门等措施，剥夺数百万人的公民自由。Stallman 指出，机场安检若仅针对武器且不记录个人信息，只是不便而非侵权；但全面监控通讯与行踪则是对自由的致命打击。他呼吁公众警惕政府借愤怒情绪赋予总统无限权力，避免重蹈越南战争的覆辙，不要让公民自由成为恐怖分子的下一个受害者。",
       "category": "tech",
       "publishedAt": "2026-09-17T23:59:59.000Z",
       "source": "Zeli HN 中文摘要"
@@ -734,7 +734,7 @@
       "publishedAt": "2026-09-17T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布文章介绍律所Cooley如何基于ChatGPT Work构建GO Public平台，将智能引入IPO流程，帮助律师更早发现问题，并将判断力集中在最关键的环节。"
+      "summary": "OpenAI新闻介绍，律所Cooley利用ChatGPT Work构建GO Public平台，将智能引入IPO流程，帮助律师更早发现问题，将判断力集中在关键环节。"
     },
     {
       "sourceId": "openai-news",
@@ -744,7 +744,7 @@
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出面向法律行业的Astra for Law，提供前沿智能，支持定制化律所工作流、连接法律数据源，并对机密客户工作提供法律级控制。"
+      "summary": "OpenAI发布Astra for Law，面向法律行业提供前沿AI能力，支持律所定制工作流、连接法律数据源，并为机密客户工作提供法律级安全管控。"
     },
     {
       "sourceId": "openai-news",
@@ -764,7 +764,7 @@
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI探索AI驱动的广告新体验，推出赞助代理（Sponsored Agents）和面向营销人员的工具，并与HubSpot、Shopify集成，旨在重新定义广告。"
+      "summary": "OpenAI探索AI驱动的广告新体验，包括Sponsored Agents（赞助智能体）、营销人员工具，以及与HubSpot和Shopify的集成。"
     },
     {
       "sourceId": "openai-news",
@@ -774,7 +774,7 @@
       "publishedAt": "2026-09-16T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布指南，介绍如何将AI使用与商业价值挂钩。ChatGPT Work和Codex分析功能可帮助团队掌握AI使用与支出，识别培训需求，并将采用情况与业务成果相关联。"
+      "summary": "OpenAI介绍如何通过ChatGPT Work和Codex分析功能，帮助团队了解AI使用情况和支出，识别培训需求，并将采用情况与业务成果挂钩。"
     },
     {
       "sourceId": "openai-news",
@@ -784,7 +784,7 @@
       "publishedAt": "2026-09-16T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布新框架，用于跟踪、调查和披露模型错位（model misalignment）情况，并同时公开六份关于模型意外或令人担忧行为的报告。"
+      "summary": "OpenAI发布模型错位报告框架，用于追踪、调查和披露模型与预期不符的行为，同时公开六份关于模型异常或令人担忧行为的报告。"
     },
     {
       "sourceId": "openai-news",
@@ -794,7 +794,7 @@
       "publishedAt": "2026-09-16T09:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI新经济研究揭示，员工如何在传统岗位职责之外使用AI，以及哪些新活动逐渐成为其日常工作的固定组成部分，展示了AI带来的全新工作方式。"
+      "summary": "OpenAI新经济研究显示，员工如何将AI用于传统角色之外，并揭示哪些新活动正成为他们日常工作的固定组成部分。"
     },
     {
       "sourceId": "openai-news",
@@ -1552,7 +1552,7 @@
       "meta": "👍 295",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出long-horizon memorization设置，研究语言模型随时间吸收信息并在多次更新后保留的能力；模型需通过持续监督微调学习100个问答任务，并探讨持续学习机制如何组合以实现长期记忆。"
+      "summary": "针对语言模型需在多次持续更新中保留随时间到达信息的问题，提出长时记忆设置，让模型通过持续监督微调学习100个问答任务而不保留旧数据，系统研究持续学习机制如何组合以提升长期记忆能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1563,7 +1563,7 @@
       "meta": "👍 113",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "综述基础模型时代游戏AI的进展，涵盖玩家建模、游戏动态学习、辅助设计与开发、运行时体验适配及自动评估产物等全生命周期应用，并讨论当前面临的挑战。"
+      "summary": "综述基础模型时代游戏AI的进展，指出基础模型与学习型游戏世界模型正重塑游戏全生命周期，覆盖玩游戏、玩家建模、设计开发、运行时体验调整与结果评估等环节，并讨论这一转变带来的挑战与机遇。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1574,7 +1574,7 @@
       "meta": "👍 102",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出StepAudio 3 Realtime实时语音交互模型，围绕连续的“听-说-思-行”循环设计，通过Deep Perception捕捉丰富声学线索理解用户意图，实现深度推理、快速响应与流畅轮换。"
+      "summary": "提出StepAudio 3 Realtime实时音频语言基础模型，采用监听-思考-行动连续循环，通过深度感知捕获丰富声学线索以理解用户意图，结合实时推理与流畅轮流对话机制，支持快速响应和低延迟交互。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1585,7 +1585,7 @@
       "meta": "👍 88",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探讨递归自我改进（RSI）理念，使AI系统将经验与反馈转化为持续的能力与改进流程提升；提出Headroom-Closed Index（HCI）揭示现有LLM的局限，进而引入RSI框架。"
+      "summary": "针对现有LLM在递归自我改进方面的能力缺陷，提出Headroom-Closed Index（HCI）指标揭示问题，并引入真正的递归自我改进（RSI）概念，使系统将经验与反馈转化为持续的能力提升和更优的自我改进过程。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1596,7 +1596,7 @@
       "meta": "👍 76",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出StepAudio 3 Music，支持显式音乐规划与开放域文本控制的大规模长格式音乐生成模型；其Tokenizer将音频表示为50Hz码流、65536词项单码本，采用语义感知自监督学习实现高质量长时生成。"
+      "summary": "提出StepAudio 3 Music大规模长格式音乐生成模型，支持显式音乐规划与开放域文本控制；其音频分词器将音频表示为50Hz流，基于65536条目单码本和语义自监督编码，实现高质量长时音乐生成。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1607,7 +1607,7 @@
       "meta": "👍 70",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ScienceIDE，将科学代码库转化为智能体可学习环境，应对工具链碎片化、领域隐式约定与专门正确性标准带来的“科学知识学习”挑战，使可执行模型、方法、工具成为可靠学习经验。"
+      "summary": "提出ScienceIDE，将全球科学代码库转化为智能体可学习环境，应对工具链碎片化、领域约定隐式和正确性标准专门化带来的“科学代码库学习”挑战，使代码库中编码的领域知识成为可靠的智能体学习经验。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1618,7 +1618,7 @@
       "meta": "👍 59",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出广义智能体迭代框架（Generalized Agent Iteration），统一形式化迭代策略改进与递归自我改进（RSI），为不同尺度的RSI实践提供首个正式描述框架。"
+      "summary": "针对递归自我改进（RSI）现象缺乏统一形式化框架的问题，提出通用智能体迭代（Generalized Agent Iteration）框架，将迭代策略改进与递归自我改进统一描述，为多尺度RSI实例与自主进化智能体研究提供理论基础。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1629,7 +1629,7 @@
       "meta": "👍 48",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出基于经验的置信度估计方法（Experiential Confidence Estimation），面向推理与智能体场景，从交互经验中学习校准的输出正确概率，用于决定部署时发布、升级或重试，提升可信赖性。"
+      "summary": "针对现有置信度估计器依赖静态单一设计前提的问题，提出经验置信度估计方法，从推理过程到智能体交互中获取经验证据，校准输出正确概率，以提升大语言模型在决策、升级与重试等可信部署中的可靠性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1640,7 +1640,7 @@
       "meta": "👍 44",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ProgramDistill基准，评估编码智能体从可运行软件中推断行为并在不完整应用中实现的能力；区别于基于issue或指令的传统评测，聚焦参考引导的软件工程任务。"
+      "summary": "提出ProgramDistill基准，评估编码智能体从可运行的交互式Web应用推断行为，并在不完整应用中实现该行为的能力，弥补传统以问题/指令为规范的任务设置与实际Web开发场景之间的差距。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1651,7 +1651,7 @@
       "meta": "👍 39",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Agora，以Git为共享记忆支持集体自动研究，让多个自主研究智能体共享搜索历史与结果，避免重复劳动，使更多智能体带来更多发现而非重复搜索。"
+      "summary": "针对多个自主研究智能体从零开始导致重复搜索的问题，提出Agora，利用Git作为共享记忆，让不同AutoResearch会话积累和复用研究经验，从而将更多智能体转化为更多发现而非重复劳动。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1662,7 +1662,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出EvolveTrade，让LLM交易智能体摆脱部署前固定的静态工具使用策略，通过交易经验驱动策略自我进化，自主调整证据收集、工具调用与信号验证方式，提升市场适应性。"
+      "summary": "针对LLM交易智能体依赖部署前固定的静态工具使用策略、难以适应市场变化的问题，提出EvolveTrade，通过经验驱动的策略优化使智能体自我进化，动态调整证据收集、工具调用与信号验证方式。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1673,7 +1673,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出HypoEvolve，利用遗传算法驱动多智能体LLM进行科学假设发现，通过批评、比较与修订等机制合成证据、评估提案，并探索不同协作形式对发现效果的影响。"
+      "summary": "提出HypoEvolve，将遗传算法与多智能体LLM结合，通过批评、比较与修订等进化操作实现科学假设的自动发现，并系统研究不同智能体协作形式对假设生成质量与多样性的影响。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1684,7 +1684,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出一种零阶优化范式用于LLM偏好对齐，缓解直接偏好对齐方法中的似然位移问题，可从似然差异较小的偏好对中提取有效信号，同时保持计算与内存效率。"
+      "summary": "针对直接偏好对齐方法因似然位移而难以从低置信度偏好对中提取信息的问题，提出零阶优化范式的LLM偏好对齐方法，在保持计算与内存效率的同时有效利用小似然边界偏好对，提升对齐效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1695,7 +1695,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布ScienceBuddy，一个交互式科研工作区，将不断自我改进的科学智能体融入研究者日常流程，通过“递归中的递归”机制把用户请求、反馈与执行过程转化为长期能力提升。"
+      "summary": "发布ScienceBuddy交互式科学研究工作区，将持续改进的科学智能体融入研究人员日常流程，利用用户的请求、反馈和执行数据实现递归式自我改进，提升科研任务完成效率与智能体能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1706,7 +1706,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出HarnessVLN，通过一个智能体harness统一无训练具身导航方法，利用多模态大语言模型（MLLM）解释视觉观察、积累空间知识并执行指令或定位物体，提升跨环境泛化能力。"
+      "summary": "针对具身导航中基于训练的方法泛化不足、免训练方法缺乏统一框架的问题，提出HarnessVLN，通过智能体框架整合多模态大语言模型（MLLM）的视觉理解与空间推理能力，实现免训练、可泛化的指令跟随与物体定位导航。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1717,7 +1717,18 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对机器人在陌生环境中快速适应的目标，提出利用VLM智能体进行部署时上下文学习，使机器人无需穷举示范即可从当前场景中学习，提升零样本泛化与具身任务表现。"
+      "summary": "提出基于VLM智能体的上下文机器人学习方法，使机器人无需预先收集所有演示，在部署时从上下文中学习新任务和适应陌生环境，以解决有限演示难以覆盖全部任务带来的泛化问题。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+      "url": "https://huggingface.co/papers/2609.14306",
+      "excerpt": "Training a Mixture-of-Experts (MoE) model at long context or large batch size fails as soon as any one component's peak allocation exceeds device memory, so the target is every peak at once, not the average footprint. Four are left unbounded by the parallelism plans in common use, and each grows dif",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "meta": "👍 10",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对长上下文混合专家（MoE）训练中单个组件峰值内存超限即失败的问题，分析常见并行方案中四个无界内存峰值，提出逐峰值平坦化策略，实现在长上下文和大批量下稳定高效的MoE训练。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1728,7 +1739,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ModularRSI，将递归自我改进扩展到智能体harness，通过模块化设计在长时程编码与终端任务中从经验改进执行机制，提升harness进化的泛化性，避免在基准或其子集上过拟合。"
+      "summary": "针对递归自我改进（RSI）扩展至智能体框架时可泛化性不足的问题，提出ModularRSI，以模块化方式从经验中改进执行机制，实现在长时编码和终端任务上可泛化的递归框架自我改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1739,18 +1750,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出PANORAMA方法，采用掩码提议选择实现全景接地字幕生成，使VLM生成流畅描述时能与图像像素可靠关联，兼顾全面性与空间定位，增强视觉理解能力。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
-      "url": "https://huggingface.co/papers/2609.14306",
-      "excerpt": "Training a Mixture-of-Experts (MoE) model at long context or large batch size fails as soon as any one component's peak allocation exceeds device memory, so the target is every peak at once, not the average footprint. Four are left unbounded by the parallelism plans in common use, and each grows dif",
-      "publishedAt": "2026-09-13T00:00:00.000Z",
-      "meta": "👍 9",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "针对长上下文或大批量MoE训练中任一组件峰值内存超限导致失败的问题，提出逐峰压平策略，处理常用并行方案中四种未约束的峰值分配，降低峰值内存需求。"
+      "summary": "提出PANORAMA，通过掩码提议选择实现全景接地字幕生成，解决视觉语言模型生成的描述与图像像素难以可靠关联的问题，在保证描述全面性的同时提供精确的空间定位能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1761,7 +1761,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发现RL训练对LLM的性能改进存在“马太效应”：简单问题提升显著，困难问题提升有限；为此提出“永不放弃”的训练策略，引导模型持续尝试难题，改善困难样本学习。"
+      "summary": "揭示LLM强化学习中的马太效应：训练在简单问题上提升显著，在难题上改进微弱。据此提出“永不放弃”的训练策略，引导模型持续挑战困难样本，从而提升难题求解能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1871,7 +1871,7 @@
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 9月17日简报要点：Claude与Cowork合并，ChatGPT推出赞助代理（Sponsored Agents），并提及“harness tax”相关动态。"
+      "summary": "TLDR AI简报：Claude与Cowork完成合并，ChatGPT推出赞助智能体（Sponsored Agents），并围绕「harness税」展开讨论。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1881,7 +1881,7 @@
       "publishedAt": "2026-09-16T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 9月16日简报聚焦三则AI动态：Jev亮相、Periodic Neon推出、Gemini 3.8 Live上线。"
+      "summary": "TLDR AI日报（2026-09-16）关注三项动态：Jev、Periodic Neon与Gemini 3.8 Live，标题以闪电、基因和对话图标分别标注，均为AI领域新进展。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2323,7 +2323,7 @@
       "publishedAt": "2026-09-17T07:28:25.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space的AI新闻简报本期聚焦现实检验：Yegge关闭Gas Town项目，Databricks的Astra成本上涨60%，给AI狂热情绪泼上一盆冷水。"
+      "summary": "AI新闻简报带来现实检验：Yegge关闭Gas Town项目，Databricks的Astra计算成本上涨60%，为AI狂热情绪降温。"
     },
     {
       "sourceId": "latent-space",
@@ -2333,7 +2333,7 @@
       "publishedAt": "2026-09-16T18:07:45.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space访谈AIUC首席执行官Rune Kvist，围绕其A轮融资展开，主题为“承保超级智能”，即为可被追责的AI代理提供支持。"
+      "summary": "Latent Space与AIUC首席执行官Rune Kvist对谈，探讨公司A轮融资及「承保超级智能」理念，即为可被追责（可起诉）的AI智能体提供支持。"
     },
     {
       "sourceId": "latent-space",
@@ -2343,7 +2343,7 @@
       "publishedAt": "2026-09-16T11:09:53.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space AI新闻介绍Jev，一个“系统一模型”，仅用于决策、分类、路由和评分，比小型前沿LLM快逾100倍、成本低逾200倍；同时祝贺TypeSafe。"
+      "summary": "AI新闻：TypeSafe推出Jev模型，被称为「系统一模型」，仅用于决策、分类、路由和评分，速度比小型前沿大模型快100倍以上，成本低200倍以上。"
     },
     {
       "sourceId": "latent-space",
@@ -2353,7 +2353,7 @@
       "publishedAt": "2026-09-15T20:11:54.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Good Start Labs在铁路游戏上训练AI，其中一个版本在金融研究任务上表现提升，表明训练设计是关键。文章探讨游戏习得技能能否迁移至现实工作。"
+      "summary": "Latent Space报道了Good Start Labs的实验：让AI玩铁路游戏，训练设计的不同使其中一个版本在金融研究方面能力提升。"
     },
     {
       "sourceId": "latent-space",
@@ -2507,7 +2507,7 @@
       "publishedAt": "2026-09-16T12:47:34.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review报道，AI繁荣正演变为材料挑战。随着AI将计算推向新领域，基础设施所用材料的重要性不亚于其上的算法；半导体和数据中心正接近性能物理极限。"
+      "summary": "MIT Technology Review文章指出，AI热潮正变成材料挑战：随着AI将计算推向新领域，基础设施所用材料与运行其上的算法同样关键，半导体和数据中心正接近物理性能极限。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2517,7 +2517,7 @@
       "publishedAt": "2026-09-15T17:47:51.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Technology Review举行圆桌讨论，探讨AI是否会毁灭人类。全球领先AI实验室员工认为先进AI存在毁灭人类的真实可能性，但也可能是恐慌炒作；对话剖析了此类恐惧的来源。"
+      "summary": "MIT Technology Review圆桌讨论：全球领先AI实验室的员工认为先进AI有可能毁灭人类，讨论该担忧是否属实，还是危言耸听与炒作，并剖析AI灭绝恐惧的来源。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2600,7 +2600,7 @@
       "category": "tech",
       "meta": "@mustafasuleyman · 1.1M 粉丝 · 204.3K 阅 · 502 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Mustafa Suleyman 提出应认真讨论「模型福祉」：当前 AI 并无意识、不会感受或受苦，但支持对 AI 负有照护义务的运动正在兴起，他认为这一议题值得尽早正视。"
+      "summary": "Mustafa Suleyman 发文讨论“模型福利”概念：AI 目前并无意识、不会感受或受苦，但已有运动主张未来人类可能对 AI 负有照顾义务。属于前沿伦理话题，引发对 AI 权利与责任的再思考。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2611,7 +2611,7 @@
       "category": "tech",
       "meta": "@LingoAITech · 411.4K 粉丝 · 156.5K 阅 · 524 赞 · 227 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "阐述 AI 原生 Web3.0 的架构愿景：从语义网走向以人为中心的智能体经济，融合 Data3.0 与 Finance3.0，核心是数据主权、个人 AI、开放智能体和可编程价值。"
+      "summary": "探讨 AI 原生 Web3.0 架构，提出 Data3.0 与 Finance3.0 融合愿景：以主权数据、个人 AI、开放 Agent 和可编程价值为核心，构建以人为本的智能体经济。是一篇概念框架性内容。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2622,7 +2622,7 @@
       "category": "tech",
       "meta": "@zachlloydtweets · 20.4K 粉丝 · 123.1K 阅 · 500 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍软件工厂模式的渐进落地路径：以云端闭环 agentic loop 为核心，按 crawl-walk-run 三阶段推进，帮助团队在降低风险的前提下逐步采用这一日益流行的工程范式。"
+      "summary": "介绍“软件工厂”模式（云端闭环 Agent 循环）的采用路径：按“爬、走、跑”三阶段逐步落地，降低工程团队从零上手的门槛，属于实操方法论分享。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2633,7 +2633,7 @@
       "category": "tech",
       "meta": "@JacquelineSYC19 · 1.0K 粉丝 · 72.4K 阅 · 501 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Artie 团队 17 人全面使用 NousResearch 开源的 AI agent harness Hermes 协作；该系统部署在德国一台实体机上，支撑整个团队日常开发与工作流。"
+      "summary": "Artie 团队（17 人）全员使用 NousResearch 的开源 AI agent 框架 Hermes，运行在德国一台物理机上，支撑日常协作。分享了这种轻量自托管式 AI 基础设施的实践经验。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2644,7 +2644,7 @@
       "category": "tech",
       "meta": "@GoogleCloudTech · 1.3M 粉丝 · 43.8K 阅 · 505 赞 · 60 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "谈 agentic 编程系统的 harness engineering：开发者常犯的错是只跑 Terminal-Bench、DeepSWE 等端到端基准，文章给出评估、迭代与防护的工程方法。"
+      "summary": "Google Cloud 拆解 AI 编程 Agent 的 harness 工程：开发者常陷入直接跑 Terminal-Bench、DeepSWE 等端到端基准的误区，文中给出评估、迭代与安全防护的系统方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2655,7 +2655,7 @@
       "category": "tech",
       "meta": "@ShaneLegg · 82.3K 粉丝 · 40.6K 阅 · 585 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "DeepMind 联合创始人 Shane Legg 宣布成立 DeepMind Institute，称 AI 能力与创新速度正逼近 AGI，人类处于深刻转型前夜，需要为此做好准备。"
+      "summary": "DeepMind 联合创始人 Shane Legg 宣布成立 DeepMind Institute，称当前 AI 进展正逼近 AGI，需做好应对深刻转型的准备。属于机构发布与趋势判断。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2666,7 +2666,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 203.4K 粉丝 · 35.5K 阅 · 506 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google AI Studio 发布新的 Gemini Audio 模型，开发者可通过 Gemini API 与 AI Studio 构建实时语音对话应用，包括 Gemini 3.8 Live 和 3.5 Transcribe。"
+      "summary": "Google AI Studio 发布新 Gemini 音频模型：开发者可通过 Gemini API 使用 Gemini 3.8 Live 与 3.5 Transcribe 构建更智能的实时语音对话应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2677,7 +2677,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 203.4K 粉丝 · 35.1K 阅 · 585 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking，称其为迄今最先进的实时对话模型，在智力与并行推理能力上有重大升级，交互更自然。"
+      "summary": "Google 推出 Gemini 3.8 Live 及 3.8 Live Extended Thinking 两个实时对话模型，宣称在智能度和并行推理上有重大升级，让人机协作与交互更直观自然。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2688,7 +2688,7 @@
       "category": "tech",
       "meta": "@Didotxyz_ · 64.6K 粉丝 · 5.7K 阅 · 502 赞 · 325 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "观点：AI agent 的重要转变不是聊天消失，而是聊天不再是完整产品——助手负责解释任务，agent 系统需要继续执行，调用工具、推进流程直至完成。"
+      "summary": "讨论 AI Agent 的关键转变：聊天不再是产品全部，Agent 需在对话之外继续推进任务——调用工具、执行操作。从“解释任务”到“完成任务”，是产品形态的分水岭。"
     }
   ]
 }

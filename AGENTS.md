@@ -37,7 +37,7 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 
 ## Core invariants
 
-1. **`sources.config.json` is the only place sources live.** `lib/sources/registry.ts` is just a JSON loader + locale filter. Never hardcode a source list in TS.
+1. **`sources.config.json` is the only place sources live.** `lib/sources/registry.ts` is just a JSON loader + locale filter. Source fields: `id`, `name`, `type` (`rss`/`api`/`scrape`), `url`, `category`, `subcategory`, `enabled`, `useCurl`, `lang`, `locales`, `keywords` (optional filter), `dedupDays` (optional cross-day dedup window). Never hardcode a source list in TS.
 
 2. **LLM calls go through `lib/ai/llm.ts` `runLlm()`.** Five backends behind `LLM_BACKEND` env var: `claude-cli` (default), `anthropic`, `openai`, `deepseek`, `minimax`. Never import a specific backend directly — that defeats the switch.
 
@@ -48,6 +48,8 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 5. **Per-source fetch errors are non-fatal.** `scripts/daily.ts` has a try/catch per source. Never `process.exit()` inside a fetcher.
 
 6. **No agent-specific build steps.** No `next build`, no bundling. `tsx` runs TS directly. The HTML is hand-rendered, CSS is inlined string-templated.
+
+7. **Cross-day dedup is config-driven.** Rolling / heat-ranked sources (GitHub Trending, HF trending papers, AttentionVC X viral) repeat the same items across consecutive daily runs (AttentionVC literally queries `window=3d`). Setting `dedupDays: N` on a source makes `scripts/daily.ts` read prior days' article sidecars (`daily_reports/<date>/<date>-articles.json`) via `lib/sources/dedup.ts` and drop any item whose URL already appeared for that source in the last N days. Applied per-source in `fetchAll()`. Fresh daily-news RSS usually leaves it unset.
 
 ## Commands
 
@@ -66,7 +68,7 @@ sources.config.json   # SINGLE SOURCE OF TRUTH for the source registry
 
 ## Adding a source
 
-1. Edit `sources.config.json` — append an entry. Fields: `id` (unique), `name`, `type` (`rss`/`api`/`scrape`), `url`, `category` (`tech`/`finance`/`politics`), optional `subcategory`, `enabled`, `useCurl`, `lang`, `locales`, `notes`.
+1. Edit `sources.config.json` — append an entry. Fields: `id` (unique), `name`, `type` (`rss`/`api`/`scrape`), `url`, `category` (`tech`/`finance`/`politics`), optional `subcategory`, `enabled`, `useCurl`, `lang`, `locales`, `keywords`, `dedupDays`, `notes`.
 2. For non-RSS types: add a fetcher in `lib/sources/<id>.ts` exporting `fetchXxx(sourceId)` returning `RawArticle[]`, then add a branch in `lib/sources/dispatch.ts`.
 3. Run `npm run sources:check` to validate the JSON, then `npm run dry-run` to verify the fetch.
 

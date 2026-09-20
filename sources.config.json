@@ -7,10 +7,12 @@
     "category": "tech",
     "subcategory": "github-trending",
     "enabled": true,
+    "dedupDays": 5,
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "notes": "GitHub Trending 'daily' ranks by stars gained in the last 24h, but hot repos often stay in the top-25 for several days — dedupDays=5 suppresses repos already shown in recent reports."
   },
   {
     "id": "v2ex-hot",
@@ -150,6 +152,7 @@
       "en"
     ],
     "keywords": ["LLM", "agent", "RAG", "reasoning", "coding"],
+    "dedupDays": 5,
     "notes": "Daily trending papers from HuggingFace. Set keywords to filter; empty array or omit for all papers."
   },
   {
@@ -215,7 +218,9 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "dedupDays": 3,
+    "notes": "Viral X/AI posts leaderboard over a rolling 3-day window — the same post can persist up to 3 runs, so dedupDays=3 keeps repeats out of consecutive dailies."
   },
   {
     "id": "solidot",

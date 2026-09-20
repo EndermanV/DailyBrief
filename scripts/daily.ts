@@ -5,6 +5,7 @@ import path from "node:path";
 
 import { sources, REPORT_LOCALE } from "../lib/sources/registry";
 import { fetchSource } from "../lib/sources/dispatch";
+import { loadSeenUrls, dedupItems } from "../lib/sources/dedup";
 import {
   generateDailyReport,
   type ArticleInput,
@@ -35,16 +36,26 @@ const OUTPUT_DIR = "daily_reports";
 async function fetchAll(): Promise<ArticleInput[]> {
   const articles: ArticleInput[] = [];
   const enabled = sources.filter((s) => s.enabled !== false);
+  // Cross-day de-dup: suppress items (trending repos, viral X posts,
+  // trending papers) already shown by the same source in recent reports.
+  const seen = loadSeenUrls(enabled, todayKey());
+  let deduped = 0;
   for (const source of enabled) {
     try {
       const items = await fetchSource(source);
-      console.log(`  ${source.id.padEnd(20)} ${items.length}`);
-      articles.push(...items.map((it) => ({ ...it, source: source.name })));
+      const { kept, dropped } = dedupItems(source, items, seen);
+      deduped += dropped;
+      console.log(
+        `  ${source.id.padEnd(20)} ${kept.length}` +
+          (dropped > 0 ? ` (de-duped ${dropped})` : ``),
+      );
+      articles.push(...kept.map((it) => ({ ...it, source: source.name })));
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
       console.error(`  ${source.id.padEnd(20)} FAILED — ${msg}`);
     }
   }
+  if (deduped > 0) console.log(`[daily] de-duped ${deduped} repeat item(s) against recent reports`);
   return articles;
 }
 

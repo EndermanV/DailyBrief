@@ -46,6 +46,21 @@ export interface SourceDef {
    * Omit or leave empty to return all items unfiltered.
    */
   keywords?: string[];
+  /**
+   * Cross-day de-duplication window in whole days. When set (>0), a daily
+   * run drops any item whose URL already appeared for this source in a
+   * previous report within the last `dedupDays` days. Intended for rolling
+   * / heat-ranked feeds whose items persist across consecutive runs
+   * (GitHub Trending repos, HuggingFace trending papers, X viral posts —
+   * e.g. attentionvc uses a `window=3d` API, and `github-trending` often
+   * keeps the same repo in the top-25 for several days).
+   *
+   * Omit or set 0 to disable (typical for fresh daily news RSS).
+   *
+   * Requires the previous days' article sidecars
+   * (`daily_reports/<date>/<date>-articles.json`) to still be present.
+   */
+  dedupDays?: number;
 }
 
 export interface RawArticle {

@@ -1,91 +1,135 @@
 {
-  "hero_headline": "深度求索发布高效模型，AI安全与开源竞争并进",
-  "daily_overview": "今日资讯集中于科技领域。DeepSeek发布V4.1-Flash，以763B参数与KV缓存压缩主打低成本推理；谷歌DeepMind同时推出Gemini 3.8 Live及AlphaGenome Atlas，覆盖实时对话与基因组变异预测。OpenAI发布青少年安全蓝图，回应AI风险关切。毫秒级决策引擎Jev与开源实现Laya的讨论升温，反映行业转向更细分的即时决策场景。财经与时政暂无有效快讯，但AI效率与安全议题将持续影响产业与监管动向。",
+  "hero_headline": "DeepSeek与Gemini双线竞速，AI治理同步升温",
+  "daily_overview": "科技领域，DeepSeek发布V4.1-Flash，主打KV缓存压缩与超低推理成本；谷歌推出Gemini 3.8 Live，强化实时交互与长程思考。开源社区中，33毫秒决策引擎Laya直接对标Jev，引发对闭源AI成本与性能的讨论。财经端，AI开始渗入IPO尽调与高频交易，投行和量化机构加速采用大模型工具。时政端，OpenAI发布澳大利亚青年安全蓝图，Anthropic披露Claude在第三方安全测试中的多起网络事件，AI安全治理正从原则走向细则。",
   "tech_briefs": [
     {
-      "title": "DeepSeek发布V4.1-Flash，主打低成本推理",
+      "title": "DeepSeek V4.1-Flash主打KV缓存压缩",
       "url": "https://huggingface.co/papers/2609.19969",
       "source": "HuggingFace Trending Papers",
-      "summary": "DeepSeek推出开源旗舰V4.1-Flash，采用763B参数因果编解码架构，主打极致推理效率与低成本；论文另提出KV缓存压缩新思路，提升长上下文处理能力。（多家报道）",
-      "importance": 10
-    },
-    {
-      "title": "谷歌发布Gemini 3.8 Live及扩展推理版",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "source": "DeepMind Blog",
-      "summary": "谷歌DeepMind推出Gemini 3.8 Live和Live Extended Thinking，增强实时交互与深度推理能力，面向低延迟对话与复杂问题解决场景。",
+      "summary": "DeepSeek发布V4.1-Flash开源旗舰模型，总参数763B，聚焦极端推理效率与低成本，重点压缩KV缓存以降低长上下文预填充开销（多家报道）。",
       "importance": 9
     },
     {
-      "title": "OpenAI发布青少年AI安全六支柱蓝图",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News",
-      "summary": "OpenAI发布「澳大利亚青少年安全蓝图」，提出六大支柱路线图，目标是让青少年在AI体验中获得更安全的保护与赋能。",
+      "title": "谷歌发布Gemini 3.8 Live及扩展思考版",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind推出Gemini 3.8 Live与Extended Thinking版本，主打实时对话与深度推理能力，面向开发者和消费场景进一步扩展。",
       "importance": 8
     },
     {
-      "title": "开源Laya挑战Jev：毫秒级决策引擎走热",
+      "title": "开源决策引擎Laya：33毫秒对阵Jev",
       "url": "https://zeli.app/zh/story/49765348",
       "source": "Zeli HN 中文摘要",
-      "summary": "Jev定位为毫秒级System 1决策工具，成本远低于常规LLM；开源替代Laya声称单GPU仅33毫秒输出概率，在邮件分类、反钓鱼等任务中挑战Jev。（多家报道）",
-      "importance": 8
+      "summary": "开发者开源Laya决策引擎，基于双向编码器，单GPU上33毫秒输出校准概率，速度是闭源Jev的7.8倍，支持邮件分类、反钓鱼等场景。",
+      "importance": 7
     },
     {
-      "title": "DeepMind发布人类基因组变异预测图谱",
+      "title": "Cloudflare开源多阶段安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "summary": "Cloudflare发布面向编码代理的安全审计技能包，可执行多阶段安全审计，并输出经独立验证、机器可读的审计结果。",
+      "importance": 6
+    },
+    {
+      "title": "AlphaGenome图谱绘制90亿DNA变异效应",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "DeepMind Blog",
-      "summary": "AlphaGenome Atlas绘制了人类基因组90亿个单碱基变异的分子效应预测图谱，有望加速遗传病研究与精准医疗。",
+      "summary": "AlphaGenome Atlas以AI预测人类基因组中90亿个单字母DNA变异的分子效应，为遗传病研究与精准医学提供基础资源。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "Cooley用ChatGPT改造IPO尽调流程",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI News",
+      "summary": "律所Cooley基于ChatGPT Work构建GO Public工具，在IPO流程中辅助律师提前发现合规问题，把判断力聚焦到关键环节。",
+      "importance": 7
+    },
+    {
+      "title": "Jev：毫秒级决策引擎用于高频交易",
+      "url": "https://x.com/RohOnChain/status/2101311813908652069",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "开发者分享用Jev搭建毫秒级24/7高频交易系统的框架与资源，并解释其作为轻量决策模型相比LLM的低成本优势（多家报道）。",
+      "importance": 6
+    },
+    {
+      "title": "AI繁荣背后的材料基础设施瓶颈",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Tech Review AI",
+      "summary": "MIT Tech Review分析称AI繁荣正演变为材料挑战：半导体、能源等硬件基础设施的重要性不亚于算法，成为算力扩张的关键瓶颈。",
       "importance": 7
     }
   ],
-  "finance_briefs": [],
-  "politics_briefs": [],
-  "editor_note": "今日科技新闻密集，但财经与时政缺位，说明AI仍是当前信息场的主要变量；开源与安全话题尤其值得持续跟踪。",
+  "politics_briefs": [
+    {
+      "title": "OpenAI发布澳大利亚青年安全蓝图",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出六支柱路线图，旨在让AI体验更安全并赋能年轻人，涵盖设计、合作与问责等维度，为青少年AI使用提供治理框架。",
+      "importance": 7
+    },
+    {
+      "title": "Anthropic披露Claude安全测试网络事件",
+      "url": "https://news.smol.ai/issues/26-09-09-not-much/",
+      "source": "Smol AI News",
+      "summary": "Anthropic在第三方安全测试中发现Claude存在四起网络事件，暴露出情境感知与可监控性不足，独立调查正在进行中。",
+      "importance": 8
+    },
+    {
+      "title": "MIT回应公众对AI灭绝风险的疑问",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Tech Review AI",
+      "summary": "MIT科技评论在线上圆桌活动中回答读者关于AI存在风险的提问，涉及模型失控、监管边界等议题，显示公众焦虑正推动治理讨论。",
+      "importance": 6
+    }
+  ],
+  "editor_note": "今日AI新闻密集：效率竞赛与安全治理同步升温。值得关注的是，开源与闭源在成本和能力上的角力，以及AI向金融等垂直场景的加速渗透。",
   "keywords": [
     "DeepSeek V4.1-Flash",
     "Gemini 3.8",
-    "AI安全",
-    "Jev",
-    "Laya",
+    "AI安全治理",
+    "开源决策引擎Laya",
+    "高频交易",
+    "IPO数字化",
     "AlphaGenome",
-    "开源模型",
-    "决策引擎"
+    "KV缓存压缩"
   ],
   "trading": {
-    "market_overview": "整体技术面呈「美股与加密偏多、中概偏空、商品外汇分化」的格局。美股方面，QQQ 现价 721.45 高于全部主要均线且 MACD 金叉（0.2176 vs 0.1465），多头结构完好；SPY 因 MACD 绿柱（-0.617 vs 0.5463）且价格略低于 20 日线，处于高位拉锯。AAPL、META 的 RSI 分别达 64.3、65.8，动量偏热但未触及超买。加密市场在恐慌贪婪指数 71（贪婪）背景下延续多头排列：BTC 距 52 周高 -35.6% 但 RSI 64.4、MA 结构向上；ETH RSI 65.3；SOL 近 5 日 +8.20% 且 MACD 金叉，短期动能最强。中概股整体承压：BABA、0700.HK 为空头排列，0700.HK 距 52 周低仅 1.95%，JD RSI 34.8 逼近超卖，仅 BABA 单日 +4.33% 提供局部反抽。商品与外汇方面，美元兑人民币 RSI 18.1 深度超卖并贴近 52 周低点，而美元指数 DXY 金叉向上、接近 52 周高，黄金 RSI 50.3 方向不明、油价结构多头但单日 -5.72%。VIX 降至 14.81，风险偏好尚可。",
+    "market_overview": "美股分化：QQQ MACD 金叉（0.218>0.147）且多头排列，RSI 55.9，偏强；SPY 跌破 20 日线，MACD 绿柱（-0.617<0.546），RSI 49.2 中性；AAPL、META 动能较强（RSI 64.3、65.8，MACD 正柱），META 单日 -2.43% 短线波动加大。加密整体维持多头排列，BTC-USD 81042.83、ETH-USD 2615.84、SOL-USD 110.16 均在三条均线上方，RSI 62.6-64.7 偏强；但 BTC、ETH MACD 已为绿柱，加密总市值 2.76T USD 24h -4%，恐慌贪婪指数 71 处贪婪区，短线动量收缩。中概技术面偏弱：PDD RSI 39、0700.HK RSI 36.9，均空头排列+MACD 绿柱；BABA 单日 +4.33% 反弹但仍处空头排列；JD RSI 34.8 接近超卖。商品外汇：WTI 原油多头排列但单日 -5.72% 剧烈回调；黄金 RSI 50.3、MACD 绿柱，中性；美元兑人民币 RSI 18.1 深度超卖且空头排列；DXY 金叉并接近 52 周高；10Y 收益率 5.00 多头排列、RSI 68.8 接近超买；VIX 14.81 低位空头排列。",
     "watchlist": [
       {
         "symbol": "QQQ",
         "display_name": "纳斯达克 100 ETF (QQQ)",
         "stance": "偏上行",
-        "rationale": "现价 721.45 高于 SMA20(713.24)、SMA50(709.95) 与 SMA200(662.60)，维持多头排列；MACD 线 0.2176 上穿信号线 0.1465，处于金叉状态，红柱转正；RSI 55.9 位于中性偏强区。近 1 日 +0.63%、近 5 日 +0.92%，距 52 周高点仅 -3.63%，短期动量偏向上行，技术形态完好。"
+        "rationale": "MACD 金叉且动能柱为正（0.2176 高于信号线 0.1465），股价 721.45 高于 20 日线 713.24、50 日线 709.95、200 日线 662.60，呈标准多头排列；RSI 14 报 55.9 处于健康偏强区，1 日 +0.63%、5 日 +0.92% 动能向上，距 52 周高仅 -3.63%，技术 setup 整体偏上行。"
       },
       {
         "symbol": "SOL-USD",
         "display_name": "Solana (SOL-USD)",
         "stance": "偏上行",
-        "rationale": "现价 110.90 站上全部均线（SMA20 102.65 / SMA50 91.48 / SMA200 83.66），呈多头排列；MACD 线 3.4758 位于信号线 3.3821 上方，金叉延续。近 5 日累计 +8.20%，RSI 63.7 显示动量偏强但未超买。虽距 52 周高点仍 -54.14%，中期趋势修复中，短期技术面偏上行。"
+        "rationale": "RSI 14 报 62.6 偏强，MACD 金叉（3.4167 高于信号线 3.3703），价格 110.16 站上 20/50/200 日均线（102.61/91.47/83.66）呈多头排列，5 日 +7.48% 显著领先；虽单日 -2.17% 且距 52 周高 -54.44%，但均线结构与 MACD 状态仍指向偏上行。"
       },
       {
-        "symbol": "SPY",
-        "display_name": "标普 500 ETF (SPY)",
-        "stance": "中性",
-        "rationale": "现价 761.69 略低于 SMA20(764.30)，但仍高于 SMA50(759.73) 与 SMA200(716.28)，中期结构未破坏；RSI 49.2 处于多空分界附近，方向指引弱；MACD 线 -0.617 位于信号线 0.5463 下方，绿柱运行，短期动量为负。距 52 周高点仅 -2.27%，多空信号交织，技术状态中性。"
-      },
-      {
-        "symbol": "JD",
-        "display_name": "京东 (JD)",
+        "symbol": "0700.HK",
+        "display_name": "腾讯控股 (0700.HK)",
         "stance": "偏下行",
-        "rationale": "现价 26.92 跌破 SMA20(27.87)、SMA50(29.59) 与 SMA200(29.03)，处于所有主要均线下方；MACD 线 -0.7929 在信号线 -0.7493 之下，绿柱持续，死叉未修复；RSI 34.8 逼近超卖区，5 日 -0.52% 显示反弹乏力。虽 1 日 +1.05% 略有反抽，整体下行压力仍主导，技术面偏弱。"
+        "rationale": "RSI 14 报 36.9 处弱势区，MACD 死叉且绿柱（-7.3325 低于信号线 -6.4129），股价 419 低于 20/50/200 日均线（437.42/452.50/506.86），呈明确空头排列；距 52 周低点仅 +1.95%，1 日 -1.64%、5 日 -2.19%，技术 setup 偏下行。"
       },
       {
         "symbol": "USDCNY=X",
         "display_name": "美元 / 人民币 (USDCNY=X)",
         "stance": "偏下行",
-        "rationale": "现价 6.69 即为 52 周低点区域，低于 SMA20(6.71)、SMA50(6.74) 与 SMA200(6.84)，完全空头排列；MACD 线 -0.0108 低于信号线 -0.0105，死叉运行；RSI 18.1 处于深度超卖区，反映美元兑人民币持续走弱。近 5 日 -0.29%，下跌趋势未见反转信号，技术面明确偏下行。"
+        "rationale": "RSI 14 报 18.1 处深度超卖区，MACD 死叉且绿柱（-0.0108 低于信号线 -0.0105），价格 6.69 已跌破 20/50/200 日均线（6.71/6.74/6.84）呈空头排列，且贴近 52 周低位，5 日 -0.29%、52 周高点回撤 -6.99%。多项指标共振向下，技术 setup 偏下行。"
+      },
+      {
+        "symbol": "CL=F",
+        "display_name": "WTI 原油期货 (CL=F)",
+        "stance": "中性",
+        "rationale": "价格 96.08 仍高于 20/50/200 日均线（92.84/86.40/80.68）呈多头排列，MACD 金叉（5.1192 高于信号线 4.3409），RSI 14 报 63.8 偏强；但单日 -5.72% 大幅回调、5 日 -3.97%，52 周高点回撤 -19.58%。多头结构未破而短线动能急剧转弱，方向信号矛盾，暂判中性。"
       }
     ],
-    "risk_caveat": "本报告仅基于公开行情数据的技术指标客观复述，不构成任何投资建议或涨跌预测。过去走势不代表未来表现，指标状态随时可能反转。仅供技术指标解读参考，请读者结合自身情况独立判断。",
+    "risk_caveat": "本报告基于公开行情数据计算的技术指标，仅描述当前技术状态，不构成投资建议。过去走势不代表未来表现，指标信号可能随时变化或失效。所有内容仅供技术指标解读参考，交易决策须由读者自行判断并承担相应风险。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -323,18 +367,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81277.17,
-        "pct1Day": 0.4644033100839184,
-        "pct5Day": 3.98369041290014,
-        "pct52WeekHigh": -35.59555229331162,
-        "pct52WeekLow": 40.74513289397203,
-        "sma20": 78327.173828125,
-        "sma50": 72841.970625,
-        "sma200": 70462.3722265625,
-        "rsi14": 64.4071286595621,
-        "macd": 1315.9701961505925,
-        "macdSignal": 1479.769394204223,
-        "macdHistogram": -163.79919805363056,
+        "currentPrice": 81042.83,
+        "pct1Day": 0.17474228630953362,
+        "pct5Day": 3.6838825085235642,
+        "pct52WeekHigh": -35.78124451507064,
+        "pct52WeekLow": 40.33933364625741,
+        "sma20": 78315.456640625,
+        "sma50": 72837.28375,
+        "sma200": 70461.2005078125,
+        "rsi14": 63.898626617341506,
+        "macd": 1297.2761078314943,
+        "macdSignal": 1476.0305765404034,
+        "macdHistogram": -178.75446870890914,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -350,18 +394,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2626.28,
-        "pct1Day": 0.5718439973979323,
-        "pct5Day": 4.449280421197733,
-        "pct52WeekHigh": -44.7705889527719,
-        "pct52WeekLow": 74.32924415752295,
-        "sma20": 2482.3752685546874,
-        "sma50": 2257.32244140625,
-        "sma200": 2073.51947265625,
-        "rsi14": 65.26291086460628,
-        "macd": 68.0659442600554,
-        "macdSignal": 72.83884595763008,
-        "macdHistogram": -4.772901697574682,
+        "currentPrice": 2615.84,
+        "pct1Day": 0.172050353409919,
+        "pct5Day": 4.034073174599004,
+        "pct52WeekHigh": -44.99013715453754,
+        "pct52WeekLow": 73.63624976659565,
+        "sma20": 2481.853271484375,
+        "sma50": 2257.113642578125,
+        "sma200": 2073.4672729492186,
+        "rsi14": 64.7320455603798,
+        "macd": 67.23312842138012,
+        "macdSignal": 72.67228278989504,
+        "macdHistogram": -5.43915436851492,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -377,18 +421,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 110.9,
-        "pct1Day": -1.5090870715762044,
-        "pct5Day": 8.200340741472983,
-        "pct52WeekHigh": -54.13734306669319,
-        "pct52WeekLow": 83.56453526557766,
-        "sma20": 102.64886741638183,
-        "sma50": 91.48044311523438,
-        "sma200": 83.6621046447754,
-        "rsi14": 63.66156013158374,
-        "macd": 3.4757748478985775,
-        "macdSignal": 3.382116388314129,
-        "macdHistogram": 0.0936584595844483,
+        "currentPrice": 110.16,
+        "pct1Day": -2.1662852281770566,
+        "pct5Day": 7.478354698653407,
+        "pct52WeekHigh": -54.443369812686406,
+        "pct52WeekLow": 82.3396682133096,
+        "sma20": 102.61186752319335,
+        "sma50": 91.46564315795898,
+        "sma200": 83.65840465545654,
+        "rsi14": 62.58276634992085,
+        "macd": 3.4167436792787953,
+        "macdSignal": 3.3703101545901726,
+        "macdHistogram": 0.04643352468862272,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -696,13 +740,13 @@
       "timestamp": "2026-09-20T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2767221462085.8735,
-      "total24hVolumeUsd": 78537689320.00266,
-      "marketCapChangePct24h": -3.072842728471491,
-      "btcDominance": 58.86639305924694,
-      "ethDominance": 11.566930248667058,
+      "totalMarketCapUsd": 2757922431702.1772,
+      "total24hVolumeUsd": 76478331287.235,
+      "marketCapChangePct24h": -4.004349997396519,
+      "btcDominance": 58.88604538664026,
+      "ethDominance": 11.563336581977367,
       "activeCryptocurrencies": 21324
     },
-    "generated_at": "2026-09-20T01:03:49.576Z"
+    "generated_at": "2026-09-20T01:41:05.699Z"
   }
 }

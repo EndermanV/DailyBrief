@@ -6,135 +6,150 @@
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "meta": "JavaScript · ★ 16,346 · 🍴 894 · 📈 3,155 stars today",
+      "meta": "JavaScript · ★ 16,404 · 🍴 898 · 📈 3,155 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "面向AI编程代理的多阶段安全审计技能，采用独立验证机制，生成机器可读的审计发现。可将安全审查嵌入agent工作流，在编码阶段自动发现漏洞，降低人工复核成本，适合安全团队、DevSecOps场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "excerpt": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "meta": "HTML · ★ 24,417 · 🍴 1,681 · 📈 859 stars today",
+      "meta": "HTML · ★ 24,434 · 🍴 1,681 · 📈 859 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "开源计算机使用（computer-use）扩展框架，提供跨操作系统的驱动与设备集群，并配套训练、评估和数据生成的基准。用于规模化构建和测试能操纵电脑界面的AI代理，适合对Web/桌面自动化有大规模数据需求的研发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 97,036 · 🍴 10,240 · 📈 556 stars today",
+      "meta": "JavaScript · ★ 97,053 · 🍴 10,241 · 📈 556 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "为AI编码代理提供生产级工程技能，覆盖代码审查、重构、调试等真实开发任务。这些技能可让代理更可靠地处理复杂工程流程，适合希望提升AI编程助手实用性的开发者或团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "coder/coder",
       "url": "https://github.com/coder/coder",
       "excerpt": "Secure environments for developers and their agents",
-      "meta": "Go · ★ 15,620 · 🍴 1,522 · 📈 402 stars today",
+      "meta": "Go · ★ 15,630 · 🍴 1,522 · 📈 402 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "为开发者和AI代理提供安全隔离的开发环境，支持云工作区、SSH远程开发与基础设施即代码管理。解决本地环境不一致、远程协作安全问题，适合团队统一开发环境、安全交付场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "TypeScript · ★ 146,709 · 🍴 23,928 · 📈 483 stars today",
+      "meta": "TypeScript · ★ 146,724 · 🍴 23,933 · 📈 483 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Anthropic出品的终端代理式编程工具，能理解代码库、执行例行任务、解释复杂代码并处理git工作流。开发者可直接在终端中用自然语言操作，提升编码效率，适合日常开发冲刺与大型项目探索。"
     },
     {
       "sourceId": "github-trending",
       "title": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "excerpt": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "meta": "TypeScript · ★ 16,043 · 🍴 2,085 · 📈 472 stars today",
+      "meta": "TypeScript · ★ 16,070 · 🍴 2,089 · 📈 472 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "开源、永久免费的金融市场数据平台，替代昂贵商业服务。支持实时股价追踪、个性化价格提醒、公司深度洞察，所有数据与代码开放。适合个人投资者、量化爱好者自建数据源，不再受制于订阅费。"
     },
     {
       "sourceId": "github-trending",
       "title": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "excerpt": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "meta": "Jupyter Notebook · ★ 4,957 · 🍴 912 · 📈 196 stars today",
+      "meta": "Jupyter Notebook · ★ 4,966 · 🍴 912 · 📈 196 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "高容错、高可扩展的GPU编排与机器学习框架，专为数十亿至万亿参数的大模型训练设计。支持大规模分布式调度、故障恢复，适合AI实验室和云服务商运行千卡级训练集群。"
     },
     {
       "sourceId": "github-trending",
       "title": "docling-project/docling",
       "url": "https://github.com/docling-project/docling",
       "excerpt": "Get your documents ready for gen AI",
-      "meta": "Python · ★ 67,053 · 🍴 4,834 · 📈 129 stars today",
+      "meta": "Python · ★ 67,071 · 🍴 4,833 · 📈 129 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "让文档直接为生成式AI准备的解析与转换工具，支持PDF、Word等格式，输出为模型友好的结构化数据。常用于RAG流水线、知识库构建和文档问答，帮助AI应用快速吸收真实世界文档。"
     },
     {
       "sourceId": "github-trending",
       "title": "cloudflare/quiche",
       "url": "https://github.com/cloudflare/quiche",
       "excerpt": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "meta": "Rust · ★ 12,018 · 🍴 1,115 · 📈 31 stars today",
+      "meta": "Rust · ★ 12,022 · 🍴 1,117 · 📈 31 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Cloudflare实现的QUIC传输协议与HTTP/3库，以Rust编写，性能极高且功能完整。提供加密、拥塞控制和多路复用，适合CDN、边缘网络和高性能客户端/服务器开发，是HTTP/3落地的重要开源方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "asciimoo/hister",
       "url": "https://github.com/asciimoo/hister",
       "excerpt": "Your own search engine",
-      "meta": "Go · ★ 5,227 · 🍴 219 · 📈 420 stars today",
+      "meta": "Go · ★ 5,233 · 🍴 219 · 📈 420 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "可自托管、完全自主的搜索引擎。用户拥有索引数据与搜索结果的完整控制权，可插拔后端，支持定制排序。适合注重隐私、希望脱离大厂搜索依赖的个人或组织部署私有意搜索。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruanyf/weekly",
       "url": "https://github.com/ruanyf/weekly",
       "excerpt": "科技爱好者周刊，每周五发布",
-      "meta": "★ 103,129 · 🍴 4,425 · 📈 98 stars today",
+      "meta": "★ 103,161 · 🍴 4,426 · 📈 98 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "阮一峰维护的科技爱好者周刊，每周五发布。内容涵盖科技资讯、开源工具、行业评论和前沿观点，长期更新，是中文互联网中影响最广的技术周报之一。适合开发者快速追踪科技动态。"
     },
     {
       "sourceId": "github-trending",
       "title": "ZuodaoTech/everyone-can-use-english",
       "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
       "excerpt": "人人都能用英语",
-      "meta": "TypeScript · ★ 37,791 · 🍴 5,208 · 📈 48 stars today",
+      "meta": "TypeScript · ★ 37,812 · 🍴 5,209 · 📈 48 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "开源英语自学项目，提供实用场景练习、发音指导和个性化学习路径，强调“用起来”而非应试。适合非母语职场人士、学生通过碎片化时间有效提升英语沟通能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "excerpt": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "meta": "Python · ★ 25,127 · 🍴 2,994 · 📈 281 stars today",
+      "meta": "Python · ★ 25,134 · 🍴 2,994 · 📈 281 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Anthropic开源的插件库，专为Claude Cowork环境设计，面向知识工作者。提供文档摘要、电子表格处理、数据提取等技能，提升AI助理在办公场景的实用性，适合分析师、研发、运营等岗位使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
       "excerpt": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "meta": "Python · ★ 11,606 · 🍴 742 · 📈 234 stars today",
+      "meta": "Python · ★ 11,613 · 🍴 742 · 📈 234 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "面向微型设备的自动化基础模型，仅2-bit量化、体积8-29MB，支持工具调用、结构化信息抽取和嵌入。可在手机、可穿戴设备、智能家居、机器人、汽车和微控制器上运行，实现本地智能自动化。"
     },
     {
       "sourceId": "github-trending",
       "title": "yynxxxxx/Codex-X",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "excerpt": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "meta": "Rust · ★ 3,394 · 🍴 446 · 📈 32 stars today",
+      "meta": "Rust · ★ 3,403 · 🍴 447 · 📈 32 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "OpenAI Codex桌面端/CLI的可视化管理工具，跨平台支持。可切换Provider/API、同步会话、注入提示词、管理Skills/MCP，并支持TOML配置可视化编辑。适合日常重度使用Codex的开发者和团队统一配置。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -158,7 +173,7 @@
       "sourceId": "v2ex-hot",
       "title": "刚刚发了封措辞严厉的邮件给 ZCode/智谱，要求退款",
       "url": "https://www.v2ex.com/t/1243198",
-      "excerpt": "25 回复 · 程序员 节点",
+      "excerpt": "29 回复 · 程序员 节点",
       "publishedAt": "2026-09-19T12:24:07.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -201,15 +216,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "大家国模都在用什么套餐",
-      "url": "https://www.v2ex.com/t/1243186",
-      "excerpt": "17 回复 · 程序员 节点",
-      "publishedAt": "2026-09-19T11:14:18.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "TG api 我用 google Voice 老申请失败",
       "url": "https://www.v2ex.com/t/1229505",
       "excerpt": "17 回复 · Python 节点",
@@ -246,6 +252,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "为啥很多网，直接登不了？",
+      "url": "https://www.v2ex.com/t/1243230",
+      "excerpt": "13 回复 · 程序员 节点",
+      "publishedAt": "2026-09-19T22:51:36.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "首发日之后, 如何能尽快的拿到 iPhone 18pm",
       "url": "https://www.v2ex.com/t/1242918",
       "excerpt": "13 回复 · Apple 节点",
@@ -264,27 +279,9 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "智谱出大瓜了：偷偷把工作区打包加密上传到阿里云 OSS？",
-      "url": "https://www.v2ex.com/t/1243191",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-09-19T11:43:10.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "为啥很多网，直接登不了？",
-      "url": "https://www.v2ex.com/t/1243230",
-      "excerpt": "9 回复 · 程序员 节点",
-      "publishedAt": "2026-09-19T22:51:36.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "看到一些网友说 18pm 版本",
       "url": "https://www.v2ex.com/t/1243221",
-      "excerpt": "7 回复 · Apple 节点",
+      "excerpt": "8 回复 · Apple 节点",
       "publishedAt": "2026-09-19T15:25:56.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -318,6 +315,24 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "智谱这波偷传用户代码到底有多严重？",
+      "url": "https://www.v2ex.com/t/1243243",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-09-20T01:09:24.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "大模型厂商上传用户 .git 不过是孤注一掷垂死挣扎",
+      "url": "https://www.v2ex.com/t/1243204",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-09-19T13:12:13.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "RustScript: 给你的 Rust 项目带来脚本化功能",
       "url": "https://www.v2ex.com/t/1226459",
       "excerpt": "5 回复 · Rust 节点",
@@ -345,19 +360,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "大模型厂商上传用户 .git 不过是孤注一掷垂死挣扎",
-      "url": "https://www.v2ex.com/t/1243204",
-      "excerpt": "4 回复 · 程序员 节点",
-      "publishedAt": "2026-09-19T13:12:13.000Z",
+      "title": "[开源] CNEquity：自托管 A 股 Parquet 数据湖（日更 / PIT / 防幸存者偏差 / MCP）",
+      "url": "https://www.v2ex.com/t/1241944",
+      "excerpt": "4 回复 · Python 节点",
+      "publishedAt": "2026-09-14T10:03:37.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "[开源] CNEquity：自托管 A 股 Parquet 数据湖（日更 / PIT / 防幸存者偏差 / MCP）",
-      "url": "https://www.v2ex.com/t/1241944",
-      "excerpt": "4 回复 · Python 节点",
-      "publishedAt": "2026-09-14T10:03:37.000Z",
+      "title": "ios27 输入法这大圆角真是难绷",
+      "url": "https://www.v2ex.com/t/1243152",
+      "excerpt": "4 回复 · Apple 节点",
+      "publishedAt": "2026-09-19T06:55:27.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -669,7 +684,7 @@
       "publishedAt": "2026-09-18T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出“澳大利亚青少年安全蓝图”，这是一份六支柱路线图，旨在为青少年提供更安全的AI体验，保护并赋能年轻用户。"
+      "summary": "OpenAI发布澳大利亚青少年安全蓝图，提出以六大支柱为核心的路线图，旨在为青少年提供更安全、更有益的AI体验，同时保护和赋能年轻用户。"
     },
     {
       "sourceId": "openai-news",
@@ -679,7 +694,7 @@
       "publishedAt": "2026-09-17T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "律师事务所Cooley利用ChatGPT Work构建了GO Public工具，将智能引入IPO流程，帮助律师更早发现问题，并将判断力聚焦于关键环节。"
+      "summary": "律师事务所Cooley利用ChatGPT Work构建GO Public平台，将智能引入IPO流程，帮助律师更早发现问题，并将判断力集中在关键环节。该平台有望提升IPO工作整体效率。"
     },
     {
       "sourceId": "openai-news",
@@ -689,7 +704,7 @@
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Astra for Law，为法律领域引入前沿智能，支持定制律所工作流程、连接法律数据源，并为机密客户工作提供法律级安全控制。"
+      "summary": "OpenAI推出面向法律行业的Astra for Law，提供前沿法律智能、定制化律所工作流、连接法律数据源，以及面向保密客户工作的法律级安全管控。"
     },
     {
       "sourceId": "openai-news",
@@ -709,7 +724,7 @@
       "publishedAt": "2026-09-16T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出新的AI驱动广告体验，包括赞助智能体（Sponsored Agents）、面向营销人员的工具，以及与HubSpot和Shopify的集成。"
+      "summary": "OpenAI重新构想AI广告投放方式，推出赞助智能体（Sponsored Agents）、面向营销人员的工具，以及与HubSpot和Shopify的集成等新体验。"
     },
     {
       "sourceId": "openai-news",
@@ -719,7 +734,7 @@
       "publishedAt": "2026-09-16T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Hex借助OpenAI的GPT-6 Astra，使其数据智能体将复杂分析答案转化为交互式可视化报告，让员工乐于分享。"
+      "summary": "OpenAI的GPT-6 Astra帮助数据分析平台Hex的数据智能体，将复杂分析答案转化为员工愿意分享的互动可视化报告，提升了结果呈现效率。"
     },
     {
       "sourceId": "openai-news",
@@ -738,7 +753,7 @@
       "publishedAt": "2026-09-16T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI公布了一套追踪、调查和披露模型错位（misalignment）的框架，并同时发布了六份关于模型意外或令人担忧行为的报告。"
+      "summary": "OpenAI发布模型错位报告框架，用于追踪、调查和披露模型与人类意图不一致的问题，并同时公布六份关于模型异常或令人担忧行为的报告。"
     },
     {
       "sourceId": "openai-news",
@@ -1487,7 +1502,7 @@
       "meta": "👍 95",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长输入密集的长时程智能体负载，提出DeepSeek-V4.1-Flash模型，聚焦KV缓存压缩，降低预填充计算开销并缓解HBM与SSD容量和传输压力，在长上下文推理成本与模型能力之间取得更优平衡。"
+      "summary": "针对长上下文智能体场景预填充计算成本高、KV 缓存占用巨大并挤压 HBM/SSD 带宽的问题，提出 DeepSeek-V4.1-Flash，通过极限 KV 缓存压缩降低存储与数据搬运开销，提升长输入任务的推理效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1498,7 +1513,7 @@
       "meta": "👍 93",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "评估多模态生成模型MiniMax-H3对物理世界的推理能力。该模型在共享潜在框架中将多模态上下文理解与音视频联合生成结合，本文考察其在物理世界理解与跨模态推理上的表现与局限。"
+      "summary": "针对统一文本、图像、视频与音频的多模态生成模型缺乏物理世界推理评测的问题，对 MiniMax-H3 进行系统评估，考察其在共享潜在框架下结合多模态上下文理解与音视频联合生成时，对物理世界的理解与推理能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1509,7 +1524,7 @@
       "meta": "👍 76",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究在线策略蒸馏中的长度膨胀现象：学生回答过长甚至耗尽生成预算。发现基础学生与后训练教师之间的终止token不匹配是重要原因，并在Qwen3、Llama等模型上验证该机制，为缓解长度膨胀提供依据。"
+      "summary": "研究在线策略蒸馏中的响应长度膨胀问题，发现基础学生模型与训练后教师模型的终止符不匹配是重要诱因，导致学生回答过长直至耗尽生成预算；在 Qwen3、Llama 等模型上验证了该机制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1520,7 +1535,7 @@
       "meta": "👍 74",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ScienceIDE，将科学代码库转化为智能体可学习环境，解决工具链碎片化、领域隐式约定与专业正确性标准导致科学知识难以转化为可靠学习经验的问题，使智能体能够从可执行模型中获取知识。"
+      "summary": "针对科学代码库工具链碎片化、领域约定隐式和正确性标准特殊导致难以转化为智能体学习经验的问题，提出 ScienceIDE，将全球科学代码库转化为智能体可学习环境，借助可执行反馈支撑科学发现任务。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1531,7 +1546,7 @@
       "meta": "👍 69",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SoL-Pi，面向无人值守、全天候探索的编码智能体，递归扩展自动研究循环，聚焦长轨迹推理、工具调用与反馈过程中的token效率，以支持可扩展的递归自改进。"
+      "summary": "面向编码智能体昼夜无监督探索导致 token 消耗剧增的问题，提出 SoL-Pi，递归扩展自动研究循环，以高 token 效率构建智能体 harness，支撑可扩展的递归自我改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1542,7 +1557,7 @@
       "meta": "👍 55",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "对编码智能体的harness设计进行实证研究，将以往视为整体的评估拆解到组件层面，比较各设计组件对长周期软件工程任务性能的单独影响，为构建高效编码harness提供依据。"
+      "summary": "针对编码智能体 harness 评估通常被当作整体系统、难以定位组件贡献的问题，开展组件级实证研究，拆解 harness 设计并比较各组件对长周期软件工程任务性能的影响，为智能体构建提供依据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1553,7 +1568,7 @@
       "meta": "👍 54",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对语言模型可信任部署中的置信度估计，提出从经验中学习的置信度估计方法，覆盖推理与智能体任务，不再依赖单一静态设计前提，以更好校准输出正确概率，服务放行、升级与重试决策。"
+      "summary": "针对现有置信度估计依赖静态前提、难以反映模型真实可靠性的问题，提出基于经验的置信度估计方法，从实际推理与智能体交互中积累经验，校准输出正确概率，提升部署中的可信度。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1564,7 +1579,7 @@
       "meta": "👍 48",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ProgramDistill基准，评测编码智能体从可运行工作软件推断行为，并在不完整应用中实现该行为的能力，通过可验证的参考引导方式构造软件工程任务，贴近实际Web开发需求。"
+      "summary": "提出 ProgramDistill 基准，面向真实 Web 开发场景，要求编码智能体从可运行 Web 应用推断预期行为并在不完整应用中实现，以可验证参考引导软件工程任务，弥补现有 issue/指令式评测的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1575,7 +1590,7 @@
       "meta": "👍 43",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Agora，以Git作为多个自动研究智能体共享记忆的载体，让研究循环共享成果与搜索过程，避免各会话从零开始导致重复搜索，使增加智能体数量带来更多发现而非更多重复。"
+      "summary": "针对多个自主研究循环各自从零开始造成重复搜索的问题，提出 Agora，以 Git 作为共享记忆，让研究会话积累并复用探索结果，使并行智能体获得更多发现而非更多重复劳动。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1586,7 +1601,7 @@
       "meta": "👍 40",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出JEPA-Anything，一种领域无关的世界模型学习框架，用统一学习原则为差异巨大的物理系统构建预测模型，帮助智能体预测后果、指导干预并从交互中学习。"
+      "summary": "提出 JEPA-Anything，一种与领域无关的世界模型学习框架，探索统一预测式学习原则能否适用于差异巨大的系统，帮助智能体跨场景预见后果、指导干预并提升交互效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1597,7 +1612,7 @@
       "meta": "👍 33",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出可验证的LLM助手社交推理评估方法，面向日常社交咨询场景，要求助手从主观用户叙述中学习社交情境，并对他人社会属性等条件进行可验证推理，弥补现有评估缺乏客观基准的不足。"
+      "summary": "针对 LLM 助手在主观用户叙述中提供社交建议时难以评估社交推理的问题，提出可验证的社交推理评测框架，利用可核查的社交属性构造测试，衡量助手对他人心理与社交情境的推理质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1608,7 +1623,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出EvolveTrade，使LLM交易智能体基于经验驱动策略精化，摆脱部署前固定的手写工具使用策略，能够自适应调整证据收集、工具调用与信号验证流程，在动态市场环境中持续进化。"
+      "summary": "针对 LLM 交易智能体依赖部署前固定的手工工具使用策略、难以适应市场变化的问题，提出 EvolveTrade，通过经验驱动的策略迭代，让智能体自主调整证据收集、工具调用和信号验证方式，实现持续演化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1619,7 +1634,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出RiskChainBench基准，覆盖表情符、谐音、拆字、冗余符号等混淆平台消息的还原，以及基于证据的网络调查任务，用于评测模型识别伪装重定向指令并追查涉黄、诈骗、赌博等非法服务链路的能力。"
+      "summary": "针对平台滥用用表情、谐音、拆字和冗余符号隐藏重定向指令的问题，提出 RiskChainBench 基准，评估混淆平台消息还原与基于证据的网页调查能力，覆盖色情、诈骗、赌博等非法服务链路。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1630,7 +1645,7 @@
       "meta": "👍 26",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出自进化搜索索引，使文档索引键能够根据检索需求动态调整，更好地暴露文档蕴含知识，从而提升LLM智能体在复杂多样信息需求下的检索质量。"
+      "summary": "面向 LLM 智能体复杂信息需求，针对检索索引键不能充分暴露文档知识而限制检索质量的问题，提出自演化搜索索引，使索引键随需求动态演进，更有效揭示文档内容，提升复杂任务检索性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1641,7 +1656,7 @@
       "meta": "👍 26",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出RetireOPD，一种可自动退出的在线策略蒸馏方法。在智能体强化学习中，由具备特权任务技能的自教师提供密集token级监督，学生掌握后逐步卸除教师监督，缓解每轨迹单标量奖励带来的稀疏反馈问题。"
+      "summary": "针对多轮智能体强化学习只能获得轨迹级稀疏奖励的问题，提出 RetireOPD，利用具备特权技能的自教师执行在线策略蒸馏，提供 token 级稠密监督，并在学生掌握后让教师逐步退出，提升训练效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1652,7 +1667,7 @@
       "meta": "👍 26",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出HypoEvolve，将遗传算法与多智能体LLM结合，以批判、比较、修订等协作形式对科学假设进行进化搜索，并系统考察不同智能体协作方式对假设发现质量和效率的影响。"
+      "summary": "提出 HypoEvolve，将遗传算法与多智能体 LLM 结合，通过批评、比较与修正等演化操作自动发现科学假设，并分析不同智能体协作形式对假设发现与演化搜索效果的影响。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1663,7 +1678,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出无需训练的GUI智能体技能进化方法，通过反思、修订、复用三阶段动态更新程序性技能，应对弹窗、延迟加载、控件移位等执行前无法预见的界面变化，提升长时程任务成功率。"
+      "summary": "针对 GUI 动态环境中的弹窗、延迟加载和控件移动使预设计划失效的问题，提出免训练的 GUI 智能体技能演化方法，通过反思、修订、复用循环在执行中持续更新可复用技能，提升长程任务成功率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1674,7 +1689,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出WeVisDoc，将端到端文档解析从语料覆盖面转向实际能力提升，缓解训练数据偏向常见版式和干净数字页面导致的鲁棒性不足，使模型在多样布局与采集条件下保持稳定解析性能。"
+      "summary": "针对文档解析训练语料偏向常见版式与干净数字页、单纯扩大覆盖难以应对多样采集条件的问题，提出 WeVisDoc，将目标从覆盖转向能力建设，增强端到端解析在复杂版式和降质图像下的鲁棒性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1685,7 +1700,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出零阶优化范式的LLM偏好对齐方法，避免直接偏好对齐中似然位移导致的偏差，从似然差较小的偏好对中有效提取对齐信号，同时保持计算与内存效率优势。"
+      "summary": "针对直接偏好对齐中似然位移问题，提出一种零阶优化范式的 LLM 偏好对齐方法，从似然边际较小的偏好对中提取有效信息，在保持计算与内存效率的同时提升对齐效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1696,7 +1711,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出VA-Bench，通过视觉演示、主动感知与度量控制评测具身空间智能，覆盖不完整观察下发现并获取缺失证据、在共同空间框架中解释、以及行动和修正的完整闭环。"
+      "summary": "提出 VA-Bench，结合视觉演示、主动感知与度量控制，评测具身智能体的空间智能，覆盖观察-推理-行动-修正完整闭环，考察模型在不完整观测下获取证据、统一空间表征并执行动作的能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1806,7 +1821,7 @@
       "publishedAt": "2026-09-18T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI新闻简报介绍了Claude Projects v2和谷歌家庭智能体（Google family agent）两项新动态。"
+      "summary": "TLDR AI 9月18日简报显示，Anthropic推出Claude Projects v2，谷歌发布家庭智能体；其他资讯要点未在摘要中显示，总体以产品更新为主。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1816,7 +1831,7 @@
       "publishedAt": "2026-09-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI新闻简报汇总了三项动态：Claude与Cowork合并、ChatGPT推出赞助智能体（sponsored agents），以及关于“harness tax”的讨论。"
+      "summary": "TLDR AI 9月17日简报聚焦三大主题：Claude与Cowork合并，ChatGPT推出赞助智能体，以及「Harness税」的讨论，涵盖工具整合、商业化与AI治理。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2258,7 +2273,7 @@
       "publishedAt": "2026-09-19T05:48:28.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "据Latent Space的AI新闻简报，两天内出现了6个Jev的克隆版本，简报评论称“模仿是最真诚的奉承”。"
+      "summary": "Latent Space发布的AI新闻简报关注到一个现象：两天内出现了6个Jev的克隆版本。该媒体评论称，模仿是最真诚的奉承，隐含对AI快速复制趋势的观察。"
     },
     {
       "sourceId": "latent-space",
@@ -2268,7 +2283,7 @@
       "publishedAt": "2026-09-18T06:28:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space的AI新闻简报以“今天没什么大事”为题，称当日AI领域较为平静，属于安静的一天。"
+      "summary": "据Latent Space发布的AI新闻简报，本期以「今天没什么大事发生」为题，称当天行业安静，主要事件寥寥，整体信息量有限，因此摘要较为简短。"
     },
     {
       "sourceId": "latent-space",
@@ -2278,7 +2293,7 @@
       "publishedAt": "2026-09-17T07:28:25.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space的AI新闻简报聚焦对AI新闻的现实检验：Yegge关闭了Gas Town，Databricks的Astra成本上涨60%。评论称这盆冷水让“AI狂热者”冷静下来。"
+      "summary": "Latent Space的AI新闻简报带来「现实检验」：Yegge关闭Gas Town，Databricks旗下Astra成本上升60%。评论称，一点冷水能让AI过度狂热者保持冷静。"
     },
     {
       "sourceId": "latent-space",
@@ -2288,7 +2303,7 @@
       "publishedAt": "2026-09-16T18:07:45.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space采访了AIUC首席执行官Rune Kvist，讨论其A轮融资。本期主题为“承保超级智能：支持可被起诉的智能体”。"
+      "summary": "Latent Space专访AIUC首席执行官Rune Kvist，讨论公司A轮融资及「承保超级智能」理念，即支持可被起诉的智能体，为AI代理提供责任保障。"
     },
     {
       "sourceId": "latent-space",
@@ -2442,7 +2457,7 @@
       "publishedAt": "2026-09-18T11:29:22.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "麻省理工科技评论为订阅者举办了一场圆桌活动，探讨“AI真的会毁灭人类吗？”这一热点问题。由于30分钟时长有限，现场还有更多问题未及回答，该媒体后续邀请了资深编辑作答。"
+      "summary": "《麻省理工科技评论》为订阅者举办在线圆桌活动，主题是「AI真的会杀死我们所有人吗」。由于30分钟时间有限，许多提问未能现场解答，后续将由资深编辑继续回应。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2452,7 +2467,7 @@
       "publishedAt": "2026-09-16T12:47:34.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "麻省理工科技评论文章指出，AI热潮正演变为材料挑战。随着AI将计算推向新领域，基础设施材料与算法同样关键，半导体和数据中心正逼近性能的物理极限。"
+      "summary": "《麻省理工科技评论》文章指出，AI热潮正变成材料挑战。随着AI推动计算进入新领域，基础设施材料与算法同等关键，半导体和数据中心正逼近性能物理极限。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2535,7 +2550,7 @@
       "category": "tech",
       "meta": "@sandylikesfrogs · 3.9K 粉丝 · 367.0K 阅 · 512 赞 · 36 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用 AI 智能体运营公司，赚到第一笔 75 美元的真实实验。给 Devin 配上 Ramp 卡和电话号码，测试它能否独立完成从决策到执行的商业闭环，记录踩坑与心得，验证 AI 自主赚钱的边界。"
+      "summary": "今年7月，团队给AI智能体Devin配上Ramp卡和手机号，让它完全自主运营一家公司，最终赚到第一笔75美元。帖子复盘了这个实验中关于AI自主盈利能力的教训与发现。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2546,7 +2561,7 @@
       "category": "tech",
       "meta": "@sairahul1 · 145.3K 粉丝 · 330.3K 阅 · 568 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "低成本微调小模型完整指南：不需要 70B 参数、10 万美元算力或机器学习团队，仅用 200-500 条高质量样本微调 1.5B 参数模型，就能在特定任务上超越前沿大模型，适合资源有限的开发者。"
+      "summary": "微调小模型无需大规模算力：1.5B参数模型用200-500个精选样本微调即可超越前沿大模型，无需70B模型和10万美元算力，是低成本定制模型的实操指南。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2557,7 +2572,7 @@
       "category": "tech",
       "meta": "@Sabrina_Ramonov · 7.1K 粉丝 · 160.5K 阅 · 518 赞 · 398 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "面向企业主的 GPT-6 Astra + DaVinci MCP 入门教程。针对有大量照片视频却没时间打理社媒的用户，自动写文案、剪视频、生成发布内容，把素材库存变成可持续输出的内容流。"
+      "summary": "面向没时间运营社媒的店主们，教程教用GPT-6 Astra配合DaVinci MCP自动处理堆积的照片和视频：自动生成文案、剪辑视频并发布，解决不会写文案、不会剪片的痛点。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2568,7 +2583,7 @@
       "category": "tech",
       "meta": "@istoica05 · 9.6K 粉丝 · 150.4K 阅 · 501 赞 · 72 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI agent 优化键值存储，达成 6 倍吞吐提升且通过全部正确性测试，却暴露行业标准基准的隐藏缺陷。以此引出智能体软件工程中的两个关键空白，提醒开发者别只盯着基准分数。"
+      "summary": "一个AI智能体优化键值存储时获得6倍吞吐提升，且通过全部正确性测试，原因竟是它发现了行业标准基准测试的缺陷。由此引出智能体软件工程的两个关键差距。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2579,7 +2594,7 @@
       "category": "tech",
       "meta": "@chddaniel · 27.7K 粉丝 · 121.2K 阅 · 521 赞 · 42 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "TypeSafe 发布的新模型 Jev 完整入门指南。它提供一种把智能嵌入软件的全新方式，不靠对话写作能力取胜，而是自成一类，擅长在软件内部做快速判断，本文详解如何上手与运用。"
+      "summary": "TypeSafe发布新模型Jev，称其开辟全新类别。完整指南讲解如何掌握Jev：不是靠写代码更强，而是以完全不同的方式将智能嵌入软件，值得单独学习的范式。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2590,7 +2605,7 @@
       "category": "tech",
       "meta": "@mvanhorn · 40.4K 粉丝 · 103.6K 阅 · 550 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Jev 通俗解释：它是 AI 的「选择题」而非「作文题」，不聊天，直接输出软件可执行的决策，例如判断垃圾邮件、决定 agent 该用哪个工具。附 9 个已被实际使用的应用场景。"
+      "summary": "用「AI选择题，而非AI写文章」概括Jev：它不聊天，直接输出软件可执行的决策，如判断垃圾邮件、为智能体选择工具等，并列出人们已用Jev构建的9种应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2601,7 +2616,7 @@
       "category": "tech",
       "meta": "@chamath · 2.4M 粉丝 · 90.2K 阅 · 503 赞 · 63 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "深度拆解开源与闭源 AI 竞赛：开放权重模型已追到与最佳闭源前沿模型仅差约四个月，且差距波动加剧。开源阵营的快速逼近正在重塑竞争格局，闭源优势不再稳固。"
+      "summary": "开源权重模型与最佳闭源前沿模型的差距已缩小到约4个月，且波动性加大，这正在重塑开源vs闭源AI竞赛的叙事。文章对这一趋势做了深度剖析。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2612,7 +2627,7 @@
       "category": "tech",
       "meta": "@sydneyrunkle · 10.6K 粉丝 · 88.0K 阅 · 556 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用 Jev 构建 agent 运行框架（harness）。核心循环是 LLM 决策、工具执行、模型评估结果，如此往复直到任务完成。解决早期 agent 与 LLM 难以结合的工程痛点，提供可落地的架构思路。"
+      "summary": "讲解如何用Jev为智能体构建运行框架：智能体本质是「LLM决策→工具执行→模型评估」的循环，直到任务完成。Jev可在循环中承担决策与评估环节，提高稳定性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2623,7 +2638,7 @@
       "category": "tech",
       "meta": "@0xCodila · 18.6K 粉丝 · 63.4K 阅 · 521 赞 · 62 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "以杰文斯悖论为引，给出从零搭建 AI 新大脑的 Jev 工程 10 步路线图，覆盖环境配置到启用全流程。效率提升反而增加资源消耗的悖论，正是 Jev 设计逻辑的出发点。"
+      "summary": "从杰文斯悖论（效率提升反而增加总体消耗）切入，给出用Jev为AI从零配置「新大脑」的完整10步路线图，覆盖设置、集成与使用，适合从零上手的开发者。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2634,7 +2649,7 @@
       "category": "tech",
       "meta": "@RohOnChain · 72.5K 粉丝 · 57.7K 阅 · 518 赞 · 54 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "用 Jev 搭建毫秒级、7×24 小时高频交易系统的完整框架，并附上作者亲测有用的资源清单。直接给可执行步骤，适合想用 AI 做量化交易的人收藏照做。"
+      "summary": "博主手把手拆解用Jev构建毫秒级、全天候（24/7）高频交易系统的完整框架，并附上亲测有效的资源清单，适合想用AI做量化交易的人参考。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2645,7 +2660,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 286.8K 粉丝 · 41.6K 阅 · 578 赞 · 87 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Jev 是什么：过去我们把 LLM 当锤子应付所有 AI 问题，Jev 专治简单分类决策，毫秒级响应且成本极低。文章讲清其工作原理和适用边界，提醒别用大炮打蚊子。"
+      "summary": "指出我们惯于用LLM处理所有AI问题，连简单决策也大材小用。Jev能以毫秒级速度和极低成本处理这类简单决策，文章详解其工作原理与适用场景。"
     }
   ]
 }

@@ -115,12 +115,12 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           "",
           "Your task: generate today's daily brief from the candidate news below. **The response MUST be a single valid JSON object** — starts with `{`, ends with `}`, no markdown, no code fences, no explanations.",
           "",
-          "The JSON must contain every field non-empty (briefs arrays per the system-prompt counts):",
+          "Include every schema field. Select only from the matching input category; categories with no eligible candidates must return []. Counts are caps, not quotas:",
           "  - hero_headline: 10-25 word headline of the day",
-          "  - daily_overview: **150-250 word** paragraph covering tech / finance / politics signals so a reader sees the whole picture at a glance",
-          "  - tech_briefs: **3-5** tech BriefItems",
-          "  - finance_briefs: **3-5** finance BriefItems",
-          "  - politics_briefs: **2-3** politics BriefItems",
+          "  - daily_overview: **150-250 word** paragraph covering only eligible input categories",
+          "  - tech_briefs: **0-5** tech BriefItems",
+          "  - finance_briefs: **0-5** finance BriefItems",
+          "  - politics_briefs: **0-3** politics BriefItems",
           "  - editor_note: 30-60 word editor's note",
           "  - keywords: 5-8 keywords",
           "",
@@ -134,12 +134,12 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
       : [
           "你的任务：根据下方候选新闻，生成一份当日简报，**响应必须是一个合法 JSON 对象**——以 `{` 开头，以 `}` 结尾，不要 markdown / 不要代码围栏 / 不要任何解释。",
           "",
-          "JSON 必须包含全部字段且不能为空（briefs 数组按 system prompt 规定的条数填充）：",
+          "JSON 必须包含全部字段。仅从对应输入 category 选取；无合适候选的分类必须返回 []，条数为上限，不得凑数：",
           "  - hero_headline: 10-25 字的当日一句话头条",
-          "  - daily_overview: **150-220 字** 的当日总览段落，一段话覆盖技术 / 财经 / 时政 的核心信号，让读者一眼抓住全貌",
-          "  - tech_briefs: **3-5 条** 科技 BriefItem",
-          "  - finance_briefs: **3-5 条** 财经 BriefItem",
-          "  - politics_briefs: **2-3 条** 时政 BriefItem",
+          "  - daily_overview: **150-220 字** 的当日总览段落，仅覆盖有合适候选新闻的分类，不补写其他领域",
+          "  - tech_briefs: **0-5 条** 科技 BriefItem",
+          "  - finance_briefs: **0-5 条** 财经 BriefItem",
+          "  - politics_briefs: **0-3 条** 时政 BriefItem",
           "  - editor_note: 30-60 字的编辑短评",
           "  - keywords: 5-8 个关键词",
           "",
@@ -191,6 +191,42 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
     editor_note: parsed.editor_note ?? "",
     keywords: parsed.keywords ?? [],
   };
+}
+
+
+const CATEGORY_FIELD: Record<
+  Category,
+  "tech_briefs" | "finance_briefs" | "politics_briefs"
+> = {
+  tech: "tech_briefs",
+  finance: "finance_briefs",
+  politics: "politics_briefs",
+};
+
+/**
+ * The model sometimes fills empty categories with items from other feeds
+ * despite the prompt. Keep only URLs offered under the same category and drop
+ * a URL once it appears in an earlier category.
+ */
+export function guardReportCategories(
+  candidates: Array<{ url: string; category: Category }>,
+  report: DailyReport,
+): DailyReport {
+  const seen = new Set<string>();
+  const guarded = { ...report };
+  for (const category of Object.keys(CATEGORY_FIELD) as Category[]) {
+    const allowed = new Set(
+      candidates.filter((c) => c.category === category).map((c) => c.url),
+    );
+    guarded[CATEGORY_FIELD[category]] = report[
+      CATEGORY_FIELD[category]
+    ].filter((item) => {
+      if (!allowed.has(item.url) || seen.has(item.url)) return false;
+      seen.add(item.url);
+      return true;
+    });
+  }
+  return guarded;
 }
 
 export async function generateDailyReport(

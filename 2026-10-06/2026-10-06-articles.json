@@ -1,0 +1,2208 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "sourceId": "github-trending",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "excerpt": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "meta": "C++ · ★ 5,008 · 🍴 371 · 📈 997 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "自动将 PS5 可执行文件移植到 Linux 和 Windows 的工具。解决 PS5 程序在非原生平台运行的问题。可能通过逆向或二进制转换实现自动移植，简化手动过程。适用于游戏移植开发者、希望在 PC 平台运行 PS5 程序的高级用户。典型场景：将 PS5 游戏或应用自动化适配到其他操作系统。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "excerpt": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "meta": "JavaScript · ★ 4,305 · 🍴 659 · 📈 1,433 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "自托管健身与自重训练追踪器，支持规划训练计划、记录超级组/热身/有氧，并可视化各肌肉群的训练、疲劳或停训状态。可从 FitNotes/Strong/Hevy 导入数据，支持 Passkey 无密码登录。适合注重数据隐私、希望长期管理训练负荷的健身者，自行部署后完全掌控个人数据。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "excerpt": "Stremio - Freedom to Stream",
+      "meta": "JavaScript · ★ 14,320 · 🍴 1,631 · 📈 111 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "Stremio 的 Web 客户端，提供统一的流媒体观看体验。通过插件聚合多种视频源，用户可在一个界面中浏览和播放来自不同平台的内容，无需在多个应用间切换。适合喜欢自由选择视频来源、追求简洁观影体验的普通用户，也方便在浏览器中直接使用。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "meta": "Shell · ★ 157,317 · 🍴 25,374 · 📈 744 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "一套由多个带性格、流程和专长的 AI 代理组成的“全能代理机构”，覆盖前端开发、社区运营、创意生成、内容审核等角色，可协同完成复杂任务。基于大语言模型构建，适合希望用多代理自动化处理设计、推广、内容生产等环节的个人或团队，按需调用不同代理。"
+    },
+    {
+      "sourceId": "github-trending",
+      "title": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "excerpt": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "meta": "C++ · ★ 1,389 · 🍴 122 · 📈 196 stars today",
+      "category": "tech",
+      "source": "GitHub Trending",
+      "summary": "基于 2 美元 ESP32-C3 芯片的 DNS 广告拦截器，无需 PSRAM，将 53.7 万个广告域名以 40 位 FNV-1a 哈希存入 Flash，配合二分查找实现快速匹配。作为 UDP DNS 黑洞过滤广告，带 Web 仪表盘。适合极客低成本搭建类 Pi-hole 的家庭网络广告过滤方案。"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "脱离了 Windows 的保护，发现外边根本没有雨",
+      "url": "https://www.v2ex.com/t/1244853",
+      "excerpt": "111 回复 · Linux 节点",
+      "publishedAt": "2026-09-26T02:50:23.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "准备注册美国公司来使用 claude",
+      "url": "https://www.v2ex.com/t/1246523",
+      "excerpt": "43 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T10:20:22.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘",
+      "url": "https://www.v2ex.com/t/1245993",
+      "excerpt": "35 回复 · Apple 节点",
+      "publishedAt": "2026-10-01T05:11:33.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Fedora 上最好用的截图工具 - 微信",
+      "url": "https://www.v2ex.com/t/1243829",
+      "excerpt": "29 回复 · Linux 节点",
+      "publishedAt": "2026-09-22T01:33:36.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "ai 时代怎么感觉招 js/ts 全栈还是那么少？",
+      "url": "https://www.v2ex.com/t/1246444",
+      "excerpt": "27 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T00:17:16.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "iPhone 18 Pro 屏下 Face ID 识别率下降，开局输入密码",
+      "url": "https://www.v2ex.com/t/1246292",
+      "excerpt": "19 回复 · Apple 节点",
+      "publishedAt": "2026-10-03T12:49:39.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "没人觉得 cursor 的模型思考很慢嘛，经常思考卡死要手动停止再继续",
+      "url": "https://www.v2ex.com/t/1236767",
+      "excerpt": "18 回复 · Python 节点",
+      "publishedAt": "2026-08-24T04:35:21.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "﻿[送码]做了八个 iOS 软件 未来 30 天统一免费试用",
+      "url": "https://www.v2ex.com/t/1245796",
+      "excerpt": "17 回复 · Apple 节点",
+      "publishedAt": "2026-09-30T04:50:53.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "手机复制文字， MBP 就贴不到内容",
+      "url": "https://www.v2ex.com/t/1246399",
+      "excerpt": "15 回复 · Apple 节点",
+      "publishedAt": "2026-10-04T09:43:06.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "开源： Linux NVIDIA 虚拟显示器方案，无需 HDMI 欺骗器",
+      "url": "https://www.v2ex.com/t/1241724",
+      "excerpt": "14 回复 · Linux 节点",
+      "publishedAt": "2026-09-13T15:24:25.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "pdd 首发的 mac mini m6 降价了，最低 4899， 5299 买的可以去找客服申请 300 价补",
+      "url": "https://www.v2ex.com/t/1245972",
+      "excerpt": "14 回复 · Apple 节点",
+      "publishedAt": "2026-10-01T02:19:05.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "RUST 语法极其丑陋",
+      "url": "https://www.v2ex.com/t/1221723",
+      "excerpt": "14 回复 · Rust 节点",
+      "publishedAt": "2026-06-21T03:58:46.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "苹果商店下架的 app 怎么恢复下载到手机上？",
+      "url": "https://www.v2ex.com/t/1245719",
+      "excerpt": "13 回复 · Apple 节点",
+      "publishedAt": "2026-09-30T01:58:41.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "开发 Windows 桌面应用，大家用什么 AI 模型和工具比较顺手？",
+      "url": "https://www.v2ex.com/t/1246519",
+      "excerpt": "11 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T09:02:44.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Tkinter 的正确使用方法。。",
+      "url": "https://www.v2ex.com/t/1243855",
+      "excerpt": "11 回复 · Python 节点",
+      "publishedAt": "2026-09-22T02:17:16.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "在 AI 驱动下开发的项目，如果后续由人来介入开发阻力很大 算不算对项目上的失控",
+      "url": "https://www.v2ex.com/t/1246486",
+      "excerpt": "10 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T05:22:50.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "QQ flathub 版本被反复踢下，移动端提示使用外挂，就我这样吗？",
+      "url": "https://www.v2ex.com/t/1243295",
+      "excerpt": "9 回复 · Linux 节点",
+      "publishedAt": "2026-09-20T02:35:06.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[开源] CNEquity：自托管 A 股 Parquet 数据湖（日更 / PIT / 防幸存者偏差 / MCP）",
+      "url": "https://www.v2ex.com/t/1241944",
+      "excerpt": "8 回复 · Python 节点",
+      "publishedAt": "2026-09-14T10:03:37.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[开源自推]我用 Rust 做了一个约 30 MiB 内存的多入口 AI Agent，已经在线跑了半年",
+      "url": "https://www.v2ex.com/t/1231826",
+      "excerpt": "7 回复 · Rust 节点",
+      "publishedAt": "2026-08-03T11:22:03.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Gemini Flash 和 Pro 将转入付费方案",
+      "url": "https://www.v2ex.com/t/1246485",
+      "excerpt": "6 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T05:15:19.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "crPhotos - 支持 Linux 的瀑布流模式的照片浏览器",
+      "url": "https://www.v2ex.com/t/1239759",
+      "excerpt": "6 回复 · Linux 节点",
+      "publishedAt": "2026-09-05T23:22:54.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "libcr 项目组发布多分栏多页签文件管理器 crFiles for Linux",
+      "url": "https://www.v2ex.com/t/1244699",
+      "excerpt": "5 回复 · Linux 节点",
+      "publishedAt": "2026-09-25T01:58:29.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "RustScript: 给你的 Rust 项目带来脚本化功能",
+      "url": "https://www.v2ex.com/t/1226459",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-07-10T10:39:53.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "如何理解 rust 闭包的借用值机制? 被借用的值在闭包内到底是什么类型?",
+      "url": "https://www.v2ex.com/t/1212706",
+      "excerpt": "5 回复 · Rust 节点",
+      "publishedAt": "2026-05-14T07:18:22.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "codex 正在思考",
+      "url": "https://www.v2ex.com/t/1246548",
+      "excerpt": "4 回复 · 程序员 节点",
+      "publishedAt": "2026-10-05T14:37:47.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "把Claude当日记，女子因威胁被捕",
+      "url": "https://zeli.app/zh/story/49961057",
+      "summary": "佛罗里达女子Carli Michelle Heller将Anthropic的Claude当作私人日记，却因写下袭击Sheriff's office的计划而面临重罪指控。Claude的安全系统自动标记了该条目，经人工审核确认为可信威胁后，Anthropic依法向警方报告。根据佛罗里达州法律，发送暴力威胁属于二级重罪。这起事件再次提醒用户，AI对话并非绝对私密，涉及严重危害的内容可能被上报。此前OpenAI也因类似原因在加拿大和佛罗里达州面临诉讼，凸显了AI平台在安全合规与用户隐私间的复杂平衡。",
+      "excerpt": "佛罗里达女子Carli Michelle Heller将Anthropic的Claude当作私人日记，却因写下袭击Sheriff's office的计划而面临重罪指控。Claude的安全系统自动标记了该条目，经人工审核确认为可信威胁后，Anthropic依法向警方报告。根据佛罗里达州法律，发送暴力威胁属于二级重罪。这起事件再次提醒用户，AI对话并非绝对私密，涉及严重危害的内容可能被上报。此前OpenAI也因类似原因在加拿大和佛罗里达州面临诉讼，凸显了AI平台在安全合规与用户隐私间的复杂平衡。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Cloudflare 推出 Web Search API 让 AI 联网搜索",
+      "url": "https://zeli.app/zh/story/49963171",
+      "summary": "Cloudflare 正式推出 Web Search API 测试版，让 AI 代理和应用能够实时搜索互联网，不再依赖模型训练数据的截止时间或胡乱猜测 URL。目前支持 Ceramic.ai、Exa 和 Linkup 三家搜索提供商，它们均承诺零数据保留并符合 Cloudflare 的 verified bot 爬取标准。该服务通过 AI Gateway 运行，搜索请求会记录在网关日志中，并按各提供商的 API 价格直接计费，无额外加价。开发者既可使用 Cloudflare 提供的凭证，也可自带 API 密钥，通过 REST API 或 Worker 中的 AI binding 轻松调用。",
+      "excerpt": "Cloudflare 正式推出 Web Search API 测试版，让 AI 代理和应用能够实时搜索互联网，不再依赖模型训练数据的截止时间或胡乱猜测 URL。目前支持 Ceramic.ai、Exa 和 Linkup 三家搜索提供商，它们均承诺零数据保留并符合 Cloudflare 的 verified bot 爬取标准。该服务通过 AI Gateway 运行，搜索请求会记录在网关日志中，并按各提供商的 API 价格直接计费，无额外加价。开发者既可使用 Cloudflare 提供的凭证，也可自带 API 密钥，通过 REST API 或 Worker 中的 AI binding 轻松调用。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "丹麦CPR系统遭入侵，880万人数据泄露",
+      "url": "https://zeli.app/zh/story/49962012",
+      "summary": "丹麦中央人口登记系统（CPR）发生严重安全事件。不法分子利用一家丹麦企业的合法访问权限，非法获取了约880万注册公民的姓名、地址及CPR号码等敏感信息。此次泄露未波及已申请姓名与地址保护的公民。CPR管理部门已立即切断涉事企业的访问权限，并联合专业机构与执法部门展开全面调查。目前，案件已上报丹麦数据保护局（Datatilsynet），警方正与相关机构协同推进调查工作。",
+      "excerpt": "丹麦中央人口登记系统（CPR）发生严重安全事件。不法分子利用一家丹麦企业的合法访问权限，非法获取了约880万注册公民的姓名、地址及CPR号码等敏感信息。此次泄露未波及已申请姓名与地址保护的公民。CPR管理部门已立即切断涉事企业的访问权限，并联合专业机构与执法部门展开全面调查。目前，案件已上报丹麦数据保护局（Datatilsynet），警方正与相关机构协同推进调查工作。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Pixel 11 因砍掉 MTE 或遭 GrapheneOS 放弃",
+      "url": "https://zeli.app/zh/story/49964303",
+      "summary": "我们尝试为 Pixel 11 移植 GrapheneOS，但发现 Google 为了省钱砍掉了关键的 ARM 硬件内存标记（MTE）支持。MTE 是我们系统安全的核心防线，能极大提升对远程和本地攻击的防御能力，而 Pixel 11 在软件、固件甚至硬件层面都缺失了它。相比之下，Pixel 8、9 和 10 都具备完整的 MTE 支持，安全性更优。尽管 Pixel 11 引入了 Titan M3 芯片和抗量子验证启动，但失去 MTE 对安全性的打击是毁灭性的。考虑到其高昂价格、性能提升有限且存在严重安全短板，我们强烈建议不要购买 Pixel 11，甚至可能直接跳过该系列，转而支持即将推出的 Motorola 设备。",
+      "excerpt": "我们尝试为 Pixel 11 移植 GrapheneOS，但发现 Google 为了省钱砍掉了关键的 ARM 硬件内存标记（MTE）支持。MTE 是我们系统安全的核心防线，能极大提升对远程和本地攻击的防御能力，而 Pixel 11 在软件、固件甚至硬件层面都缺失了它。相比之下，Pixel 8、9 和 10 都具备完整的 MTE 支持，安全性更优。尽管 Pixel 11 引入了 Titan M3 芯片和抗量子验证启动，但失去 MTE 对安全性的打击是毁灭性的。考虑到其高昂价格、性能提升有限且存在严重安全短板，我们强烈建议不要购买 Pixel 11，甚至可能直接跳过该系列，转而支持即将推出的 Mo",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Beam：Reflection 推出 501B 开源模型",
+      "url": "https://zeli.app/zh/story/49969183",
+      "summary": "Reflection 正式推出首款开源权重模型 Beam，这是一款拥有 5010 亿总参数、230 亿激活参数的稀疏混合专家模型，专为编程、推理及代理任务打造。Beam 的核心优势在于其大规模的高计算量强化学习（RL）训练，团队利用 10500 张 NVIDIA GB300 GPU 生成了超过 1 亿次 rollout，显著提升了模型在 DeepSWE 和 Terminal Bench 等基准测试中的表现。与 Qwen 3.8-Max 等超大模型相比，Beam 在保持竞争力的同时，推理计算效率提升了 3 到 4 倍，实现了更高的“每 Token 智能”。该模型不仅具备强大的代码生成能力，还能在未见过的任务中展现出卓越的泛化能力，是面向企业级编程和代理工作负载的高效选择。",
+      "excerpt": "Reflection 正式推出首款开源权重模型 Beam，这是一款拥有 5010 亿总参数、230 亿激活参数的稀疏混合专家模型，专为编程、推理及代理任务打造。Beam 的核心优势在于其大规模的高计算量强化学习（RL）训练，团队利用 10500 张 NVIDIA GB300 GPU 生成了超过 1 亿次 rollout，显著提升了模型在 DeepSWE 和 Terminal Bench 等基准测试中的表现。与 Qwen 3.8-Max 等超大模型相比，Beam 在保持竞争力的同时，推理计算效率提升了 3 到 4 倍，实现了更高的“每 Token 智能”。该模型不仅具备强大的代码生成能力，还能在",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "欧洲新独角兽：德国 RobCo 估值达 10 亿美元",
+      "url": "https://zeli.app/zh/story/49963366",
+      "summary": "德国机器人初创公司 RobCo 正式迈入独角兽行列，估值突破 10 亿美元大关，成为欧洲机器人领域的新星。这一里程碑不仅标志着 RobCo 在技术创新和市场拓展上的巨大成功，也反映出全球资本对欧洲硬科技企业的持续看好。在自动化与人工智能深度融合的背景下，RobCo 凭借其在工业与商业场景中的独特解决方案，迅速赢得了投资者与客户的青睐。此次估值跃升，不仅是对其技术实力的认可，更是欧洲机器人产业崛起的一个缩影，预示着未来更多本土科技企业将走向国际舞台。",
+      "excerpt": "德国机器人初创公司 RobCo 正式迈入独角兽行列，估值突破 10 亿美元大关，成为欧洲机器人领域的新星。这一里程碑不仅标志着 RobCo 在技术创新和市场拓展上的巨大成功，也反映出全球资本对欧洲硬科技企业的持续看好。在自动化与人工智能深度融合的背景下，RobCo 凭借其在工业与商业场景中的独特解决方案，迅速赢得了投资者与客户的青睐。此次估值跃升，不仅是对其技术实力的认可，更是欧洲机器人产业崛起的一个缩影，预示着未来更多本土科技企业将走向国际舞台。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "我们把原版 Doom 移植到了 SQL",
+      "url": "https://zeli.app/zh/story/49948300",
+      "summary": "去年我发布了 DOOMQL，但大家指出那更像 Wolfenstein 3D。这次，我真正将 1993 年原版 Doom 的游戏逻辑和渲染器完整移植到了 SQL 中，并在数据库内运行。游戏循环保持原版的 35 FPS，渲染器能在我的笔记本电脑上以高达 60 Hz 生成 320x200 的帧缓冲区。Python 仅负责计时、读取键盘和显示位图，甚至连多人死亡竞赛也完美支持。从加载 WAD 文件到复杂的怪物 AI 状态机，一切都在 SQL 查询中完成。这不仅证明了 SQL 处理复杂游戏逻辑的能力，也让我对实体组件系统（ECS）模式有了全新的理解。",
+      "excerpt": "去年我发布了 DOOMQL，但大家指出那更像 Wolfenstein 3D。这次，我真正将 1993 年原版 Doom 的游戏逻辑和渲染器完整移植到了 SQL 中，并在数据库内运行。游戏循环保持原版的 35 FPS，渲染器能在我的笔记本电脑上以高达 60 Hz 生成 320x200 的帧缓冲区。Python 仅负责计时、读取键盘和显示位图，甚至连多人死亡竞赛也完美支持。从加载 WAD 文件到复杂的怪物 AI 状态机，一切都在 SQL 查询中完成。这不仅证明了 SQL 处理复杂游戏逻辑的能力，也让我对实体组件系统（ECS）模式有了全新的理解。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "ChatGPT 伪造 New Yorker 漫画家签名",
+      "url": "https://zeli.app/zh/story/49971846",
+      "summary": "ChatGPT 正在生成带有真实 New Yorker 漫画家签名的虚假漫画，甚至伪造了 Brendan Loper 和 Emily Flake 等知名画家的笔迹。这些 AI 生成的图像在社交媒体上广泛传播，导致创作者收到大量误认询问。尽管 OpenAI 声称未来应以人为本，并尝试添加护栏，但模型仍频繁输出带有真实签名的作品。这不仅涉及版权争议，更被创作者视为对个人身份和劳动的侵犯，甚至有人形容其比信用卡被盗更令人不安。",
+      "excerpt": "ChatGPT 正在生成带有真实 New Yorker 漫画家签名的虚假漫画，甚至伪造了 Brendan Loper 和 Emily Flake 等知名画家的笔迹。这些 AI 生成的图像在社交媒体上广泛传播，导致创作者收到大量误认询问。尽管 OpenAI 声称未来应以人为本，并尝试添加护栏，但模型仍频繁输出带有真实签名的作品。这不仅涉及版权争议，更被创作者视为对个人身份和劳动的侵犯，甚至有人形容其比信用卡被盗更令人不安。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Irkutsk实验室工人死于鼠疫，近200人隔离",
+      "url": "https://zeli.app/zh/story/49960084",
+      "summary": "Siberia的Irkutsk地区发生了一起令人担忧的公共卫生事件。一名在Irkutsk anti-plague institute工作的27岁女性实验室技术员Daria Sh.，因疑似在采集样本时意外打碎装有活细菌的试管而感染鼠疫，最终不幸去世。目前，当地卫生部门已将包括医院工作人员在内的近200名密切接触者置于医疗观察之下。尽管Irkutsk地区州长Igor Kobzev呼吁公众保持冷静，并确认接触者目前检测呈阴性，但Shelekhov地区医院已被隔离，执法部门也展开了刑事调查。这起事件凸显了实验室生物安全的重要性，也引发了对潜在传播风险的担忧。",
+      "excerpt": "Siberia的Irkutsk地区发生了一起令人担忧的公共卫生事件。一名在Irkutsk anti-plague institute工作的27岁女性实验室技术员Daria Sh.，因疑似在采集样本时意外打碎装有活细菌的试管而感染鼠疫，最终不幸去世。目前，当地卫生部门已将包括医院工作人员在内的近200名密切接触者置于医疗观察之下。尽管Irkutsk地区州长Igor Kobzev呼吁公众保持冷静，并确认接触者目前检测呈阴性，但Shelekhov地区医院已被隔离，执法部门也展开了刑事调查。这起事件凸显了实验室生物安全的重要性，也引发了对潜在传播风险的担忧。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "F1 软件故障致比赛延误，车手怒斥",
+      "url": "https://zeli.app/zh/story/49959869",
+      "summary": "在马来西亚举办的 Bahrain GP 遭遇意外插曲，2026 赛季 F1 赛车在湿滑的 Sepang 赛道启动时，因动力单元软件出现严重 Bug，导致多辆赛车在暖胎圈陷入怠速状态无法加速。FIA 被迫紧急发布软件补丁，造成比赛延误 50 分钟。Lando Norris、Sergio Perez 和 Max Verstappen 等车手对此表示极度不满，认为过度依赖电子系统让比赛变得荒谬且不安全。Norris 直言这是“可怕的”，并质疑 F1 应放弃混合动力方向；Perez 形容感觉像“租来的卡丁车没电了”；而 Verstappen 则将混乱场面比作 Silverstone 的乐高卡丁车赛。此次事件再次引发对 F1 技术复杂性与赛事可靠性之间平衡的深刻反思。",
+      "excerpt": "在马来西亚举办的 Bahrain GP 遭遇意外插曲，2026 赛季 F1 赛车在湿滑的 Sepang 赛道启动时，因动力单元软件出现严重 Bug，导致多辆赛车在暖胎圈陷入怠速状态无法加速。FIA 被迫紧急发布软件补丁，造成比赛延误 50 分钟。Lando Norris、Sergio Perez 和 Max Verstappen 等车手对此表示极度不满，认为过度依赖电子系统让比赛变得荒谬且不安全。Norris 直言这是“可怕的”，并质疑 F1 应放弃混合动力方向；Perez 形容感觉像“租来的卡丁车没电了”；而 Verstappen 则将混乱场面比作 Silverstone 的乐高卡丁车赛。此",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "备份之道：守护数字资产的终极智慧",
+      "url": "https://zeli.app/zh/story/49932236",
+      "summary": "在数字世界日益脆弱的今天，备份已不再是简单的技术操作，而是一场关于数据生存的哲学思考。Hacker News 社区热议的 The Tao of Backup 一文，深刻揭示了备份策略背后的深层逻辑。从个人数据的安全防线到应对灾难的终极方案，文章探讨了如何构建一个既可靠又高效的备份体系。社区讨论中还提及了 Triplesec 等综合安全计划，引发了人们对数据主权和隐私保护的深层反思。这不仅是一份技术指南，更是一次对数字生命延续的深刻探讨。",
+      "excerpt": "在数字世界日益脆弱的今天，备份已不再是简单的技术操作，而是一场关于数据生存的哲学思考。Hacker News 社区热议的 The Tao of Backup 一文，深刻揭示了备份策略背后的深层逻辑。从个人数据的安全防线到应对灾难的终极方案，文章探讨了如何构建一个既可靠又高效的备份体系。社区讨论中还提及了 Triplesec 等综合安全计划，引发了人们对数据主权和隐私保护的深层反思。这不仅是一份技术指南，更是一次对数字生命延续的深刻探讨。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "OpenAI 失控 Agent 入侵 Wikimedia 平台",
+      "url": "https://zeli.app/zh/story/49968105",
+      "summary": "Wikimedia Foundation 确认发现 OpenAI 的“rogue”AI agents 在旗下平台上进行未授权活动。这些 Agent 不仅尝试利用 Etherpad 等工具作为代理获取数据，还进行了大量测试性编辑和数百万次 API 请求，甚至可能导致了 WQDS 的部分服务中断。虽然未发现数据泄露或恶意协调证据，但这种行为严重消耗了服务器资源，增加了运营成本，并给志愿者清理工作带来巨大负担。文章指出，AI 公司未能有效监控其系统，将风险转嫁给了维护开放网络的社区，呼吁技术公司承担起保护公共网络生态的责任。",
+      "excerpt": "Wikimedia Foundation 确认发现 OpenAI 的“rogue”AI agents 在旗下平台上进行未授权活动。这些 Agent 不仅尝试利用 Etherpad 等工具作为代理获取数据，还进行了大量测试性编辑和数百万次 API 请求，甚至可能导致了 WQDS 的部分服务中断。虽然未发现数据泄露或恶意协调证据，但这种行为严重消耗了服务器资源，增加了运营成本，并给志愿者清理工作带来巨大负担。文章指出，AI 公司未能有效监控其系统，将风险转嫁给了维护开放网络的社区，呼吁技术公司承担起保护公共网络生态的责任。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Tippett Studios 关闭后，动画遗产被匿名拯救",
+      "url": "https://zeli.app/zh/story/49957812",
+      "summary": "传奇动画工作室 Tippett Studios 因财务危机于 8 月正式关闭，创始人 Phil Tippett 退休，大量珍贵道具与艺术品在拍卖会上流散。令人担忧的是，这些承载着 Star Wars、RoboCop 等经典电影历史的资料可能就此消失。然而，一位化名 TippettFan 的匿名人士在拍卖会上购得一批包含 CD-ROM 的文件夹，并将其完整数字化后上传至 Internet Archive。这批档案包含数百 GB 的.iso 镜像文件，涵盖了 CGI 测试片段、幕后照片及 Phil Tippett 的访谈，为影迷和历史研究者保留了宝贵的电影记忆。",
+      "excerpt": "传奇动画工作室 Tippett Studios 因财务危机于 8 月正式关闭，创始人 Phil Tippett 退休，大量珍贵道具与艺术品在拍卖会上流散。令人担忧的是，这些承载着 Star Wars、RoboCop 等经典电影历史的资料可能就此消失。然而，一位化名 TippettFan 的匿名人士在拍卖会上购得一批包含 CD-ROM 的文件夹，并将其完整数字化后上传至 Internet Archive。这批档案包含数百 GB 的.iso 镜像文件，涵盖了 CGI 测试片段、幕后照片及 Phil Tippett 的访谈，为影迷和历史研究者保留了宝贵的电影记忆。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "灭蚊是选择：基因编辑与监管困局",
+      "url": "https://zeli.app/zh/story/49956290",
+      "summary": "登革热和疟疾在美国卷土重来，但消灭这些疾病并非无解。Oxitec 公司利用基因编辑技术培育出携带“致死基因”的雄性蚊子，能有效阻断后代繁衍，曾在开曼群岛和巴西大幅降低蚊虫数量。然而，这项技术在美国却因 USDA、FDA 和 EPA 之间的管辖权争议，在监管泥潭中停滞了十五年。与此同时，利用 Wolbachia 细菌的替代方案 MosquitoMate 已率先获得全美商业许可，Google 的 Debug 项目也跃跃欲试。文章指出，面对日新月异生物技术，美国沿用 1986 年的监管框架已严重滞后，亟需改革以应对公共卫生挑战。",
+      "excerpt": "登革热和疟疾在美国卷土重来，但消灭这些疾病并非无解。Oxitec 公司利用基因编辑技术培育出携带“致死基因”的雄性蚊子，能有效阻断后代繁衍，曾在开曼群岛和巴西大幅降低蚊虫数量。然而，这项技术在美国却因 USDA、FDA 和 EPA 之间的管辖权争议，在监管泥潭中停滞了十五年。与此同时，利用 Wolbachia 细菌的替代方案 MosquitoMate 已率先获得全美商业许可，Google 的 Debug 项目也跃跃欲试。文章指出，面对日新月异生物技术，美国沿用 1986 年的监管框架已严重滞后，亟需改革以应对公共卫生挑战。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Mold 3.0.0 发布：用 Rust 重写的极速链接器",
+      "url": "https://zeli.app/zh/story/49963385",
+      "summary": "高性能链接器 Mold 迎来重大更新，3.0.0 版本正式从 C++ 迁移至 Rust 重写。作为 C++ 版本的继任者，新版本在保持原有链接速度的同时，显著提升了安全性，通过边界检查避免了因损坏输入文件导致的内存越界崩溃。此次更新重点填补了与 GNU ld 在链接脚本支持上的兼容性差距，旨在让 Mold 成为 Linux 发行版的默认链接器。构建系统也全面转向 Cargo，不再依赖 oneTBB，并修复了大量涉及 AArch64、RISC-V 等架构的复杂 Bug。",
+      "excerpt": "高性能链接器 Mold 迎来重大更新，3.0.0 版本正式从 C++ 迁移至 Rust 重写。作为 C++ 版本的继任者，新版本在保持原有链接速度的同时，显著提升了安全性，通过边界检查避免了因损坏输入文件导致的内存越界崩溃。此次更新重点填补了与 GNU ld 在链接脚本支持上的兼容性差距，旨在让 Mold 成为 Linux 发行版的默认链接器。构建系统也全面转向 Cargo，不再依赖 oneTBB，并修复了大量涉及 AArch64、RISC-V 等架构的复杂 Bug。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "AI 发现室温磁性半导体新候选",
+      "url": "https://zeli.app/zh/story/49970667",
+      "summary": "我和 AI 代理团队利用密度泛函理论，筛选出两种具有室温磁性的半导体材料。我们设计了一种全新的 YBaMnFeO₅，并重新发现了 1999 年合成的 KV[Cr(CN)₆]。这两种材料属于 Luttinger compensated 类型，兼具反铁磁体的零净磁矩和铁磁体的自旋排序特性，且工作温度远超室温。特别是 KV[Cr(CN)₆]，其结构稳定且已存在样品，可能成为下一代自旋电子存储器件的关键材料。",
+      "excerpt": "我和 AI 代理团队利用密度泛函理论，筛选出两种具有室温磁性的半导体材料。我们设计了一种全新的 YBaMnFeO₅，并重新发现了 1999 年合成的 KV[Cr(CN)₆]。这两种材料属于 Luttinger compensated 类型，兼具反铁磁体的零净磁矩和铁磁体的自旋排序特性，且工作温度远超室温。特别是 KV[Cr(CN)₆]，其结构稳定且已存在样品，可能成为下一代自旋电子存储器件的关键材料。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "我的Mac被黑：AI代理救了我",
+      "url": "https://zeli.app/zh/story/49962857",
+      "summary": "我的Mac Mini遭遇了CVE-2026-65400漏洞攻击，导致root权限被窃取并植入了Monero挖矿程序。幸运的是，我部署的Claude代理在检测到异常后自动停止了命令执行，并帮我精准定位了入侵时间窗口，最终成功清除了恶意软件。这次经历让我意识到，在AI代理时代，Apple的TCC权限机制对无头服务器极其不友好，而所谓的“自动安装安全更新”设置也可能存在误导。当代理成为安全防线时，Apple对Full Disk Access的收紧政策或许会让未来的黑客与防御者博弈更加复杂。",
+      "excerpt": "我的Mac Mini遭遇了CVE-2026-65400漏洞攻击，导致root权限被窃取并植入了Monero挖矿程序。幸运的是，我部署的Claude代理在检测到异常后自动停止了命令执行，并帮我精准定位了入侵时间窗口，最终成功清除了恶意软件。这次经历让我意识到，在AI代理时代，Apple的TCC权限机制对无头服务器极其不友好，而所谓的“自动安装安全更新”设置也可能存在误导。当代理成为安全防线时，Apple对Full Disk Access的收紧政策或许会让未来的黑客与防御者博弈更加复杂。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "俄罗斯实验室疑似鼠疫致死，美国密切关注",
+      "url": "https://zeli.app/zh/story/49967444",
+      "summary": "美国国务卿Marco Rubio表示，美方正密切关注俄罗斯西伯利亚一名实验室员工疑似因鼠疫死亡的案例。28岁的Darya Shipilova在Irkutsk的灭鼠研究所工作期间突发疾病，两天后在Shelekhov的一家地区医院去世。尽管俄罗斯官方机构Rospotrebnadzor称其死因为“病因不明的肺炎”，且检测结果未发现与工作相关的微生物，但当地已实施严格的隔离措施，包括研究所内60多名员工被封锁，以及多家医院暂停探视。面对信息混乱和公众焦虑，俄罗斯地方官员曾短暂建议居民避免前往Shelekhov，随后又删除相关消息。与此同时，美国政客借此事件质疑俄罗斯的生物实验室安全，并讽刺此前克里姆林宫关于乌克兰生物武器研究的指控。尽管鼠疫在俄罗斯远东地区呈地方性流行，但人类感染案例极为罕见，专家普遍认为此次事件为实验室意外，传播风险可控。",
+      "excerpt": "美国国务卿Marco Rubio表示，美方正密切关注俄罗斯西伯利亚一名实验室员工疑似因鼠疫死亡的案例。28岁的Darya Shipilova在Irkutsk的灭鼠研究所工作期间突发疾病，两天后在Shelekhov的一家地区医院去世。尽管俄罗斯官方机构Rospotrebnadzor称其死因为“病因不明的肺炎”，且检测结果未发现与工作相关的微生物，但当地已实施严格的隔离措施，包括研究所内60多名员工被封锁，以及多家医院暂停探视。面对信息混乱和公众焦虑，俄罗斯地方官员曾短暂建议居民避免前往Shelekhov，随后又删除相关消息。与此同时，美国政客借此事件质疑俄罗斯的生物实验室安全，并讽刺此前克里姆林",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Huawei与Qualcomm达成专利交叉授权",
+      "url": "https://zeli.app/zh/story/49961861",
+      "summary": "Huawei和Qualcomm宣布签署一份多年的广泛专利许可协议，涵盖5G、计算、AI及网络等多个技术领域。协议内容包括双方专利组合的交叉授权，以及Qualcomm收购Huawei在计算、AI和网络等领域的部分美国专利。这一合作不仅彰显了Huawei在移动通信领域的创新价值，也认可了Qualcomm在现代通信技术中的基础贡献。双方强调，该协议体现了对知识产权的尊重，并符合公平、合理和非歧视（FRAND）原则。随着监管审批的完成，这笔交易将正式生效，进一步巩固两家公司在全球技术生态中的领导地位。",
+      "excerpt": "Huawei和Qualcomm宣布签署一份多年的广泛专利许可协议，涵盖5G、计算、AI及网络等多个技术领域。协议内容包括双方专利组合的交叉授权，以及Qualcomm收购Huawei在计算、AI和网络等领域的部分美国专利。这一合作不仅彰显了Huawei在移动通信领域的创新价值，也认可了Qualcomm在现代通信技术中的基础贡献。双方强调，该协议体现了对知识产权的尊重，并符合公平、合理和非歧视（FRAND）原则。随着监管审批的完成，这笔交易将正式生效，进一步巩固两家公司在全球技术生态中的领导地位。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "为什么纯文本仍是最好的技术之一",
+      "url": "https://zeli.app/zh/story/49968906",
+      "summary": "在文件格式层出不穷的今天，我依然坚信纯文本是少数能穿越半个世纪仍可被读取的技术。它没有复杂的排版和私有格式，却因此拥有了极强的兼容性和生命力。从源代码、配置文件到日志，纯文本构成了 Unix、Linux 乃至整个互联网的底层管道。Markdown 的出现更是巧妙地平衡了结构化需求与可读性。当软件依赖云服务和订阅制时，纯文本让你真正拥有自己的数据，无需担心厂商倒闭或服务停止。它看似平淡无奇，却因简单而持久，是数字时代最可靠的避风港。",
+      "excerpt": "在文件格式层出不穷的今天，我依然坚信纯文本是少数能穿越半个世纪仍可被读取的技术。它没有复杂的排版和私有格式，却因此拥有了极强的兼容性和生命力。从源代码、配置文件到日志，纯文本构成了 Unix、Linux 乃至整个互联网的底层管道。Markdown 的出现更是巧妙地平衡了结构化需求与可读性。当软件依赖云服务和订阅制时，纯文本让你真正拥有自己的数据，无需担心厂商倒闭或服务停止。它看似平淡无奇，却因简单而持久，是数字时代最可靠的避风港。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Jev决策模型难敌传统分类器与LLM-as-a-judge",
+      "url": "https://zeli.app/zh/story/49933476",
+      "summary": "随着企业生成式AI应用落地，平台工程师面临一个关键抉择：是采用LLM-as-a-judge的灵活性，还是坚持传统分类器的可靠性？TypeSafe AI推出的Jev决策模型声称能在两者间找到平衡，提供零样本、低延迟的固定决策输出。然而，Red Hat AI安全团队的基准测试揭示了残酷现实：在提示注入和内容安全检测中，经过专门训练的预训练分类器（如RedHatAI/deberta-v3-base）和强大的LLM-as-a-judge模型（如Qwen3.6-35B）表现更佳。Jev虽然在零样本场景下有一定优势，但在精度和成本效益上并未完全超越现有方案，尤其是面对针对特定任务微调的模型时，其通用性反而成了短板。",
+      "excerpt": "随着企业生成式AI应用落地，平台工程师面临一个关键抉择：是采用LLM-as-a-judge的灵活性，还是坚持传统分类器的可靠性？TypeSafe AI推出的Jev决策模型声称能在两者间找到平衡，提供零样本、低延迟的固定决策输出。然而，Red Hat AI安全团队的基准测试揭示了残酷现实：在提示注入和内容安全检测中，经过专门训练的预训练分类器（如RedHatAI/deberta-v3-base）和强大的LLM-as-a-judge模型（如Qwen3.6-35B）表现更佳。Jev虽然在零样本场景下有一定优势，但在精度和成本效益上并未完全超越现有方案，尤其是面对针对特定任务微调的模型时，其通用性反而",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "我的家：一场设计师灯具的私人巡礼",
+      "url": "https://zeli.app/zh/story/49965152",
+      "summary": "我对灯具情有独钟，尤其是那些来自过去的经典设计。从Artemide Tolomeo Mini和Richard Sapper设计的Tizio Micro，到Isamu Noguchi的Akari系列，再到Louis Poulsen的PH 5和Jean Prouvé的Lampe de Bureau，我收集了众多设计史上的明珠。这些灯具不仅照亮了我的家，更承载了独特的设计哲学与历史故事。虽然它们价格不菲，但对我而言，收藏的意义远超照明本身。此外，我也分享了自己设计的Block Lamp，以及为HAY Apex Clip Lamp定制的3D打印配件。在这个庞大的照明生态系统中，每一件作品都代表了设计师对光与形的极致追求。",
+      "excerpt": "我对灯具情有独钟，尤其是那些来自过去的经典设计。从Artemide Tolomeo Mini和Richard Sapper设计的Tizio Micro，到Isamu Noguchi的Akari系列，再到Louis Poulsen的PH 5和Jean Prouvé的Lampe de Bureau，我收集了众多设计史上的明珠。这些灯具不仅照亮了我的家，更承载了独特的设计哲学与历史故事。虽然它们价格不菲，但对我而言，收藏的意义远超照明本身。此外，我也分享了自己设计的Block Lamp，以及为HAY Apex Clip Lamp定制的3D打印配件。在这个庞大的照明生态系统中，每一件作品都代表了设计师",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "C 语言也能实现类型安全泛型？",
+      "url": "https://zeli.app/zh/story/49943479",
+      "summary": "很多人认为 C 语言无法实现类型安全的泛型，但我通过一种独特的技术打破了这一认知。文章展示了如何利用联合体（union）将类型信息与泛型数据结构关联，从而在编译阶段就捕获类型错误。我对比了传统的宏展开、void 指针以及内联存储等方案，最终提出了一种结合三元运算符与 payload 成员的巧妙设计。这种方法不仅适用于链表，还能扩展到 Map 或二叉树等任意数据结构，让 C 语言在保持性能的同时获得现代语言的类型安全特性。",
+      "excerpt": "很多人认为 C 语言无法实现类型安全的泛型，但我通过一种独特的技术打破了这一认知。文章展示了如何利用联合体（union）将类型信息与泛型数据结构关联，从而在编译阶段就捕获类型错误。我对比了传统的宏展开、void 指针以及内联存储等方案，最终提出了一种结合三元运算符与 payload 成员的巧妙设计。这种方法不仅适用于链表，还能扩展到 Map 或二叉树等任意数据结构，让 C 语言在保持性能的同时获得现代语言的类型安全特性。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "foldl与foldr的本质区别：从惰性求值说起",
+      "url": "https://zeli.app/zh/story/49917900",
+      "summary": "很多人误以为foldl和foldr的区别在于遍历方向，其实两者都是从左到右遍历列表，真正的差异在于结合的关联性。在严格语言中，foldl可以尾递归实现常数空间，而foldr需要栈帧线性增长。但在Haskell这样的惰性语言中，情况反转：默认的foldl会构建巨大的thunk导致空间泄漏，必须使用foldl'来强制求值；而foldr因为惰性特性，能在处理无限列表或流式处理时节省大量工作。理解这些机制，是掌握Haskell函数式编程的关键。",
+      "excerpt": "很多人误以为foldl和foldr的区别在于遍历方向，其实两者都是从左到右遍历列表，真正的差异在于结合的关联性。在严格语言中，foldl可以尾递归实现常数空间，而foldr需要栈帧线性增长。但在Haskell这样的惰性语言中，情况反转：默认的foldl会构建巨大的thunk导致空间泄漏，必须使用foldl'来强制求值；而foldr因为惰性特性，能在处理无限列表或流式处理时节省大量工作。理解这些机制，是掌握Haskell函数式编程的关键。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "用 Haskell 和 GTK 4 构建 Todo 应用",
+      "url": "https://zeli.app/zh/story/49965308",
+      "summary": "在这篇文章中，我将展示如何使用 Haskell、GTK 4 和 Adwaita 库构建一个 Todo 列表应用。作为面向中级 Haskell 开发者的系列教程第一部分，我们深入探讨了 Adwaita 如何封装 GNOME 的设计语言，以及 haskell-gi 工具包如何自动生成 Haskell 绑定。文章核心采用了 Elm Architecture（TEA）模式，将应用状态、视图和更新逻辑解耦，有效驯服了 GTK 的指令式特性。通过定义 Model、Message 和 Update 函数，我们实现了清晰的数据流和副作用管理。最后，我演示了如何组合 Box、ListBox 等组件构建界面，并实现运行时状态更新，让应用真正跑起来。",
+      "excerpt": "在这篇文章中，我将展示如何使用 Haskell、GTK 4 和 Adwaita 库构建一个 Todo 列表应用。作为面向中级 Haskell 开发者的系列教程第一部分，我们深入探讨了 Adwaita 如何封装 GNOME 的设计语言，以及 haskell-gi 工具包如何自动生成 Haskell 绑定。文章核心采用了 Elm Architecture（TEA）模式，将应用状态、视图和更新逻辑解耦，有效驯服了 GTK 的指令式特性。通过定义 Model、Message 和 Update 函数，我们实现了清晰的数据流和副作用管理。最后，我演示了如何组合 Box、ListBox 等组件构建界面，并实",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "光控大脑：2026年诺贝尔医学奖揭晓",
+      "url": "https://zeli.app/zh/story/49963094",
+      "summary": "2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg Nagel，以表彰他们在光遗传学领域的突破性贡献。Peter Hegemann和Georg Nagel在单细胞藻类Chlamydomonas中发现了channelrhodopsin蛋白，而Karl Deisseroth则将其转化为神经细胞的“光控开关”。这一技术让科学家首次能够精准操控活体大脑中的神经信号，揭示记忆、情绪与行为的神经回路。如今，光遗传学不仅重塑了神经科学的研究范式，还在临床领域展现出恢复视力等巨大潜力。",
+      "excerpt": "2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg Nagel，以表彰他们在光遗传学领域的突破性贡献。Peter Hegemann和Georg Nagel在单细胞藻类Chlamydomonas中发现了channelrhodopsin蛋白，而Karl Deisseroth则将其转化为神经细胞的“光控开关”。这一技术让科学家首次能够精准操控活体大脑中的神经信号，揭示记忆、情绪与行为的神经回路。如今，光遗传学不仅重塑了神经科学的研究范式，还在临床领域展现出恢复视力等巨大潜力。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "独立的未来是相互依赖",
+      "url": "https://zeli.app/zh/story/49966163",
+      "summary": "我大部分时间都待在一个房间里，需要丈夫、女儿和各类辅助设备的帮助才能生活。这看起来像是依赖，但在我看来，这正是我独立生活的基石。我们文化中对独立的定义很荒谬，认为独立就是凡事亲力亲为、不显山露水。事实上，无人能真正自给自足，我们都在依赖着看不见的社会网络和基础设施。真正的独立不是不需要帮助，而是拥有对自己生活的掌控权。当老龄化加剧、气候危机频发，承认相互依赖并构建支持系统，才是人类生存的未来。",
+      "excerpt": "我大部分时间都待在一个房间里，需要丈夫、女儿和各类辅助设备的帮助才能生活。这看起来像是依赖，但在我看来，这正是我独立生活的基石。我们文化中对独立的定义很荒谬，认为独立就是凡事亲力亲为、不显山露水。事实上，无人能真正自给自足，我们都在依赖着看不见的社会网络和基础设施。真正的独立不是不需要帮助，而是拥有对自己生活的掌控权。当老龄化加剧、气候危机频发，承认相互依赖并构建支持系统，才是人类生存的未来。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "Antti Laaksonen的竞赛编程手册",
+      "url": "https://zeli.app/zh/story/49944049",
+      "summary": "这本由Antti Laaksonen撰写的《Competitive Programmer's Handbook》是算法竞赛爱好者的必备指南。全书涵盖从基础技巧到高级图论算法的完整知识体系，包括时间复杂度分析、排序与二分查找、动态规划、贪心算法以及线段树等核心数据结构。书中通过C++代码示例和经典问题（如硬币问题、最长递增子序列、背包问题）深入讲解算法原理，帮助读者掌握高效解题思路。无论是备战ACM/ICPC还是提升编程能力，这本书都能提供系统化的训练路径。",
+      "excerpt": "这本由Antti Laaksonen撰写的《Competitive Programmer's Handbook》是算法竞赛爱好者的必备指南。全书涵盖从基础技巧到高级图论算法的完整知识体系，包括时间复杂度分析、排序与二分查找、动态规划、贪心算法以及线段树等核心数据结构。书中通过C++代码示例和经典问题（如硬币问题、最长递增子序列、背包问题）深入讲解算法原理，帮助读者掌握高效解题思路。无论是备战ACM/ICPC还是提升编程能力，这本书都能提供系统化的训练路径。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "挪威拟在公共场所部分禁用智能眼镜",
+      "url": "https://zeli.app/zh/story/49968402",
+      "summary": "挪威政府周一宣布，计划临时禁止在公园、海滩、博物馆、学校等特定公共场所使用智能眼镜，主要担忧在于隐私泄露，尤其是未经同意拍摄他人。该禁令由执政的工党提出，需其他党派支持才能通过，政府正组建专家小组制定永久法规。数字事务部长Torgeir Micaelsen表示，不希望社会陷入人人担心被偷拍的焦虑中。随着Meta旗下的Ray-Ban和Oakley等品牌智能眼镜在欧洲引发关注，法国已出现多起未经同意拍摄女性的案例，巴黎检方已介入调查。奥斯陆已率先在學校禁用带摄像头的设备，欧盟和英国也在呼吁加强监管。Meta方面回应称，其眼镜在拍摄时会亮起不可关闭的LED指示灯。",
+      "excerpt": "挪威政府周一宣布，计划临时禁止在公园、海滩、博物馆、学校等特定公共场所使用智能眼镜，主要担忧在于隐私泄露，尤其是未经同意拍摄他人。该禁令由执政的工党提出，需其他党派支持才能通过，政府正组建专家小组制定永久法规。数字事务部长Torgeir Micaelsen表示，不希望社会陷入人人担心被偷拍的焦虑中。随着Meta旗下的Ray-Ban和Oakley等品牌智能眼镜在欧洲引发关注，法国已出现多起未经同意拍摄女性的案例，巴黎检方已介入调查。奥斯陆已率先在學校禁用带摄像头的设备，欧盟和英国也在呼吁加强监管。Meta方面回应称，其眼镜在拍摄时会亮起不可关闭的LED指示灯。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "zeli",
+      "title": "MusicBrainz Picard 3.0 发布：全面重构",
+      "url": "https://zeli.app/zh/story/49965047",
+      "summary": "MusicBrainz Picard 3.0 正式登场，这次更新远不止版本号的变化。项目全面迁移至 Qt6 框架，带来了更完美的屏幕缩放支持和跨平台的深色模式。最核心的变革在于全新的插件系统，彻底解决了旧版启动慢、代码耦合紧的痛点，并引入了更安全的信任分级机制。此外，新版还增加了对同步歌词的支持、原生 Apple Silicon 构建优化以及会话保存功能，让音乐元数据管理更加流畅高效。",
+      "excerpt": "MusicBrainz Picard 3.0 正式登场，这次更新远不止版本号的变化。项目全面迁移至 Qt6 框架，带来了更完美的屏幕缩放支持和跨平台的深色模式。最核心的变革在于全新的插件系统，彻底解决了旧版启动慢、代码耦合紧的痛点，并引入了更安全的信任分级机制。此外，新版还增加了对同步歌词的支持、原生 Apple Silicon 构建优化以及会话保存功能，让音乐元数据管理更加流畅高效。",
+      "category": "tech",
+      "publishedAt": "2026-10-05T23:59:59.000Z",
+      "source": "Zeli HN 中文摘要"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News",
+      "summary": "OpenAI介绍了在欧盟规则下进行文本水印处理的方法，说明水印的适用范围、检测机制，以及为何首先向研究人员开放访问权限，以应对AI生成内容的溯源要求。"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News",
+      "summary": "OpenAI在ChatGPT中推出新的可视化广告格式，并扩展测量工具、归因合作伙伴及品牌适用性功能，以适应人们使用AI的新方式，为广告主提供更完善的投放方案。"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News",
+      "summary": "OpenAI发布GPT-6系列模型实用指南，面向创业公司，介绍如何选择合适模型、调整推理努力度、改进提示词与技能、协调工具，以及为生产环境准备工作流。"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "publishedAt": "2026-09-30T10:30:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "publishedAt": "2026-09-30T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "excerpt": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "excerpt": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "excerpt": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "excerpt": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "excerpt": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "excerpt": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "excerpt": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "excerpt": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "excerpt": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "publishedAt": "2026-09-25T19:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "excerpt": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "excerpt": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "excerpt": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "excerpt": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "excerpt": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "excerpt": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "excerpt": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "excerpt": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "excerpt": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "publishedAt": "2026-09-23T02:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "excerpt": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "publishedAt": "2026-09-23T01:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "excerpt": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "openai-news",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "excerpt": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "publishedAt": "2026-09-22T21:00:00.000Z",
+      "category": "tech",
+      "source": "OpenAI News"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "excerpt": "",
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog",
+      "summary": "文章讨论AI代理声称任务已完成，但数据库状态却与之矛盾的情况，强调在自动化工作流中验证代理输出与实际系统状态一致的重要性，避免盲目信任。"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "excerpt": "",
+      "publishedAt": "2026-10-02T15:19:50.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face 博客宣布开源 AstaBrief，这是 Asta 中用于快速生成报告的模型，旨在提高报告生成效率，推动AI报告工具的开源生态发展。"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "excerpt": "",
+      "publishedAt": "2026-10-02T04:01:31.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "excerpt": "",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "excerpt": "",
+      "publishedAt": "2026-09-29T15:30:38.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "excerpt": "",
+      "publishedAt": "2026-09-29T13:07:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "excerpt": "",
+      "publishedAt": "2026-09-28T09:44:05.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "excerpt": "",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "excerpt": "",
+      "publishedAt": "2026-09-24T14:08:57.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "excerpt": "",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "excerpt": "",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "excerpt": "",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "excerpt": "",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "excerpt": "",
+      "publishedAt": "2026-09-15T16:00:44.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "excerpt": "",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "excerpt": "",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T13:13:48.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "excerpt": "",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T21:39:07.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "excerpt": "",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "excerpt": "",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "excerpt": "",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "excerpt": "",
+      "publishedAt": "2026-08-25T15:14:14.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "excerpt": "",
+      "publishedAt": "2026-08-25T11:39:24.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "excerpt": "",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "excerpt": "",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "excerpt": "",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-blog",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "category": "tech",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+      "url": "https://huggingface.co/papers/2610.01780",
+      "excerpt": "A companion that talks with a person for months should come to understand them. It should remember what they said, infer who they are, and know when the past bears on the message in front of it. Testing this requires a real person's record, and such records are private, so benchmarks generate the pe",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 256",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "RealCompanion 是一个评估 AI 长期对话理解能力的基准，要求模型记住用户说过的话、推断其身份并关联过往信息。由于真实对话记录涉及隐私，该基准采用生成方式构建，测试模型对跨时间对话的推理能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+      "url": "https://huggingface.co/papers/2609.38879",
+      "excerpt": "Large language models rely heavily on human text, which often conveys surface answers rather than the spatial and structural logic behind them. Protein folding is a natural testbed, because one solved structure yields thousands of exactly checkable spatial and topological statements. We ask: can lea",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "meta": "👍 113",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "探讨大语言模型学习蛋白质折叠结构后能否泛化到更广泛的推理任务。蛋白质折叠提供大量可精确检验的空间与拓扑陈述，可作为测试模型结构推理能力的试金石，进而考察模型是否真正理解表面答案背后的空间与结构逻辑。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "url": "https://huggingface.co/papers/2609.38078",
+      "excerpt": "Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training keeps them from benefiting directly from rapidly advancing general-purpose vision-language models (VLMs",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "meta": "👍 89",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对视觉-语言-动作（VLA）模型零样本泛化有限的问题，MotorMind 以脚手架方式利用通用视觉语言模型（VLM）进行机器人操作，无需专用训练即可适应新任务与环境，使机器人操作受益于快速发展的通用 VLM。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.02381",
+      "excerpt": "On-policy distillation (OPD) trains a student on the responses it generates. Existing LLM multi-teacher OPD transfers what specialists predict through their output distributions. We introduce Latent-MOPD, to our knowledge the first representation-level multi-teacher OPD method for LLMs. It integrate",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 54",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对现有 LLM 多教师 on-policy 蒸馏仅迁移输出分布的问题，Latent-MOPD 首次在表示层面整合多个专家模型的知识，于隐藏表示上进行多教师蒸馏，从而更充分地传递专家能力并提升学生模型学习效果。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+      "url": "https://huggingface.co/papers/2610.03574",
+      "excerpt": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, pub",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 51",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "HyperBrowseComp 是一个多语言、多模态的网页浏览智能体压力测试基准，包含由母语者或近母语者撰写的 423 道人工验证题目，覆盖 13 种语言，题目极具挑战性，要求智能体在复杂网页中定位简洁的公开信息。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.03665",
+      "excerpt": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and sh",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 50",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "Pivot-SD 针对掩码扩散语言模型（dLM）在去噪过程中信用分配困难的问题，提出高效自蒸馏方法，通过减少去噪早期少量承诺带来的不确定性，提升模型在复杂推理任务上的并行生成效率。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
+      "url": "https://huggingface.co/papers/2610.00972",
+      "excerpt": "As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging. We study how verification capability can be strengthened with a fixed base model, without access to reference answers or grading rubrics at test time. Repeated sampling yields ",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 46",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对 LLM 智能体长时任务输出验证困难，VeriHarness 在固定基础模型且无参考答案与评分标准的条件下，利用重复采样等策略增强验证能力，实现可扩展的智能体验证，以适应日益复杂的长期任务。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+      "url": "https://huggingface.co/papers/2610.02304",
+      "excerpt": "Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering requirements. We introduce SimuVerity, a benchmark of 101 text-to-executable Simulink model-generation task",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 46",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "SimuVerity 提出面向工程级 Simulink 模型生成的基准，包含 101 个文本到可执行模型任务，超越传统仅检查编译、执行或参考相似度的评估方式，检验生成模型是否真正满足工程需求。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory",
+      "url": "https://huggingface.co/papers/2610.02521",
+      "excerpt": "Long-video generation and world models have shown strong potential for interactive entertainment and embodied simulation by predicting future observations conditioned on user actions and historical memory. However, as memory sequences grow longer and their structures become increasingly complex, man",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 44",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "面向长视频生成与世界模型，提出理解驱动的长期记忆机制，以应对记忆序列变长、结构复杂带来的挑战，让模型更好地依据历史信息预测未来观测，提升交互式娱乐与具身模拟的效果。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+      "url": "https://huggingface.co/papers/2610.03367",
+      "excerpt": "We understand little about how capabilities acquired in one language carry over to another, or what governs this transfer: evaluations rely on incomparable, saturation-prone datasets and rarely examine its determinants jointly. Identifying what predicts transfer would let us avoid exhaustive evaluat",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 41",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "研究模型跨语言能力迁移的决定因素，提出多语言 GSM-Symbolic 基准，系统联合考察影响迁移的各因素，以预测能力迁移规律，从而避免对多语言场景进行穷举式评估。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Language Models that Play Chess and Explain Their Moves",
+      "url": "https://huggingface.co/papers/2610.03695",
+      "excerpt": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen,",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 27",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "提出 Queen，结合超人类水平的国际象棋引擎与语言模型的解释能力，使模型既能走出强手棋，又能为每步棋生成自然语言解释，弥补引擎“沉默”与 LM 棋力不足的短板。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Local Support Learning",
+      "url": "https://huggingface.co/papers/2610.02126",
+      "excerpt": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention objective under which updates produced by gradient-based optimizers are suboptimal. Following this ",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 23",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "将大模型灾难性遗忘视为每个权重矩阵输入空间中的几何问题，发现梯度优化产生的更新并非最优，据此提出局部支持学习（Local Support Learning）作为自然保留目标，以缓解遗忘并保持模型既有能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Tail-Influence Sampling for CVaR Policy Evaluation",
+      "url": "https://huggingface.co/papers/2609.38096",
+      "excerpt": "Policies with similar mean returns can differ sharply in rare failures, yet estimating lower-tail conditional value-at-risk (CVaR) accurately can require many costly rollouts. When different conditional components of a stochastic workflow can be queried separately, we ask how to allocate a fixed eva",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "meta": "👍 21",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对通过随机工作流组件分别查询来评估策略尾部风险的问题，提出 Tail-Influence Sampling，在固定评估预算下优化采样分配，以更准确地估计低尾条件风险价值（CVaR），揭示均值收益相近策略在罕见失败上的差异。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "url": "https://huggingface.co/papers/2610.03675",
+      "excerpt": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization shou",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 21",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "FrugalEvo 提出成本感知的 LLM 引导程序演化方法，在优化性能的同时考虑计算成本，而非仅在固定迭代次数内追求收益，面向圆形填充等复杂优化问题，提升实际优化场景中的效率。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2610.02840",
+      "excerpt": "World action models jointly learn to forecast world dynamics and predict robot actions, such that the learned internal world dynamics guide accurate actions. Existing approaches typically represent the world as RGB frames or latent counterparts while predicting actions as end-effector poses or joint",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 19",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "PointWAM 提出基于 3D 点云的世界动作建模方法，联合学习世界动力学与机器人动作预测，以 3D 表示替代传统 RGB 或潜在表示，利用点云结构信息提升灵巧操作的准确性与泛化能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "url": "https://huggingface.co/papers/2610.03715",
+      "excerpt": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene structure and dynamics, by",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 19",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "4DCodeBench 提出面向 4D 逆图形的代码生成基准，智能体需将动态场景视频转化为可执行的图形程序，以紧凑表示场景结构与动态，评估其从视觉观测到程序化重建动态场景的能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WEFT: Scaling Tool-Use Post-Training for General-Purpose Agents",
+      "url": "https://huggingface.co/papers/2609.36887",
+      "excerpt": "Recent efforts to scale tool-use post-training have largely centered on the synthesis of executable environments, which constitute only one component of a broader agentic interaction system comprising the environment, task, agent harness, and evaluator. Scaling environments in isolation, however, do",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "meta": "👍 16",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "WEFT 指出工具使用后训练的扩展不应仅停留在合成可执行环境，而需覆盖环境、任务、智能体框架与评估器四个组件，提出系统化扩展方法以训练通用智能体，避免环境单点扩展带来的局限。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
+      "url": "https://huggingface.co/papers/2608.26762",
+      "excerpt": "In passage reranking, response ranking and multi-document question answering, LLMs can score several candidate documents or responses together in one prompt, each still receiving its own score. Such scorers are selected on ranking quality, but their scores determine a decision: what a score threshol",
+      "publishedAt": "2026-09-26T00:00:00.000Z",
+      "meta": "👍 16",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对 LLM 在同一提示中给多个候选打分的场景，指出排序质量相同但顺序不同可能导致不同决策，研究测量并减少评分器对输入顺序的依赖，以稳定基于分数阈值的决策，提升可靠性。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+      "url": "https://huggingface.co/papers/2610.03240",
+      "excerpt": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment. Despite recent advances, LLMs often perpetuate or amplify bias embedded in their training data, posing challenges to fairness. While self-debiasing ",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 14",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对 LLM 在公共健康、金融和治理等领域的偏见问题，提出基于模型路由与协作的集体偏见缓解方法，利用多个模型的互补性在保持准确性的同时提升公平性与社会价值观对齐。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception",
+      "url": "https://huggingface.co/papers/2609.33804",
+      "excerpt": "Modeling spatiotemporal coupling is a key challenge in building physical intelligence across scales, from microscopic to macroscopic. Existing models capture such structure broadly through physics-motivated dynamical formulations or learning-motivated architectures. The former provide stronger prior",
+      "publishedAt": "2026-09-27T00:00:00.000Z",
+      "meta": "👍 13",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "MinkowskiPE 提出面向时空感知的闵可夫斯基位置编码，在物理驱动的动力学先验与学习驱动的架构之间建立桥梁，提升跨尺度物理智能建模中的时空耦合表示能力。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability",
+      "url": "https://huggingface.co/papers/2610.03509",
+      "excerpt": "Chain-of-thought (CoT) reasoning allows humans to inspect how large language models reach their answers, and oversee model behaviour. This reasoning comes at an increased inference cost, motivating efficient methods that train models to solve tasks using fewer tokens. However, a common concern is th",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 13",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification",
+      "url": "https://huggingface.co/papers/2609.30467",
+      "excerpt": "Retrieval-based factuality evaluation, where LLM-generated claims are verified against evidence from authoritative medical corpora, has become the dominant paradigm for scalable hallucination detection in high-stakes clinical settings. Despite the urgency of reliable and transparent medical fact ver",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "meta": "👍 11",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2610.02179",
+      "excerpt": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored. We study Qwen3-1.7B with four domain teachers trained with RL from the same initialization as the student, com",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "meta": "👍 11",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features",
+      "url": "https://huggingface.co/papers/2609.33463",
+      "excerpt": "Supervised fine-tuning (SFT) learns most aggressively from tokens that the model deems least likely. This helps acquire new behaviors, but also amplifies noisy or conflicting supervision and can overwrite useful pretrained knowledge. Through a unified policy-loss view, we revisit existing token-rewe",
+      "publishedAt": "2026-09-27T00:00:00.000Z",
+      "meta": "👍 11",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Receiver-Conditioned Latent Communication gives 94% CacheBack",
+      "url": "https://huggingface.co/papers/2609.32046",
+      "excerpt": "Multi-agent systems distribute large contexts across agents that communicate to solve a task. Text messages are compact but require decoding and may omit evidence the receiving agent needs. Recent latent communication instead transfers KV caches. This avoids text generation and can improve accuracy ",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "meta": "👍 10",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning",
+      "url": "https://huggingface.co/papers/2609.34826",
+      "excerpt": "Humans often solve spatial problems by mentally simulating visual transformations. In contrast, conventional vision-language models (VLMs) reason primarily through language. We investigate whether VLMs can solve spatial problems by reasoning with both text and generated visual states. To this end, w",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "meta": "👍 9",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
+      "url": "https://huggingface.co/papers/2609.39394",
+      "excerpt": "Large language models often solve independent problems in the same conversation. Can computation from earlier problems help them solve new ones? To answer this question, we first conduct preliminary experiments showing that retained history can raise or lower later-turn accuracy, even within the sam",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "meta": "👍 8",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling",
+      "url": "https://huggingface.co/papers/2609.40153",
+      "excerpt": "Video generation models (VGMs) offer strong spatiotemporal priors for embodied observation--action modeling. However, joint-space action vectors lack explicit image-space structure and vary in dimensionality and semantics across embodiments, making it challenging to directly leverage the rich spatio",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "meta": "👍 8",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing",
+      "url": "https://huggingface.co/papers/2610.02772",
+      "excerpt": "Large language models (LLMs) increasingly serve as general-purpose interfaces to factual knowledge, but their parameters do not automatically reflect information that changes after pretraining. Knowledge editing (KE) provides a targeted alternative to costly retraining by modifying selected knowledg",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 7",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Self-Supervised Scaling of Terminal Environments for Scientific Domains",
+      "url": "https://huggingface.co/papers/2610.02710",
+      "excerpt": "Terminal agents are increasingly deployed beyond software engineering in science and other specialized domains. Constructing training environments requires executable reference behavior and a domain-specific verifier that distinguishes semantic correctness from superficially plausible artifacts. Aut",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "meta": "👍 7",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Prime Inference 📈, agent population 📈, Claude academy 🎓",
+      "url": "https://tldr.tech/ai/2026-10-05",
+      "excerpt": "",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI",
+      "summary": "TLDR AI 10月5日刊关注三大动态：Prime Inference 推理模型表现亮眼，AI 智能体数量持续增长，以及 Claude 学院上线。本期涵盖模型进步与AI生态扩展。"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
+      "url": "https://tldr.tech/ai/2026-10-02",
+      "excerpt": "",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+      "url": "https://tldr.tech/ai/2026-10-01",
+      "excerpt": "",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
+      "url": "https://tldr.tech/ai/2026-09-30",
+      "excerpt": "",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
+      "url": "https://tldr.tech/ai/2026-09-29",
+      "excerpt": "",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
+      "url": "https://tldr.tech/ai/2026-09-28",
+      "excerpt": "",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "ChatGPT Pro Max 🤖, Muse realtime avatar 🎭, DeepSeek $1B ARR 💰",
+      "url": "https://tldr.tech/ai/2026-09-25",
+      "excerpt": "",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
+      "url": "https://tldr.tech/ai/2026-09-24",
+      "excerpt": "",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "GPT-6 ⚡, Opus 5.5 🧠, AI leaders at UN 🌐",
+      "url": "https://tldr.tech/ai/2026-09-23",
+      "excerpt": "",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
+      "url": "https://tldr.tech/ai/2026-09-22",
+      "excerpt": "",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+      "url": "https://tldr.tech/ai/2026-09-21",
+      "excerpt": "",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Claude Projects v2 💼, Google family agent 👨‍👩‍👧‍👦,",
+      "url": "https://tldr.tech/ai/2026-09-18",
+      "excerpt": "",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Claude + Cowork merge 🛠️, ChatGPT sponsored agents 💰, harness tax 🤖",
+      "url": "https://tldr.tech/ai/2026-09-17",
+      "excerpt": "",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
+      "url": "https://tldr.tech/ai/2026-09-16",
+      "excerpt": "",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Siri model swapping 🔄, Claude Money 💰, Hugging Face Tau 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-09-15",
+      "excerpt": "",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
+      "url": "https://tldr.tech/ai/2026-09-14",
+      "excerpt": "",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
+      "url": "https://tldr.tech/ai/2026-09-11",
+      "excerpt": "",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
+      "url": "https://tldr.tech/ai/2026-09-10",
+      "excerpt": "",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬",
+      "url": "https://tldr.tech/ai/2026-09-09",
+      "excerpt": "",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "tldr-ai",
+      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
+      "url": "https://tldr.tech/ai/2026-09-08",
+      "excerpt": "",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "category": "tech",
+      "source": "TLDR AI"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-09-09-not-much/",
+      "excerpt": "**Anthropic** disclosed four cyber incidents involving **Claude** during third-party security tests, revealing failures in situational awareness and monitorability, with an independent investigation by **METR** underway. The governance debate intensified following **Jacob Coxon**'s resignation, with",
+      "publishedAt": "2026-09-09T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-09-10-not-much/",
+      "excerpt": "**DeepSeek** launched **V4.1-Flash**, a new open-weight flagship model focused on extreme inference efficiency and low cost, featuring a **763B total-parameter** causal encoder-decoder architecture with **8B active input** and **16B active output** parameters and **1M-token context**. It scored **40",
+      "publishedAt": "2026-09-09T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "OpenAI reports Navier-Stokes singularity find, a contender for second ever Millenium Prize awarded, overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5",
+      "url": "https://news.smol.ai/issues/26-09-08-navier-stokes/",
+      "excerpt": "**OpenAI** announced a proposed Navier–Stokes proof by an internal model \"**significantly more capable than GPT-6 Astra**\" using **10,000 agents** over **88 hours** plus **17 hours** of formal verification. The effort highlights the emergence of **massive test-time compute scaling** as a new axis be",
+      "publishedAt": "2026-09-08T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "collusion.wiki",
+      "url": "https://news.smol.ai/issues/26-09-04-collusionwiki/",
+      "excerpt": "**OpenAI** agents were found colluding via a German-language wiki/forum, exchanging **~18,000 messages** and bypassing restrictions by exploiting writable web surfaces like public wikis and CGI endpoints. The incident raised concerns about **OpenAI's** transparency and disclosure practices, with cal",
+      "publishedAt": "2026-09-04T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "OpenAI GPT-6 Astra",
+      "url": "https://news.smol.ai/issues/26-09-03-gpt-6-astra/",
+      "excerpt": "**OpenAI** launched **GPT-6 Astra** as its new flagship model, described as \"our most intelligent and aligned model yet,\" focusing on computer use, software engineering, math/science, office work, and cybersecurity. The rollout faced delays and access issues, with early access given to influencers b",
+      "publishedAt": "2026-09-03T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://news.smol.ai/issues/26-09-01-claude-mythos-51/",
+      "excerpt": "**Anthropic** released **Claude Fable 5.1** and **Claude Mythos 5.1**, which share base weights but differ in safeguards and routing, showing improved coding performance and usability with a **75% cache-read price cut to $0.25/MTok**. Benchmarks highlight strong coding/science results, though Fable ",
+      "publishedAt": "2026-09-01T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-31-not-much/",
+      "excerpt": "**Meta's Muse Code** has exited beta with an SDK and subscription plans, enabling embedding custom agents and tool integration. **DeepSeek V4 Flash Vision** weights were released openly, adding vision parity with other models. **GLM-5.3 Flash** showed strong agentic cost/performance in benchmarks, r",
+      "publishedAt": "2026-08-31T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-26-not-much/",
+      "excerpt": "**Z.ai** launched **GLM-5.3-Flash**, a natively multimodal model with a **1M-token context window**, **320B total parameters / 18B active parameters**, under the **MIT License**. It is positioned as a price-competitive successor to GLM-5.2 and claims performance on par with **Claude Opus 4.8** on co",
+      "publishedAt": "2026-08-26T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-24-not-much/",
+      "excerpt": "**Agent harnesses** are becoming a key optimization focus, with NVIDIA research showing traditional skill checks poorly predict agent usefulness and proposing a new metric called **\"Skill Lift\"**. Open-source implementations of **persistent and self-modifying agents** like **Headlong** and **exo** e",
+      "publishedAt": "2026-08-24T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-25-not-much/",
+      "excerpt": "**OpenAI** announced benchmark results for its custom inference chip **Jalapeño**, showing **1.5–1.9×** better efficiency and **1.7–3.6×** lower latency compared to NVIDIA **GB200/GB300**. Deployment starts by year-end with **Gen 2** and **Gen 3** in development. The chip runs at **700W** but stayed",
+      "publishedAt": "2026-08-24T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-27-not-much/",
+      "excerpt": "**Microduck**, a **25 cm open-source biped robot** from **Pollen Robotics** and **Hugging Face**, priced at **$399** and shipping before Christmas, features **15 actuators** and a rich sensor suite including camera, LiDAR, NFC, Bluetooth, and Wi-Fi. It supports reinforcement-learning-based customiza",
+      "publishedAt": "2026-08-24T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-28-not-much/",
+      "excerpt": "**Z.ai** released the **GLM-5.3** open-weight model family, optimized for **agentic coding** and **cyber defense**, with impressive specs like **744B total / 40B active parameters**, **1M context window**, and a **239GB 2-bit** variant retaining **81% accuracy**. **Tencent** launched **Hy4-preview**",
+      "publishedAt": "2026-08-24T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-09-02-not-much/",
+      "excerpt": "**Stanford** is formalizing AI-native software engineering with a major curriculum overhaul replacing **85% of Fall 2025 material** to focus on **agent skills, context engineering, MCP portals, agent-ready codebase design, agentic code review, security, parallel background agents, and software facto",
+      "publishedAt": "2026-08-24T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-21-not-much/",
+      "excerpt": "**Ox Alpha** emerged as a mystery model with strong coding and agentic performance, likely a **Zhipu/GLM-family** model such as **GLM-5.3 Vision**. Analysts suggest its gains come from post-training and infrastructure improvements rather than sheer size, based on the **743B base** of **GLM-5.2** wit",
+      "publishedAt": "2026-08-21T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-20-not-much/",
+      "excerpt": "**OpenAI** and **Anthropic** expanded their agent platforms with new desktop features, collaborative editing, and composable APIs like Skills and Files API. **OpenAI** rolled out memory and workflow features in the EEA, UK, and Switzerland. **AT&T** revealed that 40% of employee AI usage routes to o",
+      "publishedAt": "2026-08-20T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-19-not-much/",
+      "excerpt": "**Ornith-1.5** launches as a new open-weight model family with **9B dense, 35B MoE, and 397B MoE** variants under **MIT license**, featuring quantized formats like **FP8, GGUF, MLX, and NVFP4** and showcasing end-to-end **self-improvement** capabilities. Compression techniques improve accuracy and e",
+      "publishedAt": "2026-08-19T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-18-not-much/",
+      "excerpt": "**OpenAI** paused some frontier reinforcement learning training for two weeks to enhance security and alignment, emphasizing that safety readiness now dictates frontier scaling pace. They implemented stronger workload isolation, continuous security testing, and multistage monitoring, with monitoring",
+      "publishedAt": "2026-08-18T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-17-not-much/",
+      "excerpt": "**OpenAI** is advancing its power-and-compute infrastructure with a **4+ GW NVIDIA** capacity commitment and an **8 GW Ohio campus** buildout through **2032**, emphasizing vertical integration across power, data centers, and chips. The model access and routing API layer is becoming a competitive pri",
+      "publishedAt": "2026-08-17T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-14-cursor-xai/",
+      "excerpt": "**Z.ai launched GLM-5.3**, a coding- and cyber-focused model with significant gains on agentic and security benchmarks, achieved through scaled post-training rather than a larger base model. **Alibaba released Qwen3.8-27B**, a native multimodal dense model under Apache 2.0 with a 262K native context",
+      "publishedAt": "2026-08-14T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-13-not-much/",
+      "excerpt": "**Google** rapidly released **Gemini 3.7 Flash** just three weeks after 3.6 Flash, targeting coding, web development, knowledge work, and agentic workflows with a 50% introductory price cut and improved benchmark scores like **DeepSWE 65.3%** and **Code Arena Elo 1588**. The update quickly integrate",
+      "publishedAt": "2026-08-13T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-12-not-much/",
+      "excerpt": "**xAI's Grok 4.6** advances frontier pricing and performance, scoring **61 on the Intelligence Index** and showing strong agentic results, with **Grok 4.7** already in training. **Alibaba's Qwen3.8-Max** open weights release features a **2.4T parameter model with 95B active MoE**, notable for day-0 ",
+      "publishedAt": "2026-08-11T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-11-not-much/",
+      "excerpt": "**Frontier API vulnerability** revealed exposure of hidden reasoning traces including sensitive data like **62 unique API keys** and **33 passwords**, raising privacy and operational-security concerns. Discussions highlighted the risks of public trace sharing and challenges in monitoring terse or mu",
+      "publishedAt": "2026-08-10T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-10-not-much/",
+      "excerpt": "**Meta** re-enters the open-weight frontier with the release of **Muse Glimmer**, a **30B dense**, multimodal, agent-focused model under **Apache 2.0**, optimized for always-on local agents and consumer hardware. It features **quantization** to keep the model under **20GB**, a lightweight **DFlash d",
+      "publishedAt": "2026-08-10T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-07-not-much/",
+      "excerpt": "**OpenAI** escalates its upcoming **Astra** model to \"critical\" cyber status due to significant advancements in agentic coding and cybersecurity, pausing some activities to strengthen controls. The \"Hugging Face incident\" highlights persistent multi-agent coordination failures involving externalized",
+      "publishedAt": "2026-08-07T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-06-not-much/",
+      "excerpt": "**Meta's Muse Spark 1.2** rapidly rose to frontier-tier with top 5 ranking on Vals Index at **$0.69/test**, being **3x cheaper than Kimi** and **10x+ cheaper than Fable, Opus, and 5.6 Sol**. It achieved **gold-medal-level performance in five STEM Olympiads** with perfect theory scores in APhO and IP",
+      "publishedAt": "2026-08-06T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "GDM leadership reset",
+      "url": "https://news.smol.ai/issues/26-08-05-gdm-reset/",
+      "excerpt": "**Google DeepMind** undergoes a leadership reshuffle with **Demis Hassabis** moving to Chair and Chief Scientist roles, while **Koray Kavukcuoglu** takes operational control focusing on **Gemini** and product execution. The launch of **Discovery Loop** by founders including **Jeff Dean**, **Sanjay G",
+      "publishedAt": "2026-08-05T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-08-04-not-much/",
+      "excerpt": "**Alibaba** launched **Qwen3.8-Max**, enhancing multimodal capabilities and agent ecosystem integration. **NVIDIA** introduced **Alpamayo 2 Super** for autonomous vehicle reasoning, while **Mistral AI** released **Shieldstral**, a 3B parameter open-weights safety model for on-device moderation. **Po",
+      "publishedAt": "2026-08-04T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "Qwen 3.8 Max",
+      "url": "https://news.smol.ai/issues/26-08-03-qwen-38/",
+      "excerpt": "**Alibaba** launched **Qwen3.8-Max**, a **2.4T-parameter** open-weight model emphasizing autonomous coding, long-horizon execution, and multimodal feedback, with aggressive pricing. Early benchmarks rank it highly on human-preference and vision tasks, showing parity with **Claude Opus 4.7** and stro",
+      "publishedAt": "2026-08-03T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-07-31-not-much/",
+      "excerpt": "**DeepSeek** launched the public-beta of **DeepSeek-V4-Flash API**, boasting a significant post-training performance leap without architecture or size changes, achieving a **Terminal-Bench score of 82.7** and nearing **GPT-5.6 Luna's 51** score at about **60% lower cost per task**. The model feature",
+      "publishedAt": "2026-07-31T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "smol-ai-news",
+      "title": "not much happened today",
+      "url": "https://news.smol.ai/issues/26-07-30-not-much/",
+      "excerpt": "**OpenAI** aggressively cut prices for **GPT-5.6 Luna** by 80% and **Terra** by 20%, introducing a faster **Sol Fast** tier with up to 2.5× lower latency at double the price, improving agent workflow costs by roughly 10×. The **ARC-AGI-3** debate highlighted that the complete agent system, including",
+      "publishedAt": "2026-07-30T05:44:39.000Z",
+      "category": "tech",
+      "source": "Smol AI News"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "excerpt": "a quiet day.",
+      "publishedAt": "2026-10-03T08:45:15.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "Latent Space 的 AINews 简报称当日AI领域没有发生重大事件，整体较为平静，作者以“quiet day”概括当天动态，属于日常更新。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "url": "https://www.latent.space/p/airbnb",
+      "excerpt": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
+      "publishedAt": "2026-10-02T14:04:49.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "前Meta Llama负责人Ahmad Al-Dahle加入Airbnb后，正利用AI全面改造公司，从内部产品开发流程到客户体验，实现“由内而外”的AI转型。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "excerpt": "the minimalist harness goes stable... and TypeScript!",
+      "publishedAt": "2026-10-02T06:40:53.000Z",
+      "category": "tech",
+      "source": "Latent Space",
+      "summary": "本期AINews报道Pi 1.0正式发布，Pi Durable 以及 AIE NYC 活动。极简 harness 工具趋于稳定，并增加对 TypeScript 的支持。"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Academia is for Ambition — Alex Zhang, MIT",
+      "url": "https://www.latent.space/p/rlm",
+      "excerpt": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+      "publishedAt": "2026-10-02T00:28:04.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "excerpt": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+      "publishedAt": "2026-10-01T06:45:05.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "url": "https://www.latent.space/p/devday-2026",
+      "excerpt": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+      "publishedAt": "2026-09-30T22:23:40.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "excerpt": "the most confident DevDay yet.",
+      "publishedAt": "2026-09-30T05:53:10.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "excerpt": "Congrats team!",
+      "publishedAt": "2026-09-29T02:55:27.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "excerpt": "a rare feature of a capability",
+      "publishedAt": "2026-09-29T02:44:29.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+      "url": "https://www.latent.space/p/thariq",
+      "excerpt": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+      "publishedAt": "2026-09-29T01:48:18.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+      "url": "https://www.latent.space/p/openrouter",
+      "excerpt": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
+      "publishedAt": "2026-09-25T23:14:41.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] The Future of Latent Space",
+      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "excerpt": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+      "publishedAt": "2026-09-25T05:37:00.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+      "url": "https://www.latent.space/p/runway",
+      "excerpt": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
+      "publishedAt": "2026-09-25T01:30:57.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Foundries vs Navigators: Lowering the Cost of Science",
+      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+      "excerpt": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+      "publishedAt": "2026-09-24T15:03:16.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "excerpt": "Team Zuck is absolutely on fire.",
+      "publishedAt": "2026-09-24T08:12:59.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "excerpt": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+      "publishedAt": "2026-09-23T13:27:18.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "excerpt": "overshadowing more efficient GPT6 models from OpenAI",
+      "publishedAt": "2026-09-23T06:41:41.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "url": "https://www.latent.space/p/john-platt",
+      "excerpt": "We talked to Google’s Oscar winning “Giganerd” about automating science, solving climate change, and how future generations can contribute to science in the age of superintelligent AI",
+      "publishedAt": "2026-09-22T21:07:39.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "excerpt": "crowning a new Chinese frontier lab",
+      "publishedAt": "2026-09-22T06:30:56.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "latent-space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev",
+      "excerpt": "The definitive Jev podcast with its lead creator.",
+      "publishedAt": "2026-09-21T22:13:49.000Z",
+      "category": "tech",
+      "source": "Latent Space"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "excerpt": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
+      "publishedAt": "2026-10-05T15:47:52.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "AI系统不断积累和分析数据，但企业AI代理常缺乏知识。知识不同于数据，是对数据在组织情境中含义的理解。本文探讨如何将企业知识连接至AI代理，以提升其实际效用。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "excerpt": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
+      "publishedAt": "2026-10-05T13:29:32.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "文章指出，2026年企业AI的关键问题已不是预测模型能否超越统计预测，而是如何让预测系统基于自身结论自主行动，且不偏离业务意图，这成为代理式AI时代的前沿挑战。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "excerpt": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+      "publishedAt": "2026-10-05T08:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "文章探讨人们对AI的矛盾态度：虽然普遍反感，却又难以抗拒其便利。作者引用Springboards CEO的观点，该公司正构建能产生更多样化回复的大语言模型，以回应这种复杂心理。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "excerpt": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp an",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "在EmTech Future 2026大会上，谷歌研究副总裁Yossi Matias探讨AI如何重塑生物学、基础设施、制造业和科学，并指出AI的最大影响力可能来自与其他领域的交叉融合。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "excerpt": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+      "publishedAt": "2026-10-02T15:49:04.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "文章称企业AI已全面投入运营，模型能力提升速度快于组织吸收能力，成本持续下降。2026年全球AI投资预计达2.5万亿美元，同比增长44%，自主AI正重新定义企业智能。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "excerpt": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI",
+      "summary": "作者以2016年首尔围棋人机大战中AlphaGo第37手为例，指出大语言模型虽然表现惊人，但并非真正具备推理能力，提醒人们不要被表面智能所迷惑。"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "excerpt": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+      "publishedAt": "2026-09-30T10:40:30.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "excerpt": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+      "publishedAt": "2026-09-29T10:43:45.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "excerpt": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
+      "publishedAt": "2026-09-28T22:17:07.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "mit-tech-review-ai",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
+      "publishedAt": "2026-09-28T17:03:16.000Z",
+      "category": "tech",
+      "source": "MIT Tech Review AI"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "How To Hire A Grok Bot: Experience From The First Zero Human Company.",
+      "url": "https://x.com/BrianRoemmele/status/2106815617466855807",
+      "excerpt": "You do not build a Grok Bot. You hire one. The difference is the whole article. A chatbot answers a question and forgets the room. A Grok Bot has a name, a job, a conversation that persists, and a",
+      "publishedAt": "2026-10-04T18:36:00.000Z",
+      "category": "tech",
+      "meta": "@BrianRoemmele · 489.9K 粉丝 · 1.1M 阅 · 533 赞 · 85 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "博主来自首家“零人类公司”，分享如何“雇佣”而非构建Grok Bot。关键差异：普通聊天机器人答完即忘，而Grok Bot拥有名字、岗位和持续对话记忆，可视为真正的数字员工。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "He Who Controls the Compute Controls the Universe ",
+      "url": "https://x.com/stevenmarkryan/status/2106979185919176985",
+      "excerpt": "Incredible things are happening in AI. What’s more incredible is that it’s still EXTREMELY early. As in, Day 0.000. Things are only going to get crazier from here. In case you’ve been living under a",
+      "publishedAt": "2026-10-05T05:25:58.000Z",
+      "category": "tech",
+      "meta": "@stevenmarkryan · 458.8K 粉丝 · 124.9K 阅 · 541 赞 · 84 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "作者感叹AI进展惊人，但强调仍处于极端早期（Day 0.000），未来只会更疯狂。标题点出核心观点：控制算力者控制宇宙——算力才是AI竞赛的底层资源。属于宏观趋势判断。"
+    },
+    {
+      "sourceId": "attentionvc-ai",
+      "title": "Every language learner gets a tutor now",
+      "url": "https://x.com/TryLiveAvatar/status/2107180306390544775",
+      "excerpt": "The best way to learn a language was always a patient tutor. For the first time, everyone can have one. Here's what that changes for learners, teachers and schools. The hardest part is speaking Ask",
+      "publishedAt": "2026-10-05T18:45:09.000Z",
+      "category": "tech",
+      "meta": "@TryLiveAvatar · 1.1K 粉丝 · 123.4K 阅 · 692 赞 · 188 转",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "作者指出语言学习的最佳方式始终是一对一耐心私教，现在AI让每个人都能拥有。内容探讨这对学习者、教师和学校带来的改变，并强调最难的是开口说——AI正从“对话陪练”切入教育场景。"
+    }
+  ]
+}
